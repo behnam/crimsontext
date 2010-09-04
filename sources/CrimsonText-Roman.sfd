@@ -21,7 +21,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1270926789
-ModificationTime: 1283055702
+ModificationTime: 1283530973
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -159,7 +159,7 @@ DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
 WidthSeparation: 78
-WinInfo: 660 15 11
+WinInfo: 330 15 11
 BeginPrivate: 9
 BlueValues 39 [-10 0 433 437 640 645 658 668 693 696]
 OtherBlues 11 [-228 -227]
@@ -9862,25 +9862,24 @@ EndChar
 
 StartChar: iota
 Encoding: 953 953 360
-Width: 204
+Width: 244
 Flags: W
-HStem: -3 63<80.7106 154.375> 413 20G<54 62>
-VStem: 34 75<155.595 419.952> 34 67<62.1681 335.549>
+HStem: -3 63<97.7106 171.375> 413 20G<71 79>
+VStem: 51 75<155.595 419.952> 51 67<62.1681 335.549>
 LayerCount: 2
 Fore
 SplineSet
-105 -3 m 3xd0
- 58 -3 34 39 34 89 c 0xd0
- 34 112 34 288 34 416 c 17
- 41 426 49 433 59 433 c 0
- 65 433 109 412 109 397 c 9xe0
- 106 282 103 201 101 101 c 0
- 100 73 115 60 137 60 c 0
- 149 60 163 61 169 65 c 1
- 176 60 176 53 176 48 c 1
- 176 40 142 -3 105 -3 c 3xd0
+122 -3 m 3xd0
+ 75 -3 51 39 51 89 c 0xd0
+ 51 112 51 288 51 416 c 17
+ 58 426 66 433 76 433 c 0
+ 82 433 126 412 126 397 c 9xe0
+ 123 282 120 201 118 101 c 0
+ 117 73 132 60 154 60 c 0
+ 166 60 180 61 186 65 c 1
+ 193 60 193 53 193 48 c 1
+ 193 40 159 -3 122 -3 c 3xd0
 EndSplineSet
-Validated: 33
 EndChar
 
 StartChar: kappa
@@ -10412,14 +10411,14 @@ EndChar
 
 StartChar: iotadieresis
 Encoding: 970 970 377
-Width: 204
-HStem: -3 63<80.7106 154.375> 413 20<54 62> 498 98<-73.4824 8.79883 109.518 191.799>
-VStem: -82.5 100<506.719 586.943> 34 67<62.1681 335.549> 34 75<155.595 419.952> 100.5 100<506.719 586.943>
+Width: 244
+Flags: HW
+HStem: -3 63<97.7106 171.375> 413 20<71 79> 498 98<-56.4824 25.7988 126.518 208.799>
+VStem: -65.5 100<506.719 586.943> 51 67<62.1681 335.549> 51 75<155.595 419.952> 117.5 100<506.719 586.943>
 LayerCount: 2
 Fore
-Refer: 103 168 N 1 0 0 1 -109.5 30 2
+Refer: 103 168 N 1 0 0 1 -92.5 30 2
 Refer: 360 953 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: upsilondieresis
@@ -11063,7 +11062,7 @@ EndChar
 StartChar: dagger
 Encoding: 8224 8224 424
 Width: 430
-Flags: WO
+Flags: W
 HStem: 440 75<43.3547 157.458 252.542 366.645>
 VStem: 164 82<535.422 657.648> 189 32<-12.5766 199.688 401.42 456.696 493.673 596.211>
 LayerCount: 2
@@ -34048,9 +34047,8 @@ StartChar: alphatonos
 Encoding: 940 940 1377
 Width: 499
 VWidth: 0
-Flags: H
-HStem: -9 40<105.022 181.501> -3 75<344.196 432.184> 365 72<176.938 259.914> 498 160
-VStem: 29 61<52.8767 239.517> 203 168 290 38<279 331.133> 379 56<373.928 403.439>
+HStem: -9 40<94.7915 177.976> -3 75<344.196 432.184> 370 67<164.714 254.363> 498 160
+VStem: 19 59<57.2891 236.166> 203 168 290 38<279 298> 379 56<373.928 403.439>
 LayerCount: 2
 Fore
 Refer: 1378 900 N 1 0 0 1 157 -29 2
@@ -34084,15 +34082,15 @@ EndChar
 
 StartChar: iotatonos
 Encoding: 943 943 1380
-Width: 204
+Width: 244
 VWidth: 0
-HStem: -3 63<80.7106 154.375> 413 20<54 62> 498 160
-VStem: 28 168 34 67<62.1681 335.549> 34 75<155.595 419.952>
+Flags: HW
+HStem: -3 63<97.7106 171.375> 413 20<71 79> 498 160
+VStem: 45 168 51 67<62.1681 335.549> 51 75<155.595 419.952>
 LayerCount: 2
 Fore
-Refer: 1378 900 N 1 0 0 1 -18 -29 2
+Refer: 1378 900 N 1 0 0 1 -1 -29 2
 Refer: 360 953 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: upsilondieresistonos

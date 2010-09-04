@@ -20,6 +20,13 @@ Crimson Text is released under the terms of the Open Font License, available at 
 
 ========== CHANGELOG ===========
 
+Changes (2010-August-31):
+
+- Reworked the entire Roman and Bold, generated most of Semibold. (excl. small caps, though)
+- Reworked lining numerals in the Roman and Italic; new oldstyle figures in the Italic as well
+- A complete new Italic, thanks to Alan Robiette's suggestions. Changes will be reviewed and then adopted in BI and SBI
+
+
 Changes (2010-August-19):
 
 - Fixed some letters and numerals in Regular Roman & Italic. Looks a lot better now.
