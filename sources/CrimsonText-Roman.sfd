@@ -160,7 +160,7 @@ DisplaySize: -24
 AntiAlias: 1
 FitToEm: 1
 WidthSeparation: 78
-WinInfo: 360 15 11
+WinInfo: 300 15 11
 BeginPrivate: 9
 BlueValues 39 [-10 0 433 437 640 645 658 668 693 696]
 OtherBlues 11 [-228 -227]
@@ -10367,7 +10367,7 @@ EndChar
 StartChar: phi
 Encoding: 966 966 373
 Width: 578
-Flags: WO
+Flags: W
 HStem: -228 21G<310 318> -14 68<174.385 363.468> 378 54<348.42 446.494> 390 42<222.219 236.516>
 VStem: 29 54<116.493 261.769> 253 63<-209.944 342.787> 489 56<159.807 314.937>
 LayerCount: 2
