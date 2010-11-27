@@ -1,9 +1,9 @@
 SplineFontDB: 3.0
-FontName: CrimsonText-Roman
-FullName: Crimson Text
-FamilyName: Crimson Text
+FontName: Crimson-Roman
+FullName: Crimson
+FamilyName: Crimson
 Weight: Roman
-Copyright: Copyright (c) 2010, Sebastian Kosch (sebastian@aldusleaf.org),\nwith Reserved Font Name "Crimson Text".\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\nThis license is available with a FAQ at: http://scripts.sil.org/OFL
+Copyright: Copyright (c) 2010, Sebastian Kosch (sebastian@aldusleaf.org),\nwith Reserved Font Name "Crimson".\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\nThis license is available with a FAQ at: http://scripts.sil.org/OFL
 Version: 0.13
 ItalicAngle: 0
 UnderlinePosition: -112
@@ -151,7 +151,7 @@ MacName: 0 2 15 "Normale Ziffern"
 MacName: 0 3 12 "Tradizionale"
 MacName: 0 4 13 "Grote nummers"
 EndMacFeatures
-LangName: 1033 "" "" "" "FontForge : Crimson Text : 28-7-2010" "" "" "" "" "" "" "" "" "" "" "http://scripts.sil.org/OFL" 
+LangName: 1033 "" "" "" "FontForge : Crimson : 28-7-2010" "" "" "" "" "" "" "" "" "" "" "http://scripts.sil.org/OFL" 
 Encoding: UnicodeBmp
 Compacted: 1
 UnicodeInterp: none

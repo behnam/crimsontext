@@ -1,6 +1,6 @@
 import fontforge
 
-f = fontforge.open("CrimsonText-Roman.sfd")
+f = fontforge.open("Crimson-Roman.sfd")
 
 chars = [
 "zero",
@@ -224,4 +224,4 @@ for char in chars:
         print char
         newChar.addReference(char)
 
-f.save("CrimsonText-Roman.sfd")
+f.save("Crimson-Roman.sfd")
