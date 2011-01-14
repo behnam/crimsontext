@@ -1,0 +1,33 @@
+lookup loclDEU {
+    sub f by f.deu ;
+} loclDEU;
+
+
+lookup loclTRK {
+# cf. http://typophile.com/node/17787
+    sub i by i.TRK;
+} loclTRK;
+
+lookup loclROM {
+ sub Scedilla by uni0218;
+ sub scedilla by uni0219;
+ sub uni0162 by uni021A;
+ sub uni0163 by uni021B; 
+ # uni0162 and 0163 should contain the connected cedilla for coherence in romanian texts, when no OT-features can be applied!
+} loclROM;
+
+feature locl {
+  script latn;
+     language DEU  exclude_dflt;
+      lookup loclDEU;
+     language TRK  exclude_dflt;
+      lookup loclTRK;
+     language AZE  exclude_dflt;
+      lookup loclTRK;
+     language CRT  exclude_dflt;
+      lookup loclTRK;
+     language ROM  exclude_dflt;
+      lookup loclROM;
+     language MOL  exclude_dflt;
+      lookup loclROM;
+} locl;

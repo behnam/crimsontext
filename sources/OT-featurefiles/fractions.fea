@@ -1,0 +1,13 @@
+lookup frac_slash {
+ sub slash by fraction;
+} frac_slash;
+
+lookup frac {
+ sub [ slash fraction @numbers @numbers_subs ] @numbers' by @numbers_subs;
+ sub @numbers' [ slash fraction @numbers @numbers_ordn ] by @numbers_ordn;
+} frac;
+
+feature frac {
+ lookup frac_slash;
+ lookup frac;
+} frac;

@@ -1,0 +1,13 @@
+lookup calt {
+ sub f' [ @accented_high @ascender ] by f.short;
+ sub f.deu' [ @accented_high @ascender ] by f.short;
+ sub f' afii61664 [ @accented_high @ascender ] by f.short;
+ sub f.deu' afii61664 [ @accented_high @ascender ] by f.short;
+ # f_f.short fehlt!
+ # sub f_f' [ @accented_high @ascender ] by f_f.short;
+ # sub f_f' afii61664 [ @accented_high @ascender ] by f_f.short;
+} calt;
+
+feature calt {
+ lookup calt;
+} calt;

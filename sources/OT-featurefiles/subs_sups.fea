@@ -1,0 +1,39 @@
+lookup subs {
+ sub @subsup_basis by @subs;
+} subs;
+
+lookup sinf {
+ sub @subsup_basis by @sinf;
+} sinf;
+
+lookup sups {
+ sub @subsup_basis by @sups;
+} sups;
+
+lookup ordn {
+ sub @subsup_basis by @ordn;
+} ordn;
+
+feature subs {
+ lookup subs;
+} subs;
+
+feature dnom {
+ lookup subs;
+} dnom;
+
+feature ordn {
+ lookup ordn;
+} ordn;
+
+feature numr {
+ lookup ordn;
+} numr;
+
+feature sups {
+ lookup sups;
+} sups;
+
+feature sinf {
+ lookup sinf;
+} sinf;

@@ -1,0 +1,33 @@
+lookup liga {
+ sub f f by f_f;
+ sub f.deu f.deu by f_f;
+ sub [f f.deu] i by f_i;
+ sub f f i by f_f_i;
+ sub f.deu f.deu i by f_f_i;
+ sub [f f.deu] l by f_l;
+ sub f f l by f_f_l;
+ sub f b  by f_b;
+ sub f f b  by f_f_b;
+ sub f k  by f_k;
+ sub f f k  by f_f_k;
+ sub f h  by f_h;
+ sub f f h  by f_f_h;
+ sub f j  by f_j;
+ sub f f j  by f_f_j;
+ sub T h  by T_h;
+ sub f.deu afii301 f.deu afii301 l by f_f_l;
+ sub f.deu afii301 b  by f_b;
+ sub f.deu afii301 f.deu afii301 b  by f_f_b;
+ sub f.deu afii301 k  by f_k;
+ sub f.deu afii301 f.deu afii301 k  by f_f_k;
+ sub f.deu afii301 h  by f_h;
+ sub f.deu afii301 f.deu afii301 h  by f_f_h;
+ sub f.deu afii301 j  by f_j;
+ sub f.deu afii301 f.deu afii301 j  by f_f_j;
+ # f_t and f_f_t are missing!
+ # longs-ligatures are missing 
+} liga;
+
+feature liga {
+ lookup liga;
+} liga;

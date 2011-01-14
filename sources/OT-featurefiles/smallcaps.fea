@@ -1,0 +1,15 @@
+lookup smcp {
+ sub @smcp_basis by @smcp;
+} smcp;
+
+#lookup c2sc {
+# sub @c2sc_basis by @c2sc;
+#} c2sc;
+
+feature smcp {
+ lookup smcp;
+} smcp;
+
+#feature c2sc {
+# lookup c2sc;
+#} c2sc;

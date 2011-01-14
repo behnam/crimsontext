@@ -1,0 +1,19 @@
+languagesystem DFLT dflt;
+languagesystem cyrl dflt;
+languagesystem grek dflt;
+languagesystem latn dflt;
+languagesystem latn DEU ; # german/deutsch
+languagesystem latn TRK ; # turkish/türkçe
+languagesystem latn AZE ; # azerbaijani/azərbaycanca
+languagesystem latn CRT ; # crimean tatar/qırımtatarca
+languagesystem latn ROM ; # romanian/română
+languagesystem latn MOL ; # moldavian/moldovenească
+
+include (roman_glyphclasses.fea)
+include (locl.fea)
+include (subs_sups.fea)
+include (fractions.fea)
+include (numbers.fea)
+include (smallcaps.fea)
+include (ligatures.fea)
+include (calt.fea)
