@@ -20,7 +20,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1270926789
-ModificationTime: 1295048891
+ModificationTime: 1295209311
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -72,41 +72,44 @@ Lookup: 1 0 0 "tnum"  {"tnum subtable"  } ['tnum' ('latn' <'dflt' 'DEU ' 'TRK ' 
 Lookup: 1 0 0 "zero"  {"zero subtable"  } ['zero' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'ROM ' 'MOL ' > 'grek' <'dflt' > 'cyrl' <'dflt' > 'DFLT' <'dflt' > ) ]
 Lookup: 1 0 0 "smcp"  {"smcp subtable"  } ['smcp' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'ROM ' 'MOL ' > 'grek' <'dflt' > 'cyrl' <'dflt' > 'DFLT' <'dflt' > ) ]
 Lookup: 4 0 1 "liga"  {"liga subtable"  } ['liga' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'ROM ' 'MOL ' > 'grek' <'dflt' > 'cyrl' <'dflt' > 'DFLT' <'dflt' > ) ]
-Lookup: 6 0 0 "calt"  {"calt contextual 0"  "calt contextual 1"  "calt contextual 2"  "calt contextual 3"  } ['calt' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'ROM ' 'MOL ' > 'grek' <'dflt' > 'cyrl' <'dflt' > 'DFLT' <'dflt' > ) ]
+Lookup: 6 0 0 "fshort"  {"fshort contextual 0"  "fshort contextual 1"  "fshort contextual 2"  } ['calt' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'ROM ' 'MOL ' > 'grek' <'dflt' > 'cyrl' <'dflt' > 'DFLT' <'dflt' > ) ]
 Lookup: 1 0 0 "Single Substitution lookup 19"  {"Single Substitution lookup 19 subtable"  } []
 Lookup: 1 0 0 "Single Substitution lookup 20"  {"Single Substitution lookup 20 subtable"  } []
 Lookup: 1 0 0 "Single Substitution lookup 21"  {"Single Substitution lookup 21 subtable"  } []
-Lookup: 1 0 0 "Single Substitution lookup 22"  {"Single Substitution lookup 22 subtable"  } []
+Lookup: 6 0 0 "Qlong"  {"Qlong subtable"  } ['calt' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'ROM ' 'MOL ' > 'grek' <'dflt' > 'cyrl' <'dflt' > 'DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "Single Substitution lookup 23"  {"Single Substitution lookup 23 subtable"  } []
+Lookup: 1 0 0 "AE"  {"AE subtable"  } ['cv01' ('latn' <'dflt' 'DEU ' 'TRK ' 'AZE ' 'CRT ' 'ROM ' 'MOL ' > 'grek' <'dflt' > 'cyrl' <'dflt' > 'DFLT' <'dflt' > ) ]
 Lookup: 258 0 0 "'kern' Horizontal Kerning lookup 0"  {"'kern' Horizontal Kerning lookup 0-1" [153,15,0] } ['kern' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'FRA ' 'ITA ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
-ChainSub2: coverage "calt contextual 3"  0 0 0 1
+ChainSub2: coverage "Qlong subtable"  0 0 0 1
  1 0 2
-  Coverage: 5 f.deu
-  FCoverage: 9 afii61664
-  FCoverage: 816 agrave aacute acircumflex atilde adieresis aring egrave eacute ecircumflex edieresis igrave iacute icircumflex idieresis ntilde ograve oacute ocircumflex otilde odieresis ugrave uacute ucircumflex udieresis yacute amacron abreve cacute ccircumflex cdotaccent ccaron emacron ebreve edotaccent ecaron gcircumflex gbreve gdotaccent gcommaaccent hcircumflex hbar itilde imacron ibreve iogonek i.TRK ij jcircumflex kcommaaccent lacute lcommaaccent lcaron ldot lslash nacute ncommaaccent ncaron omacron obreve ohungarumlaut racute rcommaaccent rcaron sacute scircumflex scaron utilde umacron ubreve uring uhungarumlaut wcircumflex ycircumflex ydieresis zacute zdotaccent uni01CE uni01D0 uni01D2 uni01D4 uni01D6 uni01D8 uni01DA uni01DC uni01E3 aringacute aeacute oslashacute uni0233 i.TRK b f h i j k l eth thorn germandbls
+  Coverage: 1 Q
+  FCoverage: 805 a b c d e f h i k l m n o r s t u v w x z germandbls agrave aacute acircumflex atilde adieresis aring ae eth egrave eacute ecircumflex edieresis igrave iacute icircumflex idieresis ntilde ograve oacute ocircumflex otilde odieresis oslash ugrave uacute ucircumflex udieresis amacron abreve cacute ccircumflex cdotaccent ccaron dcaron dcroat emacron ebreve edotaccent ecaron hcircumflex hbar itilde imacron ibreve i.TRK dotlessi kgreenlandic lacute lcaron ldot lslash nacute ncaron omacron obreve ohungarumlaut oe racute rcaron sacute scircumflex scaron tcaron tbar utilde umacron ubreve uring uhungarumlaut wcircumflex zacute zdotaccent zcaron longs uni01CE uni01D0 uni01D2 uni01D4 uni01D6 uni01D8 uni01DA uni01DC uni01E3 aringacute aeacute oslashacute f_f f_i f_f_i f_l f_f_l f_b f_f_b f_k f_f_k f_h f_f_h
+  FCoverage: 807 a b c d e f h i k l m n o r s t u v w x z germandbls agrave aacute acircumflex atilde adieresis aring ae eth egrave eacute ecircumflex edieresis igrave iacute icircumflex idieresis ntilde ograve oacute ocircumflex otilde odieresis oslash ugrave uacute ucircumflex udieresis amacron abreve cacute ccircumflex cdotaccent ccaron dcaron dcroat emacron ebreve edotaccent ecaron hcircumflex hbar itilde imacron ibreve i.TRK dotlessi kgreenlandic lacute lcaron ldot lslash nacute ncaron omacron obreve ohungarumlaut oe racute rcaron sacute scircumflex scaron tcaron tbar utilde umacron ubreve uring uhungarumlaut wcircumflex zacute zdotaccent zcaron longs uni01CE uni01D0 uni01D2 uni01D4 uni01D6 uni01D8 uni01DA uni01DC uni01E3 aringacute aeacute oslashacute f_f f_i f_f_i f_l f_f_l f_b f_f_b f_k f_f_k f_h f_f_h q
  1
-  SeqLookup: 0 "Single Substitution lookup 22" 
+  SeqLookup: 0 "Single Substitution lookup 23" 
 EndFPST
-ChainSub2: coverage "calt contextual 2"  0 0 0 1
+ChainSub2: coverage "fshort contextual 2"  0 0 0 1
  1 0 2
-  Coverage: 1 f
+  Coverage: 7 f f.deu
   FCoverage: 9 afii61664
   FCoverage: 816 agrave aacute acircumflex atilde adieresis aring egrave eacute ecircumflex edieresis igrave iacute icircumflex idieresis ntilde ograve oacute ocircumflex otilde odieresis ugrave uacute ucircumflex udieresis yacute amacron abreve cacute ccircumflex cdotaccent ccaron emacron ebreve edotaccent ecaron gcircumflex gbreve gdotaccent gcommaaccent hcircumflex hbar itilde imacron ibreve iogonek i.TRK ij jcircumflex kcommaaccent lacute lcommaaccent lcaron ldot lslash nacute ncommaaccent ncaron omacron obreve ohungarumlaut racute rcommaaccent rcaron sacute scircumflex scaron utilde umacron ubreve uring uhungarumlaut wcircumflex ycircumflex ydieresis zacute zdotaccent uni01CE uni01D0 uni01D2 uni01D4 uni01D6 uni01D8 uni01DA uni01DC uni01E3 aringacute aeacute oslashacute uni0233 i.TRK b f h i j k l eth thorn germandbls
  1
   SeqLookup: 0 "Single Substitution lookup 21" 
 EndFPST
-ChainSub2: coverage "calt contextual 1"  0 0 0 1
- 1 0 1
-  Coverage: 5 f.deu
-  FCoverage: 816 agrave aacute acircumflex atilde adieresis aring egrave eacute ecircumflex edieresis igrave iacute icircumflex idieresis ntilde ograve oacute ocircumflex otilde odieresis ugrave uacute ucircumflex udieresis yacute amacron abreve cacute ccircumflex cdotaccent ccaron emacron ebreve edotaccent ecaron gcircumflex gbreve gdotaccent gcommaaccent hcircumflex hbar itilde imacron ibreve iogonek i.TRK ij jcircumflex kcommaaccent lacute lcommaaccent lcaron ldot lslash nacute ncommaaccent ncaron omacron obreve ohungarumlaut racute rcommaaccent rcaron sacute scircumflex scaron utilde umacron ubreve uring uhungarumlaut wcircumflex ycircumflex ydieresis zacute zdotaccent uni01CE uni01D0 uni01D2 uni01D4 uni01D6 uni01D8 uni01DA uni01DC uni01E3 aringacute aeacute oslashacute uni0233 i.TRK b f h i j k l eth thorn germandbls
+ChainSub2: coverage "fshort contextual 1"  0 0 0 1
+ 1 0 2
+  Coverage: 7 f f.deu
+  FCoverage: 37 a c e g i m n o p q r s t u v w x y z
+  FCoverage: 139 gravecomb acutecomb uni0302 tildecomb uni0304 uni0305 uni0306 uni0307 uni0308 hookabovecomb uni030A uni030B uni030B uni0312 uni0314 uni0315
  1
   SeqLookup: 0 "Single Substitution lookup 20" 
 EndFPST
-ChainSub2: coverage "calt contextual 0"  0 0 0 1
+ChainSub2: coverage "fshort contextual 0"  0 0 0 1
  1 0 1
-  Coverage: 1 f
-  FCoverage: 816 agrave aacute acircumflex atilde adieresis aring egrave eacute ecircumflex edieresis igrave iacute icircumflex idieresis ntilde ograve oacute ocircumflex otilde odieresis ugrave uacute ucircumflex udieresis yacute amacron abreve cacute ccircumflex cdotaccent ccaron emacron ebreve edotaccent ecaron gcircumflex gbreve gdotaccent gcommaaccent hcircumflex hbar itilde imacron ibreve iogonek i.TRK ij jcircumflex kcommaaccent lacute lcommaaccent lcaron ldot lslash nacute ncommaaccent ncaron omacron obreve ohungarumlaut racute rcommaaccent rcaron sacute scircumflex scaron utilde umacron ubreve uring uhungarumlaut wcircumflex ycircumflex ydieresis zacute zdotaccent uni01CE uni01D0 uni01D2 uni01D4 uni01D6 uni01D8 uni01DA uni01DC uni01E3 aringacute aeacute oslashacute uni0233 i.TRK b f h i j k l eth thorn germandbls
+  Coverage: 7 f f.deu
+  FCoverage: 3393 agrave aacute acircumflex atilde adieresis aring egrave eacute ecircumflex edieresis igrave iacute icircumflex idieresis ntilde ograve oacute ocircumflex otilde odieresis ugrave uacute ucircumflex udieresis yacute amacron abreve cacute ccircumflex cdotaccent ccaron emacron ebreve edotaccent ecaron gcircumflex gbreve gdotaccent gcommaaccent hcircumflex hbar itilde imacron ibreve iogonek i.TRK ij jcircumflex kcommaaccent lacute lcommaaccent lcaron ldot lslash nacute ncommaaccent ncaron omacron obreve ohungarumlaut racute rcommaaccent rcaron sacute scircumflex scaron utilde umacron ubreve uring uhungarumlaut wcircumflex ycircumflex ydieresis zacute zdotaccent uni01CE uni01D0 uni01D2 uni01D4 uni01D6 uni01D8 uni01DA uni01DC uni01E3 aringacute aeacute oslashacute uni0233 i.TRK b f h i j k l eth thorn germandbls space exclam quotedbl dollar percent ampersand quotesingle parenleft parenright asterisk plus greater question at bracketleft backslash bracketright asciicircum grave braceleft bar braceright sterling currency yen brokenbar section ordfeminine plusminus paragraph uni00B9 ordmasculine onequarter onehalf threequarters multiply divide quoteleft quoteright quotesinglbase quotedblleft quotedblright quotedblbase dagger daggerdbl ellipsis perthousand minute second guilsinglleft guilsinglright lira Euro arrowup arrowdown universal uni2206 gradient summation uni2213 lessequal greaterequal a.ssup b.ssup c.ssup d.ssup e.ssup f.ssup g.ssup h.ssup i.ssup j.ssup k.ssup l.ssup m.ssup n.ssup o.ssup p.ssup q.ssup r.ssup s.ssup t.ssup u.ssup v.ssup w.ssup x.ssup y.ssup z.ssup A.ssup B.ssup C.ssup D.ssup E.ssup F.ssup G.ssup H.ssup I.ssup J.ssup K.ssup L.ssup M.ssup N.ssup O.ssup P.ssup Q.ssup R.ssup S.ssup T.ssup U.ssup V.ssup W.ssup X.ssup Y.ssup Z.ssup zero.ssup one.ssup two.ssup three.ssup four.ssup five.ssup six.ssup seven.ssup eight.ssup nine.ssup exclam.ssup percent.ssup parenleft.ssup parenright.ssup plus.ssup comma.ssup hyphen.ssup period.ssup slash.ssup colon.ssup semicolon.ssup less.ssup equal.ssup greater.ssup question.ssup bracketleft.ssup backslash.ssup bracketright.ssup braceleft.ssup bar.ssup braceright.ssup asciitilde.ssup brokenbar.ssup section.ssup paragraph.ssup dagger.ssup daggerdbl.ssup uni2016.ssup egrave.ssup Egrave.ssup f.ssup a.ordn b.ordn c.ordn d.ordn e.ordn f.ordn g.ordn h.ordn i.ordn j.ordn k.ordn l.ordn m.ordn n.ordn o.ordn p.ordn q.ordn r.ordn s.ordn t.ordn u.ordn v.ordn w.ordn x.ordn y.ordn z.ordn A.ordn B.ordn C.ordn D.ordn E.ordn F.ordn G.ordn H.ordn I.ordn J.ordn K.ordn L.ordn M.ordn N.ordn O.ordn P.ordn Q.ordn R.ordn S.ordn T.ordn U.ordn V.ordn W.ordn X.ordn Y.ordn Z.ordn zero.ordn one.ordn two.ordn three.ordn four.ordn five.ordn six.ordn seven.ordn eight.ordn nine.ordn exclam.ordn percent.ordn parenleft.ordn parenright.ordn plus.ordn comma.ordn hyphen.ordn period.ordn slash.ordn colon.ordn semicolon.ordn less.ordn equal.ordn greater.ordn question.ordn bracketleft.ordn backslash.ordn bracketright.ordn braceleft.ordn bar.ordn braceright.ordn asciitilde.ordn brokenbar.ordn section.ordn paragraph.ordn dagger.ordn daggerdbl.ordn uni2016.ordn egrave.ordn Egrave.ordn f.ordn zero one two three four five six seven eight nine zero.prop one.prop two.prop three.prop four.prop five.prop six.prop seven.prop eight.prop nine.prop zero.onum one.onum two.onum three.onum four.onum five.onum six.onum seven.onum eight.onum nine.onum
  1
   SeqLookup: 0 "Single Substitution lookup 19" 
 EndFPST
@@ -177,7 +180,7 @@ DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
 WidthSeparation: 78
-WinInfo: 8145 15 11
+WinInfo: 7875 15 11
 BeginPrivate: 9
 BlueValues 39 [-10 0 433 437 640 645 658 668 693 696]
 OtherBlues 11 [-228 -227]
@@ -2163,6 +2166,7 @@ SplineSet
  556 -41 588 -84 692 -84 c 0
 EndSplineSet
 Validated: 1
+Substitution2: "Single Substitution lookup 23 subtable" Q.alt01
 Substitution2: "ordn subtable" Q.ordn
 Substitution2: "sups subtable" Q.ssup
 Substitution2: "sinf subtable" Q.sinf
@@ -3010,6 +3014,7 @@ SplineSet
 EndSplineSet
 Validated: 1
 Substitution2: "Single Substitution lookup 21 subtable" f.short
+Substitution2: "Single Substitution lookup 20 subtable" f.short
 Substitution2: "Single Substitution lookup 19 subtable" f.short
 Substitution2: "smcp subtable" f.sc
 Substitution2: "ordn subtable" f.ordn
@@ -5348,6 +5353,7 @@ SplineSet
  470 246 433 247 408 247 c 4
 EndSplineSet
 Validated: 1
+Substitution2: "AE subtable" AE.alt01
 EndChar
 
 StartChar: Ccedilla
@@ -45027,17 +45033,30 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 70 102 S 1 0 0 1 0 0 2
-Substitution2: "Single Substitution lookup 22 subtable" f.short
+Substitution2: "Single Substitution lookup 21 subtable" f.short
 Substitution2: "Single Substitution lookup 20 subtable" f.short
+Substitution2: "Single Substitution lookup 19 subtable" f.short
 Substitution2: "smcp subtable" f.sc
+Substitution2: "ordn subtable" f.ordn
+Substitution2: "sups subtable" f.ssup
+Substitution2: "sinf subtable" f.sinf
+Substitution2: "subs subtable" f.subs
 EndChar
 
 StartChar: uni2016
 Encoding: 8214 8214 1796
-Width: 982
+Width: 406
 VWidth: 0
-Flags: WO
+Flags: W
+VStem: 100 64<-115.908 764.903> 242 64<-115.908 764.903>
 LayerCount: 2
+Fore
+Refer: 92 124 N 1 0 0 1 142 0 2
+Refer: 92 124 N 1 0 0 1 0 0 2
+Substitution2: "ordn subtable" uni2016.ordn
+Substitution2: "sups subtable" uni2016.ssup
+Substitution2: "sinf subtable" uni2016.sinf
+Substitution2: "subs subtable" uni2016.subs
 EndChar
 EndChars
 EndSplineFont

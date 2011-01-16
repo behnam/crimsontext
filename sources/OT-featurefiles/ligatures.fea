@@ -28,6 +28,14 @@ lookup liga {
  # longs-ligatures are missing 
 } liga;
 
+#lookup dlig {
+# sub kappa alpha iota by uni03D7;
+#} dlig;
+
 feature liga {
  lookup liga;
 } liga;
+
+#feature dlig {
+# lookup dlig;
+#} dlig;

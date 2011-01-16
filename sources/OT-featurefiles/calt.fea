@@ -1,13 +1,18 @@
-lookup calt {
- sub f' [ @accented_high @ascender ] by f.short;
- sub f.deu' [ @accented_high @ascender ] by f.short;
- sub f' afii61664 [ @accented_high @ascender ] by f.short;
- sub f.deu' afii61664 [ @accented_high @ascender ] by f.short;
+lookup fshort {
+ sub [f f.deu]' [ @accented_high @ascender space @symbols @sups @ordn @numbers @numbers_prop @numbers_onum ] by f.short;
+ sub [f f.deu]' [ a c e g i m n o p q r s t u v w x y z ] @combiningaccent_high by f.short;
+ sub [f f.deu]' afii61664 [ @accented_high @ascender ] by f.short;
+
  # f_f.short fehlt!
  # sub f_f' [ @accented_high @ascender ] by f_f.short;
  # sub f_f' afii61664 [ @accented_high @ascender ] by f_f.short;
-} calt;
+} fshort;
+
+lookup Qlong {
+ sub Q' @nodescender [ @nodescender q ] by Q.alt01;
+} Qlong;
 
 feature calt {
- lookup calt;
+ lookup fshort;
+ lookup Qlong;
 } calt;

@@ -1,0 +1,7 @@
+lookup AE {
+ sub AE by AE.alt01;
+} AE;
+
+feature cv01 {
+ lookup AE;
+} cv01;

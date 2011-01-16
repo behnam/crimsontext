@@ -4,6 +4,12 @@
 
 @Letters = [ @letters @LETTERS ];
 
+@nodescender = [ a-f h i k-o r-x z germandbls agrave aacute acircumflex atilde adieresis aring ae eth egrave eacute ecircumflex edieresis igrave iacute icircumflex idieresis ntilde ograve oacute ocircumflex otilde odieresis oslash ugrave uacute ucircumflex udieresis amacron abreve cacute ccircumflex cdotaccent ccaron dcaron dcroat emacron ebreve edotaccent ecaron hcircumflex hbar itilde imacron ibreve i.TRK dotlessi kgreenlandic lacute lcaron ldot lslash nacute ncaron omacron obreve ohungarumlaut oe racute rcaron sacute scircumflex scaron tcaron tbar utilde umacron ubreve uring uhungarumlaut wcircumflex zacute zdotaccent zcaron longs uni01CE uni01D0 uni01D2 uni01D4 uni01D6 uni01D8 uni01DA uni01DC uni01E3 aringacute aeacute oslashacute f_f f_i f_f_i f_l f_f_l f_b f_f_b f_k f_f_k f_h f_f_h ];
+
+@nodescender_no_i_l = [ a-f h k m-o r-x z germandbls agrave aacute acircumflex atilde adieresis aring ae eth egrave eacute ecircumflex edieresis ntilde ograve oacute ocircumflex otilde odieresis oslash ugrave uacute ucircumflex udieresis amacron abreve cacute ccircumflex cdotaccent ccaron dcaron dcroat emacron ebreve edotaccent ecaron hcircumflex hbar kgreenlandic nacute ncaron omacron obreve ohungarumlaut oe racute rcaron sacute scircumflex scaron tcaron tbar utilde umacron ubreve uring uhungarumlaut wcircumflex zacute zdotaccent zcaron longs uni01CE uni01D2 uni01D4 uni01D6 uni01D8 uni01DA uni01DC uni01E3 aringacute aeacute oslashacute ];
+
+@nodescender_i_l = [ i l igrave iacute icircumflex idieresis itilde imacron ibreve i.TRK dotlessi lacute lcaron ldot lslash uni01D0 ];
+
 @numbers = [ zero one two three four five six seven eight nine ];
 
 @numbers_subs = [ zero.subs one.subs two.subs three.subs four.subs five.subs six.subs seven.subs eight.subs nine.subs ];
@@ -13,20 +19,24 @@
 
 @ascender = [ b f h i j k l eth thorn germandbls ];
 
+@symbols = [ exclam quotedbl dollar percent ampersand quotesingle parenleft parenright asterisk plus greater question at bracketleft backslash bracketright asciicircum grave braceleft bar braceright sterling currency yen brokenbar section ordfeminine plusminus paragraph uni00B9 ordmasculine onequarter onehalf threequarters multiply divide quoteleft quoteright quotesinglbase quotedblleft quotedblright quotedblbase dagger daggerdbl ellipsis perthousand minute second guilsinglleft guilsinglright lira Euro arrowup arrowdown universal uni2206 gradient summation uni2213 lessequal greaterequal ];
+
+@combiningaccent_high = [ gravecomb acutecomb uni0302 tildecomb uni0304 uni0305 uni0306 uni0307 uni0308 hookabovecomb uni030A uni030B uni030B uni0312 uni0314 uni0315 ];
+
 @subsup_basis = [ @Letters @numbers
- exclam percent parenleft parenright plus comma hyphen period slash colon semicolon less equal greater question bracketleft backslash bracketright braceleft bar braceright asciitilde brokenbar section paragraph dagger daggerdbl uni2016 egrave Egrave ];
+ exclam percent parenleft parenright plus comma hyphen period slash colon semicolon less equal greater question bracketleft backslash bracketright braceleft bar braceright asciitilde brokenbar section paragraph dagger daggerdbl uni2016 egrave Egrave f.deu ];
 
 @subs = [ a.subs-z.subs A.subs-Z.subs  @numbers_subs
- exclam.subs percent.subs parenleft.subs parenright.subs plus.subs comma.subs hyphen.subs period.subs slash.subs colon.subs semicolon.subs less.subs equal.subs greater.subs question.subs bracketleft.subs backslash.subs bracketright.subs braceleft.subs bar.subs braceright.subs asciitilde.subs brokenbar.subs section.subs paragraph.subs dagger.subs daggerdbl.subs uni2016.subs egrave.subs Egrave.subs ];
+ exclam.subs percent.subs parenleft.subs parenright.subs plus.subs comma.subs hyphen.subs period.subs slash.subs colon.subs semicolon.subs less.subs equal.subs greater.subs question.subs bracketleft.subs backslash.subs bracketright.subs braceleft.subs bar.subs braceright.subs asciitilde.subs brokenbar.subs section.subs paragraph.subs dagger.subs daggerdbl.subs uni2016.subs egrave.subs Egrave.subs f.subs ];
  
 @sinf = [ a.sinf-z.sinf A.sinf-Z.sinf  zero.sinf one.sinf two.sinf three.sinf four.sinf five.sinf six.sinf seven.sinf eight.sinf nine.sinf 
- exclam.sinf percent.sinf parenleft.sinf parenright.sinf plus.sinf comma.sinf hyphen.sinf period.sinf slash.sinf colon.sinf semicolon.sinf less.sinf equal.sinf greater.sinf question.sinf bracketleft.sinf backslash.sinf bracketright.sinf braceleft.sinf bar.sinf braceright.sinf asciitilde.sinf brokenbar.sinf section.sinf paragraph.sinf dagger.sinf daggerdbl.sinf uni2016.sinf egrave.sinf Egrave.sinf ];
+ exclam.sinf percent.sinf parenleft.sinf parenright.sinf plus.sinf comma.sinf hyphen.sinf period.sinf slash.sinf colon.sinf semicolon.sinf less.sinf equal.sinf greater.sinf question.sinf bracketleft.sinf backslash.sinf bracketright.sinf braceleft.sinf bar.sinf braceright.sinf asciitilde.sinf brokenbar.sinf section.sinf paragraph.sinf dagger.sinf daggerdbl.sinf uni2016.sinf egrave.sinf Egrave.sinf f.sinf ];
  
 @sups = [ a.ssup-z.ssup A.ssup-Z.ssup  zero.ssup one.ssup two.ssup three.ssup four.ssup five.ssup six.ssup seven.ssup eight.ssup nine.ssup 
- exclam.ssup percent.ssup parenleft.ssup parenright.ssup plus.ssup comma.ssup hyphen.ssup period.ssup slash.ssup colon.ssup semicolon.ssup less.ssup equal.ssup greater.ssup question.ssup bracketleft.ssup backslash.ssup bracketright.ssup braceleft.ssup bar.ssup braceright.ssup asciitilde.ssup brokenbar.ssup section.ssup paragraph.ssup dagger.ssup daggerdbl.ssup uni2016.ssup egrave.ssup Egrave.ssup ];
+ exclam.ssup percent.ssup parenleft.ssup parenright.ssup plus.ssup comma.ssup hyphen.ssup period.ssup slash.ssup colon.ssup semicolon.ssup less.ssup equal.ssup greater.ssup question.ssup bracketleft.ssup backslash.ssup bracketright.ssup braceleft.ssup bar.ssup braceright.ssup asciitilde.ssup brokenbar.ssup section.ssup paragraph.ssup dagger.ssup daggerdbl.ssup uni2016.ssup egrave.ssup Egrave.ssup f.ssup ];
  
 @ordn = [ a.ordn-z.ordn A.ordn-Z.ordn  @numbers_ordn
- exclam.ordn percent.ordn parenleft.ordn parenright.ordn plus.ordn comma.ordn hyphen.ordn period.ordn slash.ordn colon.ordn semicolon.ordn less.ordn equal.ordn greater.ordn question.ordn bracketleft.ordn backslash.ordn bracketright.ordn braceleft.ordn bar.ordn braceright.ordn asciitilde.ordn brokenbar.ordn section.ordn paragraph.ordn dagger.ordn daggerdbl.ordn uni2016.ordn egrave.ordn Egrave.ordn ];
+ exclam.ordn percent.ordn parenleft.ordn parenright.ordn plus.ordn comma.ordn hyphen.ordn period.ordn slash.ordn colon.ordn semicolon.ordn less.ordn equal.ordn greater.ordn question.ordn bracketleft.ordn backslash.ordn bracketright.ordn braceleft.ordn bar.ordn braceright.ordn asciitilde.ordn brokenbar.ordn section.ordn paragraph.ordn dagger.ordn daggerdbl.ordn uni2016.ordn egrave.ordn Egrave.ordn f.ordn ];
 
 @numbers_onum = [ zero.onum one.onum two.onum three.onum four.onum five.onum six.onum seven.onum eight.onum nine.onum ];
 
