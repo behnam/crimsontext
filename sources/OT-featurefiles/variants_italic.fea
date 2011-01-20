@@ -1,0 +1,7 @@
+lookup g_alt {
+ sub g by g.s01;
+} g_alt;
+
+feature cv02 {
+ lookup g_alt;
+} cv02;

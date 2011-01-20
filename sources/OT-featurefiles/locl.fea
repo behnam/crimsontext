@@ -1,10 +1,10 @@
 lookup loclDEU {
-    sub f by f.deu ;
+    sub f by f.DEU ; # modelled after TRK locale to prevent f-ligatures that are impossible in german language;
 } loclDEU;
 
 
 lookup loclTRK {
-# cf. http://typophile.com/node/17787
+# cf. http://typophile.com/node/17787 i.TRK won’t be included in f-ligatures and simplifies smcp-rules
     sub i by i.TRK;
 } loclTRK;
 
@@ -15,6 +15,11 @@ lookup loclROM {
  sub uni0163 by uni021B; 
  # uni0162 and 0163 should contain the connected cedilla for coherence in romanian texts, when no OT-features can be applied!
 } loclROM;
+
+lookup loclCAT {
+    sub L by L.CAT ;
+    sub l by l.CAT ;
+} loclCAT;
 
 feature locl {
   script latn;
@@ -30,4 +35,6 @@ feature locl {
       lookup loclROM;
      language MOL  exclude_dflt;
       lookup loclROM;
+     language CAT  exclude_dflt;
+      lookup loclCAT;
 } locl;

@@ -10,12 +10,12 @@ languagesystem latn ROM ; # romanian/română
 languagesystem latn MOL ; # moldavian/moldovenească
 languagesystem latn CAT ; # catalan/català
 
-include (roman_glyphclasses.fea)
+include (italic_glyphclasses.fea)
 include (locl.fea)
 include (subs_sups.fea)
 include (fractions.fea)
-include (numbers.fea)
+include (numbers_italic.fea)
 include (smallcaps.fea)
 include (ligatures.fea)
-include (calt.fea)
-include (variants.fea)
+include (calt_italic.fea)
+include (variants_italic.fea)

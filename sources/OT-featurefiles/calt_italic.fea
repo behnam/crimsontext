@@ -1,5 +1,6 @@
 lookup fshort {
- sub [f f.DEU]' [ @accented_high @ascender space @symbols @sups @ordn @numbers @numbers_prop @numbers_onum ] by f.short;
+ sub [f f.DEU]' [ @accented_high @ascender space @symbols @sups @ordn @numbers #@numbers_prop
+  @numbers_onum ] by f.short;
  sub [f f.DEU]' [ a c e g i m n o p q r s t u v w x y z ] @combiningaccent_high by f.short;
  sub [f f.DEU]' afii61664 [ @accented_high @ascender ] by f.short;
 
@@ -8,11 +9,11 @@ lookup fshort {
  # sub f_f' afii61664 [ @accented_high @ascender ] by f_f.short;
 } fshort;
 
-lookup Qlong {
- sub Q' @nodescender [ @nodescender q ] by Q.alt01;
-} Qlong;
+#lookup Qlong {
+# sub Q' @nodescender [ @nodescender q ] by Q.alt01;
+#} Qlong;
 
 feature calt {
  lookup fshort;
- lookup Qlong;
+# lookup Qlong;
 } calt;

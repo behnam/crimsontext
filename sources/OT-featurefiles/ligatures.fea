@@ -1,10 +1,11 @@
 lookup liga {
  sub f f by f_f;
- sub f.deu f.deu by f_f;
- sub [f f.deu] i by f_i;
+ sub f.DEU f.DEU by f_f;
+ sub [f f.DEU] i by f_i;
  sub f f i by f_f_i;
- sub f.deu f.deu i by f_f_i;
- sub [f f.deu] l by f_l;
+ sub f.DEU f.DEU i by f_f_i;
+ sub [f f.DEU] l by f_l;
+ sub f l.CAT by f_l;
  sub f f l by f_f_l;
  sub f b  by f_b;
  sub f f b  by f_f_b;
@@ -15,17 +16,20 @@ lookup liga {
  sub f j  by f_j;
  sub f f j  by f_f_j;
  sub T h  by T_h;
- sub f.deu afii301 f.deu afii301 l by f_f_l;
- sub f.deu afii301 b  by f_b;
- sub f.deu afii301 f.deu afii301 b  by f_f_b;
- sub f.deu afii301 k  by f_k;
- sub f.deu afii301 f.deu afii301 k  by f_f_k;
- sub f.deu afii301 h  by f_h;
- sub f.deu afii301 f.deu afii301 h  by f_f_h;
- sub f.deu afii301 j  by f_j;
- sub f.deu afii301 f.deu afii301 j  by f_f_j;
+ sub f.DEU afii301 f.DEU afii301 l by f_f_l;
+ sub f.DEU afii301 b  by f_b;
+ sub f.DEU afii301 f.DEU afii301 b  by f_f_b;
+ sub f.DEU afii301 k  by f_k;
+ sub f.DEU afii301 f.DEU afii301 k  by f_f_k;
+ sub f.DEU afii301 h  by f_h;
+ sub f.DEU afii301 f.DEU afii301 h  by f_f_h;
+ sub f.DEU afii301 j  by f_j;
+ sub f.DEU afii301 f.DEU afii301 j  by f_f_j;
  # f_t and f_f_t are missing!
  # longs-ligatures are missing 
+  sub L.CAT periodcentered by Ldot;
+  sub l.CAT periodcentered by ldot;
+  sub l.CATsc periodcentered by ldot.sc;
 } liga;
 
 #lookup dlig {

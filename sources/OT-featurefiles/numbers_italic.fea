@@ -1,0 +1,38 @@
+lookup onum {
+ sub @numbers by @numbers_onum;
+} onum;
+
+#lookup pnum {
+# sub @numbers by @numbers_prop;
+#} pnum;
+
+lookup lnum {
+ sub @numbers_onum by @numbers;
+} lnum;
+
+lookup tnum {
+# sub @numbers_prop by @numbers;
+ sub @numbers_onum by @numbers; # tabular onums are not present
+} tnum;
+
+feature onum {
+ lookup onum;
+} onum;
+
+#feature pnum {
+# lookup pnum;
+#} pnum;
+
+feature lnum {
+ lookup lnum;
+} lnum;
+
+feature tnum {
+ lookup tnum;
+} tnum; 
+
+#feature zero {
+# lookup zero {
+#  sub zero by zero.slash;
+# } zero;
+#} zero;

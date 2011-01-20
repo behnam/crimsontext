@@ -4,24 +4,38 @@
 
 @Letters = [ @letters @LETTERS ];
 
-@nodescender = [ a-f h i k-o r-x z germandbls agrave aacute acircumflex atilde adieresis aring ae eth egrave eacute ecircumflex edieresis igrave iacute icircumflex idieresis ntilde ograve oacute ocircumflex otilde odieresis oslash ugrave uacute ucircumflex udieresis amacron abreve cacute ccircumflex cdotaccent ccaron dcaron dcroat emacron ebreve edotaccent ecaron hcircumflex hbar itilde imacron ibreve i.TRK dotlessi kgreenlandic lacute lcaron ldot lslash nacute ncaron omacron obreve ohungarumlaut oe racute rcaron sacute scircumflex scaron tcaron tbar utilde umacron ubreve uring uhungarumlaut wcircumflex zacute zdotaccent zcaron longs uni01CE uni01D0 uni01D2 uni01D4 uni01D6 uni01D8 uni01DA uni01DC uni01E3 aringacute aeacute oslashacute f_f f_i f_f_i f_l f_f_l f_b f_f_b f_k f_f_k f_h f_f_h f.DEU l.CAT ];
+@nodescender = [ a-e h i k-o r-x z agrave aacute acircumflex atilde adieresis aring ae eth egrave eacute ecircumflex edieresis igrave iacute icircumflex idieresis ntilde ograve oacute ocircumflex otilde odieresis oslash ugrave uacute ucircumflex udieresis amacron abreve cacute ccircumflex cdotaccent ccaron dcaron dcroat emacron ebreve edotaccent ecaron hcircumflex hbar itilde imacron ibreve i.TRK dotlessi kgreenlandic lacute lcaron ldot lslash nacute ncaron omacron obreve ohungarumlaut oe racute rcaron sacute scircumflex scaron tcaron tbar utilde umacron ubreve uring uhungarumlaut wcircumflex zacute zdotaccent zcaron 
+ # uni01CE uni01D0 uni01D2 uni01D4 uni01D6 uni01D8 uni01DA uni01DC uni01E3 aringacute aeacute oslashacute # are missiing!
+ l.CAT
+ ];
 
-@nodescender_no_i_l = [ a-f h k m-o r-x z germandbls agrave aacute acircumflex atilde adieresis aring ae eth egrave eacute ecircumflex edieresis ntilde ograve oacute ocircumflex otilde odieresis oslash ugrave uacute ucircumflex udieresis amacron abreve cacute ccircumflex cdotaccent ccaron dcaron dcroat emacron ebreve edotaccent ecaron hcircumflex hbar kgreenlandic nacute ncaron omacron obreve ohungarumlaut oe racute rcaron sacute scircumflex scaron tcaron tbar utilde umacron ubreve uring uhungarumlaut wcircumflex zacute zdotaccent zcaron longs uni01CE uni01D2 uni01D4 uni01D6 uni01D8 uni01DA uni01DC uni01E3 aringacute aeacute oslashacute f.DEU ];
+@nodescender_no_i_l = [ a-e h k m-o r-x z agrave aacute acircumflex atilde adieresis aring ae eth egrave eacute ecircumflex edieresis ntilde ograve oacute ocircumflex otilde odieresis oslash ugrave uacute ucircumflex udieresis amacron abreve cacute ccircumflex cdotaccent ccaron dcaron dcroat emacron ebreve edotaccent ecaron hcircumflex hbar kgreenlandic nacute ncaron omacron obreve ohungarumlaut oe racute rcaron sacute scircumflex scaron tcaron tbar utilde umacron ubreve uring uhungarumlaut wcircumflex zacute zdotaccent zcaron 
+ # uni01CE uni01D2 uni01D4 uni01D6 uni01D8 uni01DA uni01DC uni01E3 aringacute aeacute oslashacute # are missing!
+ ];
 
-@nodescender_i_l = [ i l igrave iacute icircumflex idieresis itilde imacron ibreve i.TRK dotlessi lacute lcaron ldot lslash uni01D0 l.CAT ];
+@nodescender_i_l = [ i l igrave iacute icircumflex idieresis itilde imacron ibreve i.TRK dotlessi lacute lcaron ldot lslash l.CAT
+ # uni01D0 is missing!
+ ];
 
 @numbers = [ zero one two three four five six seven eight nine ];
 
 @numbers_subs = [ zero.subs one.subs two.subs three.subs four.subs five.subs six.subs seven.subs eight.subs nine.subs ];
 @numbers_ordn = [ zero.ordn one.ordn two.ordn three.ordn four.ordn five.ordn six.ordn seven.ordn eight.ordn nine.ordn ];
 
-@accented_high = [ agrave aacute acircumflex atilde adieresis aring egrave eacute ecircumflex edieresis igrave iacute icircumflex idieresis ntilde ograve oacute ocircumflex otilde odieresis ugrave uacute ucircumflex udieresis yacute amacron abreve cacute ccircumflex cdotaccent ccaron emacron ebreve edotaccent ecaron gcircumflex gbreve gdotaccent gcommaaccent hcircumflex hbar itilde imacron ibreve iogonek i.TRK ij jcircumflex kcommaaccent lacute lcommaaccent lcaron ldot lslash nacute ncommaaccent ncaron omacron obreve ohungarumlaut racute rcommaaccent rcaron sacute scircumflex scaron utilde umacron ubreve uring uhungarumlaut wcircumflex ycircumflex ydieresis zacute zdotaccent uni01CE uni01D0 uni01D2 uni01D4 uni01D6 uni01D8 uni01DA uni01DC uni01E3 aringacute aeacute oslashacute uni0233 i.TRK ];
+@accented_high = [ agrave aacute acircumflex atilde adieresis aring egrave eacute ecircumflex edieresis igrave iacute icircumflex idieresis ntilde ograve oacute ocircumflex otilde odieresis ugrave uacute ucircumflex udieresis yacute amacron abreve cacute ccircumflex cdotaccent ccaron emacron ebreve edotaccent ecaron gcircumflex gbreve gdotaccent gcommaaccent hcircumflex hbar itilde imacron ibreve iogonek i.TRK ij jcircumflex kcommaaccent lacute lcommaaccent lcaron ldot lslash nacute ncommaaccent ncaron omacron obreve ohungarumlaut racute rcommaaccent rcaron sacute scircumflex scaron utilde umacron ubreve uring uhungarumlaut wcircumflex ycircumflex ydieresis zacute zdotaccent #uni01CE uni01D0 uni01D2 uni01D4 uni01D6 uni01D8 uni01DA uni01DC uni01E3 aringacute aeacute oslashacute uni0233
+ i.TRK ];
 
 @ascender = [ b f h i j k l eth thorn germandbls f.DEU l.CAT ];
 
-@symbols = [ exclam quotedbl dollar percent ampersand quotesingle parenleft parenright asterisk plus greater question at bracketleft backslash bracketright asciicircum grave braceleft bar braceright sterling currency yen brokenbar section ordfeminine plusminus paragraph uni00B9 ordmasculine onequarter onehalf threequarters multiply divide quoteleft quoteright quotesinglbase quotedblleft quotedblright quotedblbase dagger daggerdbl ellipsis perthousand minute second guilsinglleft guilsinglright lira Euro arrowup arrowdown universal uni2206 gradient summation uni2213 lessequal greaterequal ];
+@symbols = [ exclam quotedbl dollar percent ampersand quotesingle parenleft parenright asterisk plus greater question at bracketleft backslash bracketright asciicircum grave braceleft bar braceright sterling currency yen brokenbar section ordfeminine plusminus paragraph uni00B9 ordmasculine onequarter onehalf threequarters multiply divide quoteleft quoteright quotesinglbase quotedblleft quotedblright quotedblbase dagger daggerdbl ellipsis perthousand minute second guilsinglleft guilsinglright 
+ #lira
+ Euro arrowup arrowdown 
+ #universal uni2206 gradient 
+ summation uni2213 lessequal greaterequal ];
 
-@combiningaccent_high = [ gravecomb acutecomb uni0302 tildecomb uni0304 uni0305 uni0306 uni0307 uni0308 hookabovecomb uni030A uni030B uni030B uni0312 uni0314 uni0315 ];
+@combiningaccent_high = [ gravecomb acutecomb uni0302 tildecomb uni0304 uni0305 uni0306 uni0307 uni0308 hookabovecomb uni030A uni030B uni030B uni0312 
+ #uni0314 
+ uni0315 ];
 
 @subsup_basis = [ @Letters @numbers
  exclam percent parenleft parenright plus comma hyphen period slash colon semicolon less equal greater question bracketleft backslash bracketright braceleft bar braceright asciitilde brokenbar section paragraph dagger daggerdbl uni2016 egrave Egrave f.DEU L.CAT l.CAT ];
@@ -40,21 +54,23 @@
 
 @numbers_onum = [ zero.onum one.onum two.onum three.onum four.onum five.onum six.onum seven.onum eight.onum nine.onum ];
 
-@numbers_prop = [ zero.prop one.prop two.prop three.prop four.prop five.prop six.prop seven.prop eight.prop nine.prop ];
+# @numbers_prop = [ zero.prop one.prop two.prop three.prop four.prop five.prop six.prop seven.prop eight.prop nine.prop ]; # are missing
 
 @smcp_basis = [ a-z 
 	zero one two three four five six seven eight nine
 	exclam quotedbl numbersign dollar percent ampersand quotesingle parenleft parenright asterisk plus hyphen slash colon semicolon less equal greater question at bracketleft backslash bracketright asciicircum braceleft bar braceright asciitilde exclamdown cent sterling yen brokenbar section copyright ordfeminine guillemotleft guillemotright registered degree paragraph ordmasculine questiondown
-	agrave aacute acircumflex atilde adieresis aring ae ccedilla egrave eacute ecircumflex edieresis igrave iacute icircumflex idieresis eth ntilde ograve oacute ocircumflex otilde odieresis multiply oslash ugrave uacute ucircumflex udieresis yacute thorn germandbls divide amacron abreve aogonek cacute ccircumflex cdotaccent ccaron dcaron dcroat emacron ebreve edotaccent eogonek ecaron gcircumflex gbreve gdotaccent gcommaaccent hcircumflex hbar itilde imacron ibreve iogonek i.TRK dotlessi ij jcircumflex kcommaaccent kgreenlandic lacute lcommaaccent lcaron ldot lslash nacute ncommaaccent ncaron eng omacron obreve ohungarumlaut oe racute rcommaaccent rcaron sacute scircumflex scedilla scaron uni0163 tcaron tbar utilde umacron ubreve uring uhungarumlaut uogonek wcircumflex ycircumflex ydieresis zacute zdotaccent uni01CE uni01D0 uni01D2 uni01D4 uni01D6 uni01D8 uni01DA uni01DC uni01E3 aringacute aeacute oslashacute uni0219 uni021B uni0233
-	#zcaron
+	agrave aacute acircumflex atilde adieresis aring ae ccedilla egrave eacute ecircumflex edieresis igrave iacute icircumflex idieresis eth ntilde ograve oacute ocircumflex otilde odieresis multiply oslash ugrave uacute ucircumflex udieresis yacute thorn germandbls divide amacron abreve aogonek cacute ccircumflex cdotaccent ccaron dcaron dcroat emacron ebreve edotaccent eogonek ecaron gcircumflex gbreve gdotaccent gcommaaccent hcircumflex hbar itilde imacron ibreve iogonek i.TRK dotlessi ij jcircumflex kcommaaccent kgreenlandic lacute lcommaaccent lcaron ldot lslash nacute ncommaaccent ncaron eng omacron obreve ohungarumlaut oe racute rcommaaccent rcaron sacute scircumflex scedilla scaron uni0163 tcaron tbar utilde umacron ubreve uring uhungarumlaut uogonek wcircumflex ycircumflex ydieresis zacute zdotaccent 
+	#uni01CE uni01D0 uni01D2 uni01D4 uni01D6 uni01D8 uni01DA uni01DC uni01E3 aringacute aeacute oslashacute uni0219 uni021B uni0233
+	zcaron
 	f.DEU l.CAT
  ];
 
 @smcp = [ a.sc-z.sc 
 	zero.sc one.sc two.sc three.sc four.sc five.sc six.sc seven.sc eight.sc nine.sc
 	exclam.sc quotedbl.sc numbersign.sc dollar.sc percent.sc ampersand.sc quotesingle.sc parenleft.sc parenright.sc asterisk.sc plus.sc hyphen.sc slash.sc colon.sc semicolon.sc less.sc equal.sc greater.sc question.sc at.sc bracketleft.sc backslash.sc bracketright.sc asciicircum.sc braceleft.sc bar.sc braceright.sc asciitilde.sc exclamdown.sc cent.sc sterling.sc yen.sc brokenbar.sc section.sc copyright.sc ordfeminine.sc guillemotleft.sc guillemotright.sc registered.sc degree.sc paragraph.sc ordmasculine.sc questiondown.sc
-	agrave.sc aacute.sc acircumflex.sc atilde.sc adieresis.sc aring.sc ae.sc ccedilla.sc egrave.sc eacute.sc ecircumflex.sc edieresis.sc igrave.sc iacute.sc icircumflex.sc idieresis.sc eth.sc ntilde.sc ograve.sc oacute.sc ocircumflex.sc otilde.sc odieresis.sc multiply.sc oslash.sc ugrave.sc uacute.sc ucircumflex.sc udieresis.sc yacute.sc thorn.sc germandbls.sc divide.sc amacron.sc abreve.sc aogonek.sc cacute.sc ccircumflex.sc cdotaccent.sc ccaron.sc dcaron.sc dcroat.sc emacron.sc ebreve.sc edotaccent.sc eogonek.sc ecaron.sc gcircumflex.sc gbreve.sc gdotaccent.sc gcommaaccent.sc hcircumflex.sc hbar.sc itilde.sc imacron.sc ibreve.sc iogonek.sc i.TRKsc dotlessi.sc ij.sc jcircumflex.sc kcommaaccent.sc kgreenlandic.sc lacute.sc lcommaaccent.sc lcaron.sc ldot.sc lslash.sc nacute.sc ncommaaccent.sc ncaron.sc eng.sc omacron.sc obreve.sc ohungarumlaut.sc oe.sc racute.sc rcommaaccent.sc rcaron.sc sacute.sc scircumflex.sc scedilla.sc scaron.sc uni0163.sc tcaron.sc tbar.sc utilde.sc umacron.sc ubreve.sc uring.sc uhungarumlaut.sc uogonek.sc wcircumflex.sc ycircumflex.sc ydieresis.sc zacute.sc zdotaccent.sc uni01CE.sc uni01D0.sc uni01D2.sc uni01D4.sc uni01D6.sc uni01D8.sc uni01DA.sc uni01DC.sc uni01E3.sc aringacute.sc aeacute.sc oslashacute.sc uni0219.sc uni021B.sc uni0233.sc
-	#zcaron.sc is missing!!!
+	agrave.sc aacute.sc acircumflex.sc atilde.sc adieresis.sc aring.sc ae.sc ccedilla.sc egrave.sc eacute.sc ecircumflex.sc edieresis.sc igrave.sc iacute.sc icircumflex.sc idieresis.sc eth.sc ntilde.sc ograve.sc oacute.sc ocircumflex.sc otilde.sc odieresis.sc multiply.sc oslash.sc ugrave.sc uacute.sc ucircumflex.sc udieresis.sc yacute.sc thorn.sc germandbls.sc divide.sc amacron.sc abreve.sc aogonek.sc cacute.sc ccircumflex.sc cdotaccent.sc ccaron.sc dcaron.sc dcroat.sc emacron.sc ebreve.sc edotaccent.sc eogonek.sc ecaron.sc gcircumflex.sc gbreve.sc gdotaccent.sc gcommaaccent.sc hcircumflex.sc hbar.sc itilde.sc imacron.sc ibreve.sc iogonek.sc i.TRKsc dotlessi.sc ij.sc jcircumflex.sc kcommaaccent.sc kgreenlandic.sc lacute.sc lcommaaccent.sc lcaron.sc ldot.sc lslash.sc nacute.sc ncommaaccent.sc ncaron.sc eng.sc omacron.sc obreve.sc ohungarumlaut.sc oe.sc racute.sc rcommaaccent.sc rcaron.sc sacute.sc scircumflex.sc scedilla.sc scaron.sc uni0163.sc tcaron.sc tbar.sc utilde.sc umacron.sc ubreve.sc uring.sc uhungarumlaut.sc uogonek.sc wcircumflex.sc ycircumflex.sc ydieresis.sc zacute.sc zdotaccent.sc 
+	#uni01CE.sc uni01D0.sc uni01D2.sc uni01D4.sc uni01D6.sc uni01D8.sc uni01DA.sc uni01DC.sc uni01E3.sc aringacute.sc aeacute.sc oslashacute.sc uni0219.sc uni021B.sc uni0233.sc
+	zcaron.sc
 	f.sc l.CATsc
  ];
  
