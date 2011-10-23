@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1273443993
-ModificationTime: 1319331664
+ModificationTime: 1319338166
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -245,7 +245,7 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 52 13 11
+WinInfo: 104 13 11
 BeginPrivate: 2
 FamilyBlues 0 
 BlueValues 39 [-10 0 434 437 641 644 658 670 685 695]
@@ -2608,7 +2608,7 @@ EndChar
 StartChar: d
 Encoding: 100 100 67
 Width: 443
-Flags: HW
+Flags: W
 HStem: -6 55<74.8164 155.959 284.001 325.107> 395 40<219.947 287.664> 631 21<284.307 340.742> 665 20G<409 422.5>
 VStem: 16 74<65.1712 219.36> 240 75<21.7226 163.305> 345 81<544.516 666.737>
 LayerCount: 2
@@ -4733,14 +4733,13 @@ EndChar
 StartChar: Acircumflex
 Encoding: 194 194 127
 Width: 579
-Flags: W
+Flags: HW
 HStem: -3 29<-56.3745 -1.91164 79.5133 129.829 328.077 387.046 499.426 538.828> 252 42<197.532 362.53> 643 20<377.532 383.032> 728 130
 VStem: 259.198 243
 LayerCount: 2
 Fore
 Refer: 286 63634 S 1 0 0 1 95.5312 0 2
 Refer: 32 65 N 1 0 0 1 -0.00051117 0 3
-Validated: 1
 EndChar
 
 StartChar: Atilde
@@ -4904,14 +4903,13 @@ EndChar
 StartChar: Ecircumflex
 Encoding: 202 202 135
 Width: 549
-Flags: W
+Flags: HW
 HStem: 0 26<-7.19322 61.4202> 0 37<157.105 372.511> 312 37<211.313 366.179> 621 36<261.767 474.116> 633 29<116.349 175.184> 728 130
 VStem: 231.299 243 379.633 29<230.036 271.632> 501.633 29<523.182 586.555>
 LayerCount: 2
 Fore
 Refer: 286 63634 N 1 0 0 1 67.6322 0 2
 Refer: 36 69 N 1 0 0 1 -0.000318528 0 3
-Validated: 1
 EndChar
 
 StartChar: Edieresis
@@ -4956,14 +4954,13 @@ EndChar
 StartChar: Icircumflex
 Encoding: 206 206 139
 Width: 307
-Flags: W
+Flags: HW
 HStem: -3 29<-7.19322 63.6286 155.081 213.916> 633 29<116.349 175.184 267.63 337.651> 728 130
 VStem: 110.299 243
 LayerCount: 2
 Fore
 Refer: 286 63634 N 1 0 0 1 -53.3678 0 2
 Refer: 40 73 N 1 0 0 1 -0.000318528 0 3
-Validated: 1
 EndChar
 
 StartChar: Idieresis
@@ -5061,14 +5058,13 @@ EndChar
 StartChar: Ocircumflex
 Encoding: 212 212 145
 Width: 704
-Flags: W
+Flags: HW
 HStem: -11 36<250.284 400.977> 629 36<327.652 475.507> 728 130
 VStem: 58 94<154.09 410.262> 270.667 243 575 94<244.922 498.438>
 LayerCount: 2
 Fore
 Refer: 286 63634 S 1 0 0 1 107 0 2
 Refer: 46 79 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: Otilde
@@ -5100,7 +5096,7 @@ EndChar
 StartChar: multiply
 Encoding: 215 215 148
 Width: 401
-Flags: WO
+Flags: W
 HStem: 213 61<190.375 209>
 VStem: 172 61<226.125 259>
 LayerCount: 2
@@ -5143,11 +5139,11 @@ HStem: -10 43<233.764 390.463> 625 42<321.257 472.744>
 LayerCount: 2
 Fore
 SplineSet
-105.172 -13 m 17
- 97.1719 -10 78.1719 4 83.1719 10 c 9
- 599.172 667 l 17
- 607.172 665 627.172 651 622.172 645 c 9
- 105.172 -13 l 17
+105.172 -13 m 21
+ 97.1719 -10 78.1719 4 83.1719 10 c 13
+ 599.172 667 l 21
+ 607.172 665 627.172 651 622.172 645 c 13
+ 105.172 -13 l 21
 398.172 625 m 0
  273.172 625 180.172 484 154.172 350 c 0
  124.172 195 167.172 33 311.172 33 c 0
@@ -5191,14 +5187,13 @@ EndChar
 StartChar: Ucircumflex
 Encoding: 219 219 152
 Width: 675
-Flags: W
+Flags: HW
 HStem: -4 58<228.936 397.713> 633 29<101.815 160.258 251.704 321.725 528.115 585.165 659.089 732.72> 728 130
 VStem: 283.374 243
 LayerCount: 2
 Fore
-Refer: 286 63634 N 1 0 0 1 119.707 0 2
+Refer: 286 63634 S 1 0 0 1 119.707 0 2
 Refer: 52 85 N 1 0 0 1 -0.999054 0 3
-Validated: 1
 EndChar
 
 StartChar: Udieresis
@@ -5278,7 +5273,7 @@ StartChar: germandbls
 Encoding: 223 223 156
 Width: 495
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -233 43<-87.5 -10.6375> -4 30<294.813 365.117> 376 37<42.1577 79> 642 43<270.22 350.69>
 VStem: 250.335 57<307.224 378.991> 381.335 63<51.6239 148.412 482.216 612.202>
 LayerCount: 2
@@ -5315,9 +5310,7 @@ SplineSet
  158 169 174.053 268 202.005 413 c 0
  232.668 572.064 254.335 642 298.335 642 c 0
  339.335 642 382.335 608 382.335 547 c 0
-1166.33 475 m 24
 EndSplineSet
-Validated: 9
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" germandbls.sc
 EndChar
 
@@ -5352,14 +5345,13 @@ EndChar
 StartChar: acircumflex
 Encoding: 226 226 159
 Width: 443
-Flags: W
+Flags: HW
 HStem: -6 55<78.8113 155.385 284.004 325.107> 395 40<218.739 319.5> 496 131
 VStem: 16 74<65.1934 221.895> 166.473 212 240 75<21.7226 164.743>
 LayerCount: 2
 Fore
 Refer: 253 710 N 1 0 0 1 -529 -210 2
 Refer: 64 97 N 1 0 0 1 0 0 3
-Validated: 1
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" acircumflex.sc
 EndChar
 
@@ -5371,7 +5363,7 @@ HStem: -6 55<78.8113 155.385 284.004 325.107> 395 40<218.739 319.5> 506 49<291.5
 VStem: 16 74<65.1934 221.895> 123.197 5<506.048 508.911> 240 75<21.7226 164.743> 417.197 6<594.487 597.952>
 LayerCount: 2
 Fore
-Refer: 259 732 N 1 0 0 1 -500 -218 2
+Refer: 259 732 S 1 0 0 1 -500 -218 2
 Refer: 64 97 N 1 0 0 1 0 0 3
 Validated: 1
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" atilde.sc
@@ -5499,14 +5491,13 @@ EndChar
 StartChar: ecircumflex
 Encoding: 234 234 167
 Width: 357
-Flags: W
+Flags: HW
 HStem: -6 59<120.417 193.244> 193 25<102 144.895> 394 41<193.759 296.5> 496 131
 VStem: 20 78<76.3633 217.001 218 241.157> 144.473 212 263 74<313.223 388.912>
 LayerCount: 2
 Fore
 Refer: 253 710 N 1 0 0 1 -551 -210 2
 Refer: 68 101 N 1 0 0 1 0 0 3
-Validated: 1
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" ecircumflex.sc
 EndChar
 
@@ -5555,14 +5546,13 @@ EndChar
 StartChar: icircumflex
 Encoding: 238 238 171
 Width: 256
-Flags: W
+Flags: HW
 HStem: -6 55<74.4997 138.107> 380 55<95.7778 159.5> 496 131
 VStem: 50.9997 75<46 126.683> 51.472 212 113 75<302.317 383>
 LayerCount: 2
 Fore
 Refer: 253 710 N 1 0 0 1 -644.001 -210 2
 Refer: 233 305 N 1 0 0 1 0.999668 0 3
-Validated: 1
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" icircumflex.sc
 EndChar
 
@@ -5657,14 +5647,13 @@ EndChar
 StartChar: ocircumflex
 Encoding: 244 244 177
 Width: 409
-Flags: W
+Flags: HW
 HStem: -5 32<126.829 200.828> 403 32<190.936 263.934> 496 131
 VStem: 22 78<49.2289 249.363> 149.473 212 288 78<176.798 384.03>
 LayerCount: 2
 Fore
 Refer: 253 710 N 1 0 0 1 -546 -210 2
 Refer: 78 111 N 1 0 0 1 0 0 3
-Validated: 1
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" ocircumflex.sc
 EndChar
 
@@ -5780,14 +5769,13 @@ EndChar
 StartChar: ucircumflex
 Encoding: 251 251 184
 Width: 485
-Flags: W
+Flags: HW
 HStem: -6 55<305.5 369.107> -6 74<100.553 161.733> 380 55<89.7782 153.5> 496 131
 VStem: 56 77<47 206.875> 107 75<257.922 406.545> 163.473 212 282 75<21.7226 187.893>
 LayerCount: 2
 Fore
 Refer: 253 710 N 1 0 0 1 -532 -210 2
 Refer: 84 117 N 1 0 0 1 0 0 3
-Validated: 1
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" ucircumflex.sc
 EndChar
 
@@ -7014,24 +7002,21 @@ StartChar: uni0302
 Encoding: 770 770 231
 Width: 388
 Flags: W
-HStem: 706 131
-VStem: 236.474 212
+HStem: 706.673 131.327
+VStem: 234.803 212.647
 LayerCount: 2
 Fore
 SplineSet
-435.474 706 m 0
- 424.474 706 374.474 743 349.474 764 c 1
- 316.474 741 253.474 706 242.474 706 c 0
- 235.474 706 235.474 722 236.474 726 c 1
- 242.474 732 270.474 754 298.474 777 c 4
- 319.474 794 340.474 813 352.474 828 c 0
- 358.474 834 359.474 837 363.474 837 c 0
- 366.474 837 368.474 834 372.474 828 c 0
- 377.474 820 384.474 806 400.474 784 c 0
- 422.474 755 448.474 729 448.474 726 c 0
- 446.474 718 441.474 706 435.474 706 c 0
+447.45 723.715 m 1
+ 445.695 715.695 441.308 708.678 434.873 706.673 c 1
+ 422.003 710.683 373.447 743.765 348 764.817 c 1
+ 314.655 741.76 259.665 711.685 240.067 706.673 c 1
+ 235.095 709.68 233.925 722.713 234.803 726.723 c 1
+ 272.827 756.798 329.865 805.92 350.633 828.978 c 0
+ 355.232 834.085 359.7 838 363.21 838 c 0
+ 366.72 838 369.889 833.174 372.862 828.978 c 0
+ 387.78 807.925 425.513 751.785 447.45 723.715 c 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: tildecomb
@@ -7043,19 +7028,19 @@ VStem: 165.196 5<724.048 726.911> 459.196 6<812.487 815.952>
 LayerCount: 2
 Fore
 SplineSet
-267.196 816 m 0x70
- 291.196 816 308.196 809 325.196 800 c 0
- 346.196 789 362.196 773 392.196 773 c 0xb0
- 425.196 773 452.196 808 459.196 816 c 1x70
- 462.196 815 466.196 813 465.196 805 c 0
- 463.196 789 452.196 772 443.196 762 c 0
- 416.196 734 391.196 724 363.196 724 c 0xb0
- 339.196 724 324.196 730 306.196 740 c 0
- 286.196 751 267.196 767 237.196 767 c 0x70
- 204.196 767 177.196 732 170.196 724 c 1xb0
- 167.196 725 164.196 728 165.196 736 c 0
- 167.196 752 177.196 768 186.196 778 c 0
- 213.196 806 239.196 816 267.196 816 c 0x70
+267.196 816 m 4x70
+ 291.196 816 308.196 809 325.196 800 c 4
+ 346.196 789 362.196 773 392.196 773 c 4xb0
+ 425.196 773 452.196 808 459.196 816 c 5x70
+ 462.196 815 466.196 813 465.196 805 c 4
+ 463.196 789 452.196 772 443.196 762 c 4
+ 416.196 734 391.196 724 363.196 724 c 4xb0
+ 339.196 724 324.196 730 306.196 740 c 4
+ 286.196 751 267.196 767 237.196 767 c 4x70
+ 204.196 767 177.196 732 170.196 724 c 5xb0
+ 167.196 725 164.196 728 165.196 736 c 4
+ 167.196 752 177.196 768 186.196 778 c 4
+ 213.196 806 239.196 816 267.196 816 c 4x70
 EndSplineSet
 Validated: 1
 EndChar
@@ -8100,14 +8085,13 @@ EndChar
 StartChar: Amacron
 Encoding: 256 256 248
 Width: 579
-Flags: W
-HStem: -3 29<-56.3745 -1.91164 79.5133 129.829 328.077 387.046 499.426 538.828> 252 42<197.532 362.53> 643 20<377.532 383.032> 728 48<245.556 491.953>
-VStem: 240.891 257
+Flags: HW
+HStem: -3 29<-56.3745 -1.91164 79.5133 129.828 328.077 387.045 499.425 538.828> 252 42<197.531 362.53> 643 20<377.531 383.031> 737 39<266.487 511.927>
+VStem: 264.531 249<737.428 776>
 LayerCount: 2
 Fore
-Refer: 289 63637 N 1 0 0 1 81.5312 180 2
+Refer: 289 63637 N 1 0 0 1 100.531 180 2
 Refer: 32 65 N 1 0 0 1 -0.00051117 0 3
-Validated: 1
 EndChar
 
 StartChar: Scaron
@@ -8167,12 +8151,11 @@ Encoding: 710 710 253
 Width: 456
 VWidth: 0
 Flags: W
-HStem: 706 131
-VStem: 695.473 212
+HStem: 706.673 131.327
+VStem: 693.802 212.647
 LayerCount: 2
 Fore
-Refer: 231 770 N 1 0 0 1 458.999 0 2
-Validated: 1
+Refer: 231 770 S 1 0 0 1 458.999 0 2
 EndChar
 
 StartChar: caron
@@ -8267,23 +8250,21 @@ EndChar
 
 StartChar: uni0304
 Encoding: 772 772 261
-Width: 351
-Flags: W
+Width: 352
+Flags: HW
 HStem: 550 46<183.613 389.774>
 VStem: 179.408 216
 LayerCount: 2
 Fore
 SplineSet
-179.408 559 m 0
- 179.408 561 188.408 596 198.408 596 c 2
- 391.408 596 l 2
- 393.408 596 396.408 595 395.408 589 c 0
- 394.408 584 391.408 575 383.408 557 c 0
- 380.408 551 375.408 550 375.408 550 c 1
- 183.408 550 l 1
- 183.408 550 177.408 549 179.408 559 c 0
+381 557 m 1
+ 289.076 557 171 557 171 557 c 1
+ 171 557 168 560 168 566 c 0
+ 168 573 175 596 180.359 596 c 2
+ 386.359 596 l 2
+ 388.359 596 391 593 391 589 c 0
+ 391 583.901 389 566 381 557 c 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni0305
@@ -8315,17 +8296,17 @@ VStem: 134.184 23<597.811 637.994> 319.184 18<620.732 639.513>
 LayerCount: 2
 Fore
 SplineSet
-224.184 566 m 0
- 263.184 566 301.184 595 319.184 638 c 0
- 319.184 640 321.184 641 323.184 641 c 0
- 329.184 641 338.184 633 337.184 628 c 0
- 337.184 627 335.184 622 335.184 620 c 0
- 316.184 567 265.184 520 215.184 520 c 0
- 165.184 520 131.184 564 134.184 621 c 0
- 134.184 623 135.184 627 135.184 628 c 0
- 136.184 633 148.184 641 154.184 641 c 0
- 156.184 641 157.184 640 157.184 638 c 0
- 158.184 595 185.184 566 224.184 566 c 0
+224.184 566 m 4
+ 263.184 566 301.184 595 319.184 638 c 4
+ 319.184 640 321.184 641 323.184 641 c 4
+ 329.184 641 338.184 633 337.184 628 c 4
+ 337.184 627 335.184 622 335.184 620 c 4
+ 316.184 567 265.184 520 215.184 520 c 4
+ 165.184 520 131.184 564 134.184 621 c 4
+ 134.184 623 135.184 627 135.184 628 c 4
+ 136.184 633 148.184 641 154.184 641 c 4
+ 156.184 641 157.184 640 157.184 638 c 4
+ 158.184 595 185.184 566 224.184 566 c 4
 EndSplineSet
 Validated: 33
 EndChar
@@ -8608,7 +8589,7 @@ HStem: -6 55<78.8113 155.385 284.004 325.107> 395 40<218.739 319.5> 496 46<224.8
 VStem: 16 74<65.1934 221.895> 184.183 23<573.811 613.994> 240 75<21.7226 164.743> 369.183 18<596.732 615.513>
 LayerCount: 2
 Fore
-Refer: 255 728 N 1 0 0 1 -408 -24 2
+Refer: 255 728 S 1 0 0 1 -408 -24 2
 Refer: 64 97 N 1 0 0 1 0 0 3
 Validated: 1
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" abreve.sc
@@ -8631,14 +8612,13 @@ EndChar
 StartChar: jcircumflex
 Encoding: 309 309 278
 Width: 243
-Flags: W
+Flags: HW
 HStem: 380 55<100.778 164.5> 496 131
 VStem: 77.4727 212 118 75<251.148 406.545>
 LayerCount: 2
 Fore
 Refer: 253 710 N 1 0 0 1 -618 -210 2
 Refer: 416 567 N 1 0 0 1 0 0 3
-Validated: 1
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" jcircumflex.sc
 EndChar
 
@@ -8752,25 +8732,22 @@ EndChar
 StartChar: uni0302.cap
 Encoding: 63634 63634 286
 Width: 295
-Flags: W
+Flags: HW
 HStem: 728 130
 VStem: 163.667 243
 LayerCount: 2
 Fore
 SplineSet
-391.667 728 m 0
- 378.667 728 321.667 765 292.667 786 c 1
- 254.667 763 182.667 728 169.667 728 c 0
- 161.667 728 162.667 744 163.667 748 c 1
- 173.667 757 206.667 778 240.667 804 c 0
- 260.667 818 279.667 833 295.667 850 c 0
- 302.667 856 303.667 858 308.667 858 c 0
- 314.667 858 317.667 855 319.667 850 c 0
- 328.667 834 338.667 817 351.667 802 c 0
- 376.667 773 406.667 751 406.667 748 c 1
- 404.667 740 398.667 728 391.667 728 c 0
+406 745 m 5
+ 404 737 399 730 391.667 728 c 5
+ 377 732 321.667 765 292.667 786 c 5
+ 254.667 763 192 733 169.667 728 c 5
+ 164 731 162.667 744 163.667 748 c 5
+ 207 778 272 827 295.667 850 c 4
+ 300.91 855.095 306 859 310 859 c 4
+ 314 859 317.612 854.186 321 850 c 4
+ 338 829 381 773 406 745 c 5
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni030A.cap
@@ -8826,21 +8803,19 @@ StartChar: uni0304.cap
 Encoding: 63637 63637 289
 Width: 352
 Flags: W
-HStem: 548 48<164.025 410.422>
-VStem: 159.359 257
+HStem: 557 39<169.956 415.396>
+VStem: 168 249<557.428 596>
 LayerCount: 2
 Fore
 SplineSet
-159.359 557 m 0
- 159.359 559 168.359 596 180.359 596 c 2
- 412.359 596 l 2
- 414.359 596 417.359 595 416.359 589 c 0
- 415.359 584 412.359 573 403.359 555 c 0
- 400.359 549 394.359 548 394.359 548 c 1
- 164.359 548 l 1
- 164.359 548 157.359 547 159.359 557 c 0
+407 557 m 5
+ 315.076 557 171 557 171 557 c 5
+ 171 557 168 560 168 566 c 4
+ 168 573 175 596 180.359 596 c 6
+ 412.359 596 l 6
+ 414.359 596 417 593 417 589 c 4
+ 417 583.901 415 566 407 557 c 5
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni0306.cap
@@ -9077,14 +9052,13 @@ EndChar
 StartChar: amacron
 Encoding: 257 257 300
 Width: 443
-Flags: W
+Flags: HW
 HStem: -6 55<78.8113 155.385 284.004 325.107> 395 40<218.739 319.5> 496 46<174.613 380.774>
 VStem: 16 74<65.1934 221.895> 170.408 216 240 75<21.7226 164.743>
 LayerCount: 2
 Fore
 Refer: 261 772 N 1 0 0 1 -9 -54 2
 Refer: 64 97 N 1 0 0 1 0 0 3
-Validated: 1
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" amacron.sc
 EndChar
 
@@ -9096,7 +9070,7 @@ HStem: -3 29<-56.3745 -1.91164 79.5133 129.829 328.077 387.046 499.426 538.828> 
 VStem: 292.715 23<805.811 845.994> 477.715 18<828.732 847.513>
 LayerCount: 2
 Fore
-Refer: 255 728 N 1 0 0 1 -299.468 208 2
+Refer: 255 728 S 1 0 0 1 -299.468 208 2
 Refer: 32 65 N 1 0 0 1 -0.00051117 0 3
 Validated: 1
 EndChar
@@ -9110,7 +9084,7 @@ VStem: 248.532 54<-191.5 -113.016>
 LayerCount: 2
 Fore
 SplineSet
-393.532 53 m 0
+393.532 53 m 4
  393.532 91 369.532 247 369.532 247 c 1
  369.532 247 368.532 251 365.532 251 c 0
  341.532 253 294.532 252 271.532 252 c 0
@@ -9131,15 +9105,15 @@ SplineSet
  386.532 660 479.532 80 483.532 60 c 0
  488.532 36 532.531 26 539.531 26 c 1
  542.531 19 538.531 0 536.531 -3 c 1
- 499.532 -1 524.531 0 488.532 0 c 0
- 379.532 0 302.532 -104 302.532 -139 c 0
- 302.532 -154 308.532 -171 333.532 -171 c 0
- 380.532 -171 410.532 -133 416.532 -133 c 0
- 424.532 -133 413.532 -160 410.532 -163 c 0
- 384.532 -192 341.532 -230 299.532 -230 c 0
- 269.532 -230 248.532 -205 248.532 -178 c 0
- 248.532 -123 311.532 -56 356.532 -11 c 0
- 377.532 10 393.532 15 393.532 53 c 0
+ 499.532 -1 524.531 0 488.532 0 c 4
+ 379.532 0 302.532 -104 302.532 -139 c 4
+ 302.532 -154 308.532 -171 333.532 -171 c 4
+ 380.532 -171 410.532 -133 416.532 -133 c 4
+ 424.532 -133 413.532 -160 410.532 -163 c 4
+ 384.532 -192 341.532 -230 299.532 -230 c 4
+ 269.532 -230 248.532 -205 248.532 -178 c 4
+ 248.532 -123 311.532 -56 356.532 -11 c 4
+ 377.532 10 393.532 15 393.532 53 c 4
 199.532 296 m 0
  223.532 295 257.532 294 278.532 294 c 0
  307.532 294 329.532 295 358.532 297 c 0
@@ -9208,27 +9182,25 @@ EndChar
 StartChar: Ccircumflex
 Encoding: 264 264 305
 Width: 639
-Flags: W
+Flags: HW
 HStem: -8 36<272.881 439.534> 631 35<342.394 507.349> 728 130
 VStem: 56 95<159.906 395.926> 324.667 243 582 31<486.178 559.465>
 LayerCount: 2
 Fore
 Refer: 286 63634 N 1 0 0 1 161 0 2
 Refer: 34 67 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: ccircumflex
 Encoding: 265 265 306
 Width: 353
 Flags: W
-HStem: -6 59<121.693 193.341> 394 41<198.636 288> 496 131
-VStem: 21 78<74.6218 245.542> 148.473 212
+HStem: -6 59<121.693 193.341> 394 41<198.636 288> 496.673 131.327
+VStem: 21 78<74.6218 245.542> 146.802 212.647
 LayerCount: 2
 Fore
 Refer: 253 710 N 1 0 0 1 -547 -210 2
 Refer: 66 99 N 1 0 0 1 0 0 3
-Validated: 1
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" ccircumflex.sc
 EndChar
 
@@ -9316,27 +9288,25 @@ EndChar
 StartChar: Emacron
 Encoding: 274 274 313
 Width: 549
-Flags: W
+Flags: HW
 HStem: 0 26<-7.19322 61.4202> 0 37<157.105 372.511> 312 37<211.313 366.179> 621 36<261.767 474.116> 633 29<116.349 175.184> 728 48<228.657 475.054>
 VStem: 223.992 257 379.633 29<230.036 271.632> 501.633 29<523.182 586.555>
 LayerCount: 2
 Fore
 Refer: 289 63637 S 1 0 0 1 64.6322 180 2
 Refer: 36 69 N 1 0 0 1 -0.000318528 0 3
-Validated: 1
 EndChar
 
 StartChar: emacron
 Encoding: 275 275 314
 Width: 357
-Flags: W
+Flags: HW
 HStem: -6 59<120.417 193.244> 193 25<102 144.895> 394 41<193.759 296.5> 496 46<138.613 344.774>
 VStem: 20 78<76.3633 217.001 218 241.157> 134.408 216 263 74<313.223 388.912>
 LayerCount: 2
 Fore
 Refer: 261 772 N 1 0 0 1 -45 -54 2
 Refer: 68 101 N 1 0 0 1 0 0 3
-Validated: 1
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" emacron.sc
 EndChar
 
@@ -9520,27 +9490,25 @@ EndChar
 StartChar: Gcircumflex
 Encoding: 284 284 323
 Width: 681
-Flags: W
+Flags: HW
 HStem: -8 36<270.43 443.097> 265 29<439.716 503.52 593.978 660.826> 631 35<360.253 522.93> 728 130
 VStem: 56 95<159.906 395.926> 340.667 243 504 58<110.625 134.577> 582 31<486.178 569.761>
 LayerCount: 2
 Fore
 Refer: 286 63634 N 1 0 0 1 177 0 2
 Refer: 38 71 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: gcircumflex
 Encoding: 285 285 324
 Width: 406
-Flags: W
+Flags: HW
 HStem: -233 38<68.1439 227.883> 122 30<137.912 150> 403 33<165.087 240.782> 497 131
 VStem: -51 74<-159.73 -77.0035> 37 75<173.852 328.039> 50 88<45 83.0928> 131.473 212 275 64<-150.224 -71.33 218.91 369.262>
 LayerCount: 2
 Fore
 Refer: 253 710 N 1 0 0 1 -564 -209 2
 Refer: 70 103 N 1 0 0 1 0 0 3
-Validated: 1
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" gcircumflex.sc
 EndChar
 
@@ -9628,27 +9596,25 @@ EndChar
 StartChar: Hcircumflex
 Encoding: 292 292 331
 Width: 680
-Flags: W
+Flags: HW
 HStem: -3 29<-7.19322 63.6286 155.081 213.916 365.807 436.629 528.081 586.916> 323 39<215.745 492.586> 633 29<116.349 175.184 267.63 337.651 489.349 548.184 640.63 710.651> 728 130
 VStem: 320.3 243
 LayerCount: 2
 Fore
 Refer: 286 63634 N 1 0 0 1 156.633 0 2
 Refer: 39 72 N 1 0 0 1 -0.000318528 0 3
-Validated: 1
 EndChar
 
 StartChar: hcircumflex
 Encoding: 293 293 332
 Width: 464
-Flags: W
+Flags: HW
 HStem: -6 55<286 350.107> 361 74<283.866 353.5> 631 21<75.307 131.742> 665 20<200 213.5> 728 130
 VStem: 70.667 243 136 81<548.203 666.737> 263 75<21.7226 171.078> 312 77<222.125 388>
 LayerCount: 2
 Fore
 Refer: 286 63634 N 1 0 0 1 -93 0 2
 Refer: 71 104 N 1 0 0 1 0 0 3
-Validated: 1
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" hcircumflex.sc
 EndChar
 
@@ -9682,27 +9648,25 @@ EndChar
 StartChar: Imacron
 Encoding: 298 298 335
 Width: 307
-Flags: W
+Flags: HW
 HStem: -3 29<-7.19322 63.6286 155.081 213.916> 633 29<116.349 175.184 267.63 337.651> 728 48<107.657 354.054>
 VStem: 102.992 257
 LayerCount: 2
 Fore
 Refer: 289 63637 N 1 0 0 1 -56.3678 180 2
 Refer: 40 73 N 1 0 0 1 -0.000318528 0 3
-Validated: 1
 EndChar
 
 StartChar: imacron
 Encoding: 299 299 336
 Width: 256
-Flags: W
+Flags: HW
 HStem: -6 55<74.5 138.107> 380 55<95.7782 159.5> 496 46<59.6129 265.774>
 VStem: 51 75<46 126.683> 55.4082 216 113 75<302.317 383>
 LayerCount: 2
 Fore
 Refer: 261 772 N 1 0 0 1 -124 -54 2
 Refer: 233 305 N 1 0 0 1 1 0 3
-Validated: 1
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" imacron.sc
 EndChar
 
@@ -9833,14 +9797,13 @@ EndChar
 StartChar: Jcircumflex
 Encoding: 308 308 342
 Width: 295
-Flags: W
+Flags: HW
 HStem: -233 19<-109.812 -87.2402> 631 27<104.364 155.604 275.564 323.93> 728 130
 VStem: 110.667 243
 LayerCount: 2
 Fore
 Refer: 286 63634 N 1 0 0 1 -53 0 2
 Refer: 41 74 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: Kcommaaccent
@@ -10033,27 +9996,25 @@ EndChar
 StartChar: Omacron
 Encoding: 332 332 357
 Width: 704
-Flags: W
+Flags: HW
 HStem: -11 36<250.284 400.977> 629 36<327.652 475.507> 728 48<295.025 541.422>
 VStem: 58 94<154.09 410.262> 290.359 257 575 94<244.922 498.438>
 LayerCount: 2
 Fore
 Refer: 289 63637 N 1 0 0 1 131 180 2
 Refer: 46 79 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: omacron
 Encoding: 333 333 358
 Width: 409
-Flags: W
+Flags: HW
 HStem: -5 32<126.829 200.828> 403 32<190.936 263.934> 496 46<163.613 369.774>
 VStem: 22 78<49.2289 249.363> 159.408 216 288 78<176.798 384.03>
 LayerCount: 2
 Fore
 Refer: 261 772 N 1 0 0 1 -20 -54 2
 Refer: 78 111 N 1 0 0 1 0 0 3
-Validated: 1
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" omacron.sc
 EndChar
 
@@ -10195,27 +10156,25 @@ EndChar
 StartChar: Scircumflex
 Encoding: 348 348 369
 Width: 471
-Flags: W
+Flags: HW
 HStem: -10 39<139.183 273.486> 631 35<227.803 357.619> 728 130
 VStem: 30.797 35<116.396 189.471> 98.797 78<447.294 558.689> 214.463 243 328.797 89<109.311 219.519> 393.797 31<490.179 577.841>
 LayerCount: 2
 Fore
 Refer: 286 63634 N 1 0 0 1 50.7961 0 2
 Refer: 50 83 N 1 0 0 1 -0.000831604 0 3
-Validated: 1
 EndChar
 
 StartChar: scircumflex
 Encoding: 349 349 370
 Width: 316
-Flags: W
+Flags: HW
 HStem: -6 32<90.9586 167.788> 404 34<129.121 200.386> 499 131
 VStem: 57 58<293.506 376.858> 101.473 212 181 61<48.1324 139.924>
 LayerCount: 2
 Fore
 Refer: 253 710 N 1 0 0 1 -594 -207 2
 Refer: 82 115 N 1 0 0 1 0 0 3
-Validated: 1
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" scircumflex.sc
 EndChar
 
@@ -10345,27 +10304,25 @@ EndChar
 StartChar: Umacron
 Encoding: 362 362 380
 Width: 675
-Flags: W
+Flags: HW
 HStem: -4 58<228.936 397.713> 633 29<101.815 160.258 251.704 321.725 528.115 585.165 659.089 732.72> 728 48<297.732 544.129>
 VStem: 293.066 257
 LayerCount: 2
 Fore
 Refer: 289 63637 N 1 0 0 1 133.707 180 2
 Refer: 52 85 N 1 0 0 1 -0.999054 0 3
-Validated: 1
 EndChar
 
 StartChar: umacron
 Encoding: 363 363 381
 Width: 485
-Flags: W
+Flags: HW
 HStem: -6 55<305.5 369.107> -6 74<100.553 161.733> 380 55<89.7782 153.5> 496 46<170.613 376.774>
 VStem: 56 77<47 206.875> 107 75<257.922 406.545> 166.408 216 282 75<21.7226 187.893>
 LayerCount: 2
 Fore
 Refer: 261 772 N 1 0 0 1 -13 -54 2
 Refer: 84 117 N 1 0 0 1 0 0 3
-Validated: 1
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" umacron.sc
 EndChar
 
@@ -10548,54 +10505,50 @@ EndChar
 StartChar: Wcircumflex
 Encoding: 372 372 390
 Width: 835
-Flags: W
+Flags: HW
 HStem: -2 21<183.403 191.403 519.403 527.403> 633 29<65.8778 107.399 225.342 278.598 721.157 765.324 864.091 913.113> 728 130
 VStem: 412.07 243
 LayerCount: 2
 Fore
 Refer: 286 63634 N 1 0 0 1 248.403 0 2
 Refer: 54 87 N 1 0 0 1 0.00037384 0 3
-Validated: 1
 EndChar
 
 StartChar: wcircumflex
 Encoding: 373 373 391
 Width: 623
-Flags: W
+Flags: HW
 HStem: -6 21<108.5 133 332.5 370.5> 380 55<86.7782 150.5> 496 131
 VStem: 104 75<90.9852 379.988> 279.473 212 316 72<76.7733 214> 524 76<266.468 407.361>
 LayerCount: 2
 Fore
 Refer: 253 710 N 1 0 0 1 -416 -210 2
 Refer: 86 119 N 1 0 0 1 0 0 3
-Validated: 1
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" wcircumflex.sc
 EndChar
 
 StartChar: Ycircumflex
 Encoding: 374 374 392
 Width: 551
-Flags: W
+Flags: HW
 HStem: -3 29<118.028 188.049 279.495 339.138> 633 29<57.8746 102.31 239.963 294.252 431.337 486.018 567.129 630.947> 728 130
 VStem: 251.713 243
 LayerCount: 2
 Fore
 Refer: 286 63634 N 1 0 0 1 88.0461 0 2
 Refer: 56 89 N 1 0 0 1 -0.00037384 0 3
-Validated: 1
 EndChar
 
 StartChar: ycircumflex
 Encoding: 375 375 393
 Width: 442
-Flags: W
+Flags: HW
 HStem: -233 66<-98.8058 14.5759> 380 55<75.7782 172> 508 131
 VStem: 143 75<15 256.979> 156.473 212 333 69<239.016 407.385>
 LayerCount: 2
 Fore
 Refer: 253 710 N 1 0 0 1 -539 -198 2
 Refer: 88 121 N 1 0 0 1 0 0 3
-Validated: 1
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" ycircumflex.sc
 EndChar
 
@@ -10707,21 +10660,20 @@ EndChar
 StartChar: Hbar
 Encoding: 294 294 402
 Width: 682
-Flags: W
+Flags: HWO
 HStem: -3 29<-6.19322 64.6286 156.081 214.916 366.807 437.629 529.081 587.916> 323 39<216.745 493.586> 472 34<150.727 712.069> 633 29<117.349 176.184 268.63 338.651 490.349 549.184 641.63 711.651>
 LayerCount: 2
 Fore
 SplineSet
-160 506 m 1
- 185 506 700 506 712 506 c 0
- 715 506 716 502 715 498 c 0
- 714 493 709 480 704 472 c 1
- 679 472 163 472 151 472 c 0
- 148 472 148 479 149 483 c 0
- 150 488 153 498 160 506 c 1
+113 506 m 1
+ 138 506 653 506 665 506 c 0
+ 668 506 669 502 668 498 c 0
+ 667 493 662 480 657 472 c 1
+ 632 472 116 472 104 472 c 0
+ 101 472 101 479 102 483 c 0
+ 103 488 106 498 113 506 c 1
 EndSplineSet
 Refer: 39 72 N 1 0 0 1 0.999682 0 2
-Validated: 5
 EndChar
 
 StartChar: hbar
@@ -13146,14 +13098,13 @@ EndChar
 StartChar: acircumflex.sc
 Encoding: 65620 -1 482
 Width: 432
-Flags: W
+Flags: HW
 HStem: -3 29<-40.0088 9.65514 63.2972 103.344 201.456 252.745 332.593 377.053> 167 38<142.048 239.047> 522 131
 VStem: 214.472 212
 LayerCount: 2
 Fore
 Refer: 253 710 N 1 0 0 1 -481 -184 2
 Refer: 444 -1 N 1 0 0 1 -0.000320435 0 3
-Validated: 1
 EndChar
 
 StartChar: atilde.sc
@@ -13250,14 +13201,13 @@ EndChar
 StartChar: ecircumflex.sc
 Encoding: 65628 -1 490
 Width: 421
-Flags: W
+Flags: HW
 HStem: 0 33<0.636886 50.4694 125.967 275.738> 204 34<161.109 256.381> 414 32<196.799 336.094> 422 29<79.977 122.609> 520 131
 VStem: 174.473 212 264.637 24<153.018 191.116> 289.637 25<258.73 290.987> 349.637 26<352.019 397.829>
 LayerCount: 2
 Fore
 Refer: 253 710 N 1 0 0 1 -521 -186 2
 Refer: 448 -1 N 1 0 0 1 0.000166893 0 3
-Validated: 1
 EndChar
 
 StartChar: edieresis.sc
@@ -13302,14 +13252,13 @@ EndChar
 StartChar: icircumflex.sc
 Encoding: 65632 -1 494
 Width: 264
-Flags: W
+Flags: HW
 HStem: -3 29<0.0370445 50.8336 125.301 165.923> 422 29<82.0999 122.973 198.166 248.78> 519 131
 VStem: -2.99971 255 101.473 212
 LayerCount: 2
 Fore
 Refer: 253 710 N 1 0 0 1 -594 -187 2
 Refer: 452 -1 N 1 0 0 1 0.000286102 0 3
-Validated: 1
 EndChar
 
 StartChar: idieresis.sc
@@ -13385,14 +13334,13 @@ EndChar
 StartChar: ocircumflex.sc
 Encoding: 65638 -1 500
 Width: 527
-Flags: W
+Flags: HW
 HStem: -9 32<177.88 279.992> 423 32<227.873 332.433> 523.85 131
 VStem: 36.9998 81<97.6549 297.335> 223.473 212 392 80<149.451 346.187>
 LayerCount: 2
 Fore
 Refer: 253 710 N 1 0 0 1 -472 -182.15 2
 Refer: 458 -1 N 1 0 0 1 -0.000198364 0 3
-Validated: 1
 EndChar
 
 StartChar: otilde.sc
@@ -13481,14 +13429,13 @@ EndChar
 StartChar: ucircumflex.sc
 Encoding: 65645 -1 507
 Width: 498
-Flags: W
+Flags: HW
 HStem: -4 51<166.749 296.95> 422 29<67.1449 107.051 181.242 230.996 352.509 391.962 444.378 493.365> 519 131
 VStem: 220.473 212
 LayerCount: 2
 Fore
 Refer: 253 710 N 1 0 0 1 -475 -187 2
 Refer: 464 -1 N 1 0 0 1 0.000473022 0 3
-Validated: 1
 EndChar
 
 StartChar: udieresis.sc
@@ -13589,14 +13536,13 @@ EndChar
 StartChar: amacron.sc
 Encoding: 65651 -1 513
 Width: 432
-Flags: W
+Flags: HW
 HStem: -3 29<-40.0088 9.65514 63.2972 103.344 201.456 252.745 332.593 377.053> 167 38<142.048 239.047> 522 46<230.613 436.774>
 VStem: 226.408 216
 LayerCount: 2
 Fore
 Refer: 261 772 N 1 0 0 1 46.9997 -28 2
 Refer: 444 -1 N 1 0 0 1 -0.000320435 0 3
-Validated: 1
 EndChar
 
 StartChar: abreve.sc
@@ -13682,14 +13628,13 @@ EndChar
 StartChar: ccircumflex.sc
 Encoding: 65655 -1 517
 Width: 471
-Flags: W
+Flags: HW
 HStem: -5 33<172.97 301.861> 422 33<237.378 365.963> 522 131
 VStem: 36.0002 83<97.3934 290.75> 228.473 212 399 27<326.003 383>
 LayerCount: 2
 Fore
 Refer: 253 710 N 1 0 0 1 -467 -184 2
 Refer: 446 -1 N 1 0 0 1 0.000198364 0 3
-Validated: 1
 EndChar
 
 StartChar: cdotaccent.sc
@@ -13746,14 +13691,13 @@ EndChar
 StartChar: emacron.sc
 Encoding: 65660 -1 522
 Width: 421
-Flags: W
+Flags: HW
 HStem: 0 33<0.636886 50.4694 125.967 275.738> 204 34<161.109 256.381> 414 32<196.799 336.094> 422 29<79.977 122.609> 520 46<168.613 374.774>
 VStem: 164.408 216 264.637 24<153.018 191.116> 289.637 25<258.73 290.987> 349.637 26<352.019 397.829>
 LayerCount: 2
 Fore
 Refer: 261 772 N 1 0 0 1 -14.9998 -30 2
 Refer: 448 -1 N 1 0 0 1 0.000166893 0 3
-Validated: 1
 EndChar
 
 StartChar: ebreve.sc
@@ -13860,14 +13804,13 @@ EndChar
 StartChar: gcircumflex.sc
 Encoding: 65665 -1 527
 Width: 509
-Flags: W
+Flags: HW
 HStem: -5 33<175.152 308.824> 175 29<299.078 337.975 412.164 459.593> 422 33<238.006 376.215> 522 131
 VStem: 36.9999 83<97.6646 294.673> 225.473 212 338 52<47.7101 163.481> 414 27<327.323 381.571>
 LayerCount: 2
 Fore
 Refer: 253 710 N 1 0 0 1 -470 -184 2
 Refer: 450 -1 N 1 0 0 1 -9.15527e-05 0 3
-Validated: 1
 EndChar
 
 StartChar: gbreve.sc
@@ -13912,14 +13855,13 @@ EndChar
 StartChar: hcircumflex.sc
 Encoding: 65669 -1 531
 Width: 515
-Flags: W
+Flags: HW
 HStem: -3 29<-1.37078 50.0297 125.398 165.79 251.475 302.03 377.223 418.832> 215 34<166.51 338.196> 422 29<81.4755 122.17 198.362 249.562 333.707 375.17 450.362 500.832> 519 131
 VStem: 198.473 212
 LayerCount: 2
 Fore
 Refer: 253 710 N 1 0 0 1 -497 -187 2
 Refer: 451 -1 N 1 0 0 1 0.000149488 0 3
-Validated: 1
 EndChar
 
 StartChar: hbar.sc
@@ -13956,14 +13898,13 @@ EndChar
 StartChar: imacron.sc
 Encoding: 65672 -1 534
 Width: 264
-Flags: W
+Flags: HW
 HStem: -3 29<0.0370445 50.8336 125.301 165.923> 422 29<82.0999 122.973 198.166 248.78> 519 46<81.6133 287.775>
 VStem: -2.99971 255 77.4085 216
 LayerCount: 2
 Fore
 Refer: 261 772 S 1 0 0 1 -102 -31 2
 Refer: 452 -1 N 1 0 0 1 0.000286102 0 3
-Validated: 1
 EndChar
 
 StartChar: ibreve.sc
@@ -14064,14 +14005,13 @@ EndChar
 StartChar: jcircumflex.sc
 Encoding: 65678 -1 540
 Width: 254
-Flags: W
+Flags: HW
 HStem: -155 42<-76.6077 0.422911> 422 29<78.7989 119.365 193.559 244.986> 519 131
 VStem: 72.4724 212
 LayerCount: 2
 Fore
 Refer: 253 710 S 1 0 0 1 -623 -187 2
 Refer: 453 -1 N 1 0 0 1 -0.000274658 0 3
-Validated: 1
 EndChar
 
 StartChar: kcommaaccent.sc
@@ -14260,14 +14200,13 @@ EndChar
 StartChar: omacron.sc
 Encoding: 65690 -1 552
 Width: 527
-Flags: W
+Flags: HW
 HStem: -9 32<177.88 279.992> 423 32<227.873 332.433> 522 46<204.613 410.774>
 VStem: 36.9998 81<97.6549 297.335> 200.408 216 392 80<149.451 346.187>
 LayerCount: 2
 Fore
 Refer: 261 772 S 1 0 0 1 20.9998 -28 2
 Refer: 458 -1 N 1 0 0 1 -0.000213623 0 3
-Validated: 1
 EndChar
 
 StartChar: obreve.sc
@@ -14364,14 +14303,13 @@ EndChar
 StartChar: scircumflex.sc
 Encoding: 65698 -1 560
 Width: 349
-Flags: W
+Flags: HW
 HStem: -7 29<89.2936 173.155> 420 34<162.165 247.304> 521 131
 VStem: 18.0899 28<75.1632 127.981> 128.473 212 273.09 21<331.078 382.158>
 LayerCount: 2
 Fore
 Refer: 253 710 S 1 0 0 1 -567 -185 2
 Refer: 462 -1 N 1 0 0 1 2.86102e-05 0 3
-Validated: 1
 EndChar
 
 StartChar: scedilla.sc
@@ -14463,14 +14401,13 @@ EndChar
 StartChar: umacron.sc
 Encoding: 65705 -1 567
 Width: 498
-Flags: W
+Flags: HW
 HStem: -4 51<166.749 296.95> 422 29<67.1449 107.051 181.242 230.996 352.509 391.962 444.378 493.365> 519 46<210.613 416.775>
 VStem: 206.409 216
 LayerCount: 2
 Fore
 Refer: 261 772 N 1 0 0 1 27.0005 -31 2
 Refer: 464 -1 N 1 0 0 1 0.000473022 0 3
-Validated: 1
 EndChar
 
 StartChar: ubreve.sc
@@ -14561,27 +14498,25 @@ EndChar
 StartChar: wcircumflex.sc
 Encoding: 65710 -1 572
 Width: 572
-Flags: W
+Flags: HW
 HStem: -2 21<120.318 125.818 336.318 341.818> 422 29<40.667 77.4769 158.862 204.579 458.577 491.097 552.294 589.529> 519 131
 VStem: 251.473 212
 LayerCount: 2
 Fore
 Refer: 253 710 N 1 0 0 1 -444 -187 2
 Refer: 466 -1 N 1 0 0 1 1.00072 0 3
-Validated: 1
 EndChar
 
 StartChar: ycircumflex.sc
 Encoding: 65711 -1 573
 Width: 392
-Flags: W
+Flags: HW
 HStem: -3 29<63.1864 114.964 189.158 231.138> 422 29<40.6517 64.7069 155.254 196.053 280.702 315.082 365.469 412.194> 519 131
 VStem: 147.473 212
 LayerCount: 2
 Fore
 Refer: 253 710 N 1 0 0 1 -548 -187 2
 Refer: 468 -1 N 1 0 0 1 0.000106812 0 3
-Validated: 1
 EndChar
 
 StartChar: ydieresis.sc
@@ -14691,14 +14626,13 @@ EndChar
 StartChar: uni01D6.sc
 Encoding: 65720 -1 582
 Width: 498
-Flags: W
+Flags: HW
 HStem: -4 51<207.749 337.95> 422 29<108.145 148.051 222.242 271.997 393.51 432.962 485.379 534.366> 519 100<255.313 320.229 424.313 489.229> 680 46<312.613 518.775>
 VStem: 245.001 88<530.666 609.191> 308.409 216 414.001 88<530.666 609.191>
 LayerCount: 2
 Fore
 Refer: 261 772 N 1 0 0 1 129 130 2
 Refer: 508 -1 N 1 0 0 1 41.0005 0 3
-Validated: 1
 EndChar
 
 StartChar: uni01D8.sc
@@ -14743,14 +14677,13 @@ EndChar
 StartChar: uni01E3.sc
 Encoding: 65724 -1 586
 Width: 838
-Flags: W
+Flags: HW
 HStem: -3 29<87.9907 137.655 191.297 231.344 329.456 380.745 460.592 505.053> 0 33<546.636 596.468 671.966 821.737> 167 38<270.047 367.046> 204 34<707.108 802.38> 414 32<742.798 882.093> 422 29<625.976 668.608> 497 46<507.613 713.774>
 VStem: 503.408 216 810.636 24<153.018 191.116> 835.636 25<258.73 290.987> 895.636 26<352.019 397.829>
 LayerCount: 2
 Fore
 Refer: 261 772 S 1 0 0 1 324 -53 2
 Refer: 486 -1 N 1 0 0 1 128 0 3
-Validated: 1
 EndChar
 
 StartChar: aringacute.sc
@@ -14821,14 +14754,13 @@ EndChar
 StartChar: uni0233.sc
 Encoding: 65730 -1 592
 Width: 392
-Flags: W
+Flags: HW
 HStem: -3 29<182.186 233.964 308.158 350.138> 422 29<159.652 183.707 274.254 315.053 399.702 434.082 484.469 531.194> 519 46<352.613 558.774>
 VStem: 348.408 216
 LayerCount: 2
 Fore
 Refer: 261 772 N 1 0 0 1 169 -31 2
 Refer: 468 -1 N 1 0 0 1 119 0 3
-Validated: 1
 EndChar
 
 StartChar: uni2619
