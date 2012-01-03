@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1273443993
-ModificationTime: 1325600360
+ModificationTime: 1325600461
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -776,7 +776,7 @@ NameList: AMS Names
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 216 36 12
+WinInfo: 360 36 12
 BeginPrivate: 8
 BlueValues 39 [-10 0 434 437 641 644 658 668 685 695]
 BlueScale 8 0.039625
@@ -8603,41 +8603,38 @@ EndChar
 
 StartChar: uni02BB
 Encoding: 699 699 250
-Width: 460
+Width: 180
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: 458 180
-VStem: 571 99<477.748 543.702>
+VStem: 30 99<477.748 543.702>
 LayerCount: 2
 Fore
-Refer: 270 786 N 1 0 0 1 460 0 2
-Validated: 1
+Refer: 270 786 N 1 0 0 1 -81 0 2
 EndChar
 
 StartChar: afii57929
 Encoding: 700 700 251
-Width: 460
+Width: 174
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: 465 187
-VStem: 633 68<546.578 633.614>
+VStem: 76 68<546.578 633.614>
 LayerCount: 2
 Fore
-Refer: 271 789 N 1 0 0 1 460 0 2
-Validated: 1
+Refer: 271 789 N 1 0 0 1 -97 0 2
 EndChar
 
 StartChar: uni02C0
 Encoding: 704 704 252
-Width: 437
+Width: 188
 VWidth: 0
-Flags: HW
-HStem: 487 58<599.567 629.987 599.567 629.987> 607 35<601.984 664.142 601.984 664.142>
-VStem: 598 32<491.611 527.486 491.611 527.486> 667 45<551.173 604.214 551.173 604.214>
+Flags: W
+HStem: 487 58<45.5671 75.9872> 607 35<47.984 110.142>
+VStem: 44 32<491.611 527.486> 113 45<551.173 604.214>
 LayerCount: 2
 Fore
-Refer: 266 777 N 1 0 0 1 458 0 2
-Validated: 9
+Refer: 266 777 N 1 0 0 1 -96 0 2
 EndChar
 
 StartChar: circumflex

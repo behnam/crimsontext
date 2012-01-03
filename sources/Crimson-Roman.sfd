@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1270926789
-ModificationTime: 1325600192
+ModificationTime: 1325600441
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -899,7 +899,7 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 36 36 12
+WinInfo: 360 36 12
 BeginPrivate: 9
 BlueValues 39 [-10 0 429 439 641 644 658 670 693 696]
 OtherBlues 11 [-228 -226]
@@ -9099,35 +9099,35 @@ EndChar
 
 StartChar: uni02BB
 Encoding: 699 699 321
-Width: 495
-Flags: HW
-HStem: 476 181<529 597>
-VStem: 507 64<521 600.267>
+Width: 170
+Flags: W
+HStem: 476 181<52 120>
+VStem: 30 64<521 600.267>
 LayerCount: 2
 Fore
-Refer: 345 786 N 1 0 0 1 474 0 2
+Refer: 345 786 N 1 0 0 1 -3 0 2
 EndChar
 
 StartChar: afii57929
 Encoding: 700 700 322
-Width: 143
-Flags: HW
+Width: 149
+Flags: W
 HStem: 461 213
-VStem: 54 58<529.479 628.5>
+VStem: 61 58<529.479 628.5>
 LayerCount: 2
 Fore
-Refer: 346 789 N 1 0 0 1 -21 0 2
+Refer: 346 789 N 1 0 0 1 -14 0 2
 EndChar
 
 StartChar: uni02C0
 Encoding: 704 704 323
-Width: 485
-Flags: HW
-HStem: 604 29<519.258 570.225>
-VStem: 469 46<548.661 600.444> 499 42<468.096 514.298> 575 41<541.096 602.757>
+Width: 207
+Flags: W
+HStem: 604 29<80.258 131.225>
+VStem: 30 46<548.661 600.444> 60 42<468.096 514.298> 136 41<541.096 602.757>
 LayerCount: 2
 Fore
-Refer: 341 777 N 1 0 0 1 450 -22 2
+Refer: 341 777 N 1 0 0 1 11 -22 2
 EndChar
 
 StartChar: circumflex
