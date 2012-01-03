@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1270926789
-ModificationTime: 1325567764
+ModificationTime: 1325593717
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -894,14 +894,12 @@ EndMacFeatures
 LangName: 1033 "" "" "" "FontForge : Crimson : 28-7-2010" "" "" "" "" "" "" "" "" "" "" "http://scripts.sil.org/OFL" 
 GaspTable: 1 65535 3
 Encoding: UnicodeBmp
-Compacted: 1
 UnicodeInterp: none
 NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
-WidthSeparation: 78
-WinInfo: 1005 15 11
+WinInfo: 72 36 12
 BeginPrivate: 9
 BlueValues 39 [-10 0 429 439 641 644 658 670 693 696]
 OtherBlues 11 [-228 -226]
@@ -8593,41 +8591,22 @@ EndChar
 
 StartChar: tbar
 Encoding: 359 359 291
-Width: 323
+Width: 311
 Flags: W
-HStem: -7 48<183.894 277.512> 268 40<22.1905 301.084> 374 48<161 301.919>
-VStem: 84 77<63.875 374>
+HStem: -7 54<176.456 252.292> 268 40<22.1905 293.084> 391 41<27.9629 83 160 292.375>
+VStem: 22 272 83 77<62.1149 391 432 519.684>
 LayerCount: 2
 Fore
 SplineSet
-131 526 m 1
- 143 526 161 525 161 521 c 2
- 161 422 l 1
- 205 422 282 421 296 421 c 0
- 301 421 304 418 304 412 c 0
- 304 403 301 388 294 374 c 1
- 161 374 l 1
- 161 129 l 2
- 161 76 191 41 235 41 c 0
- 259 41 292 57 297 60 c 0
- 302 63 312 41 311 40 c 0
- 296 24 250 -7 201 -7 c 0
- 139 -7 84 34 84 120 c 2
- 84 374 l 1
- 26 374 l 2
- 23 374 21 387 21 395 c 0
- 21 399 21 401 22 402 c 1
- 38 409 63 429 85 455 c 0
- 109 484 128 522 131 526 c 1
-28 308 m 1
- 57 308 282 308 296 308 c 0
- 300 308 302 303 302 298 c 3
- 302 292 300 277 296 268 c 1
- 267 268 41 268 27 268 c 0
+28 308 m 1xf0
+ 57 308 274 308 288 308 c 0
+ 292 308 294 303 294 298 c 3
+ 294 292 292 277 288 268 c 1
+ 259 268 41 268 27 268 c 0
  23 268 22 276 22 281 c 3
- 22 287 22 299 28 308 c 1
+ 22 287 22 299 28 308 c 1xf0
 EndSplineSet
-Validated: 5
+Refer: 83 116 N 1 0 0 1 0 0 3
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" tbar.sc
 EndChar
 
