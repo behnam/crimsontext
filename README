@@ -52,4 +52,3 @@ Changes (2010-July-28):
 - Used FontForge's autospacing on all fonts; the results are, obviously, terrible.
 - Experimenting with a lc "f" with shorter terminal for overlapping cases. Implemented as an almost-correctly working calt-feature in the Roman Regular. I favour this approach over ligatures, actually
 
-
