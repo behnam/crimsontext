@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1316567991
-ModificationTime: 1325600782
+ModificationTime: 1325601445
 PfmFamily: 17
 TTFWeight: 600
 TTFWidth: 5
@@ -194,7 +194,7 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 360 36 12
+WinInfo: 252 36 12
 BeginPrivate: 10
 BlueValues 39 [-11 0 437 443 638 645 661 667 694 698]
 OtherBlues 11 [-223 -222]
@@ -207,7 +207,7 @@ StemSnapV 16 [55 104 114 130]
 ForceBold 4 true
 ExpansionFactor 4 0.06
 EndPrivate
-BeginChars: 65690 410
+BeginChars: 65690 412
 
 StartChar: space
 Encoding: 32 32 0
@@ -9818,6 +9818,30 @@ VStem: 30 54<575.479 628.564> 64 45<489.1 536.256> 142 48<565.744 630.184>
 LayerCount: 2
 Fore
 Refer: 249 777 N 1 0 0 1 12 0 2
+EndChar
+
+StartChar: Gcaron
+Encoding: 486 486 410
+Width: 722
+Flags: W
+HStem: -6 40<321.97 504.366> 263 33<439.097 509.401 637.354 698.942> 627 40<307.456 493.466> 728 136
+VStem: 44 130<209.419 440.559> 274 244 517 112<66.3779 247.521> 587 37<487.284 534.98>
+LayerCount: 2
+Fore
+Refer: 252 63647 N 1 0 0 1 13 1 2
+Refer: 39 71 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: gcaron
+Encoding: 487 487 411
+Width: 471
+Flags: W
+HStem: -222 48<162.232 306.789> -9 91<156.643 347.537> 142 34<183.897 268.124> 370 56<389.608 450.75> 408 34<173.817 257.061> 504 158
+VStem: 23 94<-131.275 -56.982> 45 99<219.378 365.102> 114 218 295 99<220.582 367.461> 379 78<-99.2095 -3.5>
+LayerCount: 2
+Fore
+Refer: 251 780 N 1 0 0 1 58 11 2
+Refer: 71 103 N 1 0 0 1 0 0 3
 EndChar
 EndChars
 EndSplineFont
