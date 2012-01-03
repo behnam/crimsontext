@@ -14,13 +14,14 @@ Descent: 307
 LayerCount: 2
 Layer: 0 0 "Back"  1
 Layer: 1 0 "Fore"  0
+NeedsXUIDChange: 1
 XUID: [1021 732 1356305489 5808660]
 FSType: 0
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1316567991
-ModificationTime: 1325593545
+ModificationTime: 1325600782
 PfmFamily: 17
 TTFWeight: 600
 TTFWidth: 5
@@ -193,7 +194,7 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 144 36 12
+WinInfo: 360 36 12
 BeginPrivate: 10
 BlueValues 39 [-11 0 437 443 638 645 661 667 694 698]
 OtherBlues 11 [-223 -222]
@@ -206,7 +207,7 @@ StemSnapV 16 [55 104 114 130]
 ForceBold 4 true
 ExpansionFactor 4 0.06
 EndPrivate
-BeginChars: 65690 407
+BeginChars: 65690 410
 
 StartChar: space
 Encoding: 32 32 0
@@ -9784,6 +9785,39 @@ SplineSet
  198 521 202 363 202 347 c 0
 EndSplineSet
 Validated: 33
+EndChar
+
+StartChar: uni02BB
+Encoding: 699 699 407
+Width: 194
+Flags: W
+HStem: 478 174
+VStem: 30 77<519 586.808>
+LayerCount: 2
+Fore
+Refer: 253 786 N 1 0 0 1 11 0 2
+EndChar
+
+StartChar: afii57929
+Encoding: 700 700 408
+Width: 161
+Flags: W
+HStem: 459 211
+VStem: 65 66<533.807 625.5>
+LayerCount: 2
+Fore
+Refer: 255 789 N 1 0 0 1 -53 0 2
+EndChar
+
+StartChar: uni02C0
+Encoding: 704 704 409
+Width: 220
+Flags: W
+HStem: 631 34<88.1773 139.045>
+VStem: 30 54<575.479 628.564> 64 45<489.1 536.256> 142 48<565.744 630.184>
+LayerCount: 2
+Fore
+Refer: 249 777 N 1 0 0 1 12 0 2
 EndChar
 EndChars
 EndSplineFont
