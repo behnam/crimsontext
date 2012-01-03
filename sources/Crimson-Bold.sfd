@@ -11,17 +11,17 @@ UnderlinePosition: -102
 UnderlineWidth: 51
 Ascent: 819
 Descent: 205
-sfntRevision: 0x0000cccd
 LayerCount: 2
 Layer: 0 0 "Back"  1
 Layer: 1 0 "Fore"  0
+NeedsXUIDChange: 1
 XUID: [1021 85 519305545 5082149]
 FSType: 0
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1273891947
-ModificationTime: 1322160761
+ModificationTime: 1325595171
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -270,14 +270,12 @@ KernClass2: 118+ 91 "'kern' Horizontal Kerning in Latin lookup 0 kerning class 1
 LangName: 1033 "" "" "" "" "" "" "" "" "" "" "" "" "" "Copyright (c) 2011, Sebastian Kosch,,, (<URL|email>),+AAoA-with Reserved Font Name Crimson.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL" 
 GaspTable: 1 65535 15
 Encoding: UnicodeBmp
-Compacted: 1
 UnicodeInterp: none
 NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
-WidthSeparation: 70
-WinInfo: 648 18 13
+WinInfo: 0 36 12
 BeginPrivate: 10
 BlueValues 39 [-10 0 442 449 633 645 662 667 695 696]
 OtherBlues 11 [-219 -218]
@@ -411,7 +409,7 @@ SplineSet
  179.234 527 186.234 531 205.234 531 c 0
  214.234 531 215.234 530 218.234 528 c 1
 EndSplineSet
-Validated: 524837
+Validated: 549
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" numbersign.sc
 EndChar
 
@@ -597,7 +595,7 @@ SplineSet
  9.12891 723 14.1289 744 19.1289 747 c 1
  94.1289 713 258.129 574 258.129 305 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" parenright.sc
 EndChar
 
@@ -642,7 +640,7 @@ SplineSet
  229.42 520 232.42 520 236.42 524 c 0
  262.42 552 255.42 582 287.42 618 c 0
 EndSplineSet
-Validated: 524833
+Validated: 545
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" asterisk.sc
 EndChar
 
@@ -813,7 +811,7 @@ SplineSet
  75.1602 34 121.16 38 126.16 51 c 0
  134.16 71 134.16 102 134.16 145 c 2
 EndSplineSet
-Validated: 524833
+Validated: 545
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" one.sc
 Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 0 subtable" one.sc
 Substitution2: "'onum' Oldstyle Figures in Latin lookup 3-1" one.onum
@@ -954,7 +952,7 @@ SplineSet
  156 517 135 410 135 410 c 1
  160 416 204 423 241 423 c 0xe8
 EndSplineSet
-Validated: 524801
+Validated: 513
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" five.sc
 Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 0 subtable" five.sc
 Substitution2: "'onum' Oldstyle Figures in Latin lookup 3-1" five.onum
@@ -1188,7 +1186,7 @@ SplineSet
  489.547 337 l 17
  503.547 337 490.547 285 476.547 278 c 1
 EndSplineSet
-Validated: 524321
+Validated: 33
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" equal.sc
 EndChar
 
@@ -1335,7 +1333,7 @@ SplineSet
  377.181 275 378.181 280 378.181 280 c 1
  295.181 476 l 1
 EndSplineSet
-Validated: 524321
+Validated: 33
 Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 0 subtable" a.sc
 Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 0 subtable" a.sc
 EndChar
@@ -1381,7 +1379,7 @@ SplineSet
  83.3857 657 139.386 657 181.386 657 c 0
  223.386 657 276.386 660 334.386 660 c 0
 EndSplineSet
-Validated: 524321
+Validated: 33
 Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 0 subtable" b.sc
 Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 0 subtable" b.sc
 EndChar
@@ -1447,7 +1445,7 @@ SplineSet
  83.3857 657 139.386 657 181.386 657 c 0
  223.386 657 275.386 659 334.386 660 c 0
 EndSplineSet
-Validated: 524321
+Validated: 33
 Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 0 subtable" d.sc
 Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 0 subtable" d.sc
 EndChar
@@ -1501,7 +1499,7 @@ SplineSet
  33.3857 630 34.3857 654 38.3857 660 c 1
  83.3857 657 139.386 657 181.386 657 c 0xbc
 EndSplineSet
-Validated: 524321
+Validated: 33
 Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 0 subtable" e.sc
 Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 0 subtable" e.sc
 EndChar
@@ -1551,7 +1549,7 @@ SplineSet
  33.3857 630 34.3857 654 38.3857 660 c 1
  83.3857 657 139.386 657 181.386 657 c 0
 EndSplineSet
-Validated: 524321
+Validated: 33
 Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 0 subtable" f.sc
 Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 0 subtable" f.sc
 EndChar
@@ -1653,7 +1651,7 @@ SplineSet
  33.3857 632 34.3857 656 38.3857 662 c 1
  77.3857 658 139.386 655 181.386 655 c 0
 EndSplineSet
-Validated: 524321
+Validated: 33
 Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 0 subtable" h.sc
 Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 0 subtable" h.sc
 EndChar
@@ -1687,7 +1685,7 @@ SplineSet
  33.3857 632 34.3857 656 38.3857 662 c 1
  77.3857 658 139.386 655 181.386 655 c 0
 EndSplineSet
-Validated: 524321
+Validated: 33
 Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 0 subtable" i.sc
 Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 0 subtable" i.sc
 EndChar
@@ -1720,7 +1718,7 @@ SplineSet
  27 632 28 656 32 662 c 1
  71 658 133 655 175 655 c 0
 EndSplineSet
-Validated: 524321
+Validated: 33
 Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 0 subtable" j.sc
 Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 0 subtable" j.sc
 EndChar
@@ -1774,7 +1772,7 @@ SplineSet
  33.3857 632 34.3857 656 38.3857 662 c 1
  77.3857 658 139.386 655 181.386 655 c 0
 EndSplineSet
-Validated: 524321
+Validated: 33
 Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 0 subtable" k.sc
 Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 0 subtable" k.sc
 EndChar
@@ -1813,7 +1811,7 @@ SplineSet
  250.386 587 250 556 250.386 513 c 2
  250.386 141 l 2xb0
 EndSplineSet
-Validated: 524321
+Validated: 33
 Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 0 subtable" l.sc
 Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 0 subtable" l.sc
 EndChar
@@ -1870,7 +1868,7 @@ SplineSet
  57.1387 633 61.1387 660 63.1387 662 c 1
  109.139 660 125.139 656 171.139 656 c 0
 EndSplineSet
-Validated: 524321
+Validated: 33
 Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 0 subtable" m.sc
 Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 0 subtable" m.sc
 EndChar
@@ -1917,7 +1915,7 @@ SplineSet
  34.7363 625 32.7363 657 37.7363 662 c 1
  68.7363 660 104.736 655 150.736 655 c 0xb8
 EndSplineSet
-Validated: 524321
+Validated: 33
 Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 0 subtable" n.sc
 Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 0 subtable" n.sc
 EndChar
@@ -1983,7 +1981,7 @@ SplineSet
  223.386 657 276.386 660 335.386 660 c 0
  460.386 660 565.386 596 565.386 482 c 0
 EndSplineSet
-Validated: 524321
+Validated: 33
 Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 0 subtable" p.sc
 Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 0 subtable" p.sc
 EndChar
@@ -2014,7 +2012,7 @@ SplineSet
  520 33 560 171 560 292 c 0
  560 445 505 624 356 624 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 0 subtable" q.sc
 Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 0 subtable" q.sc
 EndChar
@@ -2062,7 +2060,7 @@ SplineSet
  296.386 338 l 0
  353.386 338 405.386 391 405.386 468 c 0
 EndSplineSet
-Validated: 524321
+Validated: 33
 Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 0 subtable" r.sc
 Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 0 subtable" r.sc
 EndChar
@@ -2180,7 +2178,7 @@ SplineSet
  17.3857 632 18.3857 656 22.3857 662 c 1
  61.3857 658 123.386 655 165.386 655 c 0
 EndSplineSet
-Validated: 524321
+Validated: 33
 Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 0 subtable" u.sc
 Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 0 subtable" u.sc
 EndChar
@@ -2217,7 +2215,7 @@ SplineSet
  -7.61426 632 -6.61426 656 -2.61426 662 c 1
  36.3857 658 98.3857 655 140.386 655 c 0
 EndSplineSet
-Validated: 524321
+Validated: 33
 Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 0 subtable" v.sc
 Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 0 subtable" v.sc
 EndChar
@@ -2262,7 +2260,7 @@ SplineSet
  -8.21289 632 -6.21289 656 -2.21289 662 c 1
  36.7871 658 98.7871 655 140.787 655 c 0
 EndSplineSet
-Validated: 524321
+Validated: 33
 Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 0 subtable" w.sc
 Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 0 subtable" w.sc
 EndChar
@@ -2314,7 +2312,7 @@ SplineSet
  14.75 625 14.75 657 19.75 662 c 1
  68.75 660 126.75 656 175.75 656 c 0
 EndSplineSet
-Validated: 524321
+Validated: 33
 Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 0 subtable" x.sc
 Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 0 subtable" x.sc
 EndChar
@@ -2361,7 +2359,7 @@ SplineSet
  174.386 34 220.386 38 225.386 51 c 0
  233.386 71 233 102 233.386 145 c 2
 EndSplineSet
-Validated: 524321
+Validated: 33
 Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 0 subtable" y.sc
 Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 0 subtable" y.sc
 EndChar
@@ -2395,7 +2393,7 @@ SplineSet
  416.367 610 l 1
  233.367 610 l 2xc0
 EndSplineSet
-Validated: 524321
+Validated: 33
 Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 0 subtable" z.sc
 Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 0 subtable" z.sc
 EndChar
@@ -2611,7 +2609,7 @@ SplineSet
  328.386 36 367.386 122 367.386 196 c 0
  367.386 333 315.386 375 253.386 375 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" b.sc
 EndChar
 
@@ -2848,7 +2846,7 @@ SplineSet
  221.386 366 224.386 369 226.386 371 c 0
  254.386 403 321.386 446 367.386 446 c 0
 EndSplineSet
-Validated: 524321
+Validated: 33
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" h.sc
 EndChar
 
@@ -2885,7 +2883,7 @@ SplineSet
  229.386 576 196.386 544 156.386 544 c 0
  116.386 544 84.3857 576 84.3857 616 c 0xf8
 EndSplineSet
-Validated: 524321
+Validated: 33
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" i.sc
 EndChar
 
@@ -2967,7 +2965,7 @@ SplineSet
  227.386 194 218.386 201 218.386 201 c 1
  218.386 145 l 2
 EndSplineSet
-Validated: 524321
+Validated: 33
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" k.sc
 EndChar
 
@@ -2998,7 +2996,7 @@ SplineSet
  88.3857 71 88.3857 102 88.3857 145 c 2
  88.3857 558 l 2
 EndSplineSet
-Validated: 524321
+Validated: 33
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" l.sc
 EndChar
 
@@ -3061,7 +3059,7 @@ SplineSet
  235.386 366 238.386 369 240.386 371 c 0
  268.386 403 334.386 446 380.386 446 c 0xbc
 EndSplineSet
-Validated: 524321
+Validated: 33
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" m.sc
 EndChar
 
@@ -3108,7 +3106,7 @@ SplineSet
  235.386 366 238.386 369 240.386 371 c 0
  268.386 403 334.386 446 380.386 446 c 0xbc
 EndSplineSet
-Validated: 524325
+Validated: 37
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" n.sc
 EndChar
 
@@ -3175,7 +3173,7 @@ SplineSet
  316.386 36 377.386 83 377.386 199 c 0
  377.386 302 351.386 375 270.386 375 c 0xdc
 EndSplineSet
-Validated: 524321
+Validated: 33
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" p.sc
 EndChar
 
@@ -3253,7 +3251,7 @@ SplineSet
  232.386 345 237.386 345 238.386 347 c 0
  262.386 390 300.386 447 363.386 447 c 11xd0
 EndSplineSet
-Validated: 524321
+Validated: 33
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" r.sc
 EndChar
 
@@ -3366,7 +3364,7 @@ SplineSet
  319.5 56 355.5 78 355.5 93 c 2
  355.5 260 l 2xbc
 EndSplineSet
-Validated: 524289
+Validated: 1
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" u.sc
 EndChar
 
@@ -3400,7 +3398,7 @@ SplineSet
  -6.21289 414 -4.21289 437 -0.212891 443 c 1
  25.7871 440 95.7871 436 134.787 436 c 0
 EndSplineSet
-Validated: 524321
+Validated: 33
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" v.sc
 EndChar
 
@@ -3449,7 +3447,7 @@ SplineSet
  -6.21289 414 -4.21289 437 -0.212891 443 c 1
  25.7871 440 88.7871 436 127.787 436 c 0
 EndSplineSet
-Validated: 524321
+Validated: 33
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" w.sc
 EndChar
 
@@ -3498,7 +3496,7 @@ SplineSet
  11.3857 414 13.3857 437 17.3857 443 c 1
  57.3857 438 116.386 437 155.386 436 c 1
 EndSplineSet
-Validated: 524321
+Validated: 33
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" x.sc
 EndChar
 
@@ -3536,7 +3534,7 @@ SplineSet
  -6.21289 414 -4.21289 437 -0.212891 443 c 1
  25.7871 440 95.7871 436 134.787 436 c 0
 EndSplineSet
-Validated: 524321
+Validated: 33
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" y.sc
 EndChar
 
@@ -3605,7 +3603,7 @@ SplineSet
  16 312 17 317 19 319 c 1
  61 332 107 371 107 424 c 0xd0
 EndSplineSet
-Validated: 524289
+Validated: 1
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" braceleft.sc
 EndChar
 
@@ -3626,7 +3624,7 @@ SplineSet
  127.265 770 126.265 764 126.265 764 c 1
  127.265 -108 l 2
 EndSplineSet
-Validated: 524289
+Validated: 1
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" bar.sc
 EndChar
 
@@ -3661,7 +3659,7 @@ SplineSet
  104.882 674 54.8818 719 26.8818 734 c 1
  20.8818 742 30.8818 760 33.8818 760 c 1xd0
 EndSplineSet
-Validated: 524289
+Validated: 1
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" braceright.sc
 EndChar
 
@@ -3792,7 +3790,7 @@ SplineSet
  47.2539 307 l 17
  41.2539 313 58.2539 349 67.2539 349 c 1
 EndSplineSet
-Validated: 524837
+Validated: 549
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" sterling.sc
 EndChar
 
@@ -3887,7 +3885,7 @@ SplineSet
  202.386 34 248.386 38 253.386 51 c 0
  261.386 71 261 102 261.386 145 c 2
 EndSplineSet
-Validated: 524837
+Validated: 549
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" yen.sc
 EndChar
 
@@ -3916,7 +3914,7 @@ SplineSet
  132 -116 86.2646 -123 84.2646 -123 c 0
  77.2646 -123 79.2646 -119 79.2646 -115 c 2
 EndSplineSet
-Validated: 524801
+Validated: 513
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" brokenbar.sc
 EndChar
 
@@ -4431,7 +4429,7 @@ SplineSet
  457 337 442 312 435 309 c 0
  424 304 412 300 404 299 c 1x1680
 EndSplineSet
-Validated: 524833
+Validated: 545
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" paragraph.sc
 EndChar
 
@@ -4619,7 +4617,7 @@ SplineSet
  256.11 -11 l 2
  253.11 -18 236.11 -30 219.11 -34 c 0
 EndSplineSet
-Validated: 524325
+Validated: 37
 EndChar
 
 StartChar: onehalf
@@ -4673,7 +4671,7 @@ SplineSet
  532.351 672 545.351 680 562.351 684 c 0
  571.351 686 579.351 682 580.351 677 c 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: threequarters
@@ -4914,7 +4912,7 @@ SplineSet
  331.886 630 332.886 654 336.886 660 c 1
  381.886 657 437.886 657 479.886 657 c 0
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: Ccedilla
@@ -5050,7 +5048,7 @@ SplineSet
  387.25 348 387.25 317 383.25 308 c 5
 EndSplineSet
 Refer: 36 68 N 1 0 0 1 4.25 0 2
-Validated: 524325
+Validated: 37
 EndChar
 
 StartChar: Ntilde
@@ -5286,7 +5284,7 @@ SplineSet
  33.3857 632 34.3857 656 38.3857 662 c 1
  77.3857 658 139.386 655 181.386 655 c 0x9e
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: germandbls
@@ -5334,7 +5332,7 @@ SplineSet
  94.3857 443 l 2
  94.3857 580 223.386 698 328.386 698 c 0
 EndSplineSet
-Validated: 524321
+Validated: 33
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" germandbls.sc
 EndChar
 
@@ -5878,7 +5876,7 @@ SplineSet
  298.386 36 359.386 83 359.386 199 c 0
  359.386 302 333.386 375 252.386 375 c 0
 EndSplineSet
-Validated: 524321
+Validated: 33
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" thorn.sc
 EndChar
 
@@ -6621,7 +6619,7 @@ SplineSet
  608.254 114 634.254 188 636.254 196 c 1
  651.254 196 662.254 192 670.254 185 c 1
 EndSplineSet
-Validated: 524325
+Validated: 37
 EndChar
 
 StartChar: arrowleft
@@ -7312,7 +7310,7 @@ SplineSet
  239.386 421 233.386 386 232.386 372 c 0
  231.386 350 231.386 315 231.386 309 c 2
 EndSplineSet
-Validated: 524321
+Validated: 33
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" dotlessi.sc
 EndChar
 
@@ -9112,25 +9110,24 @@ StartChar: Tcommaaccent
 Encoding: 354 354 353
 Width: 634
 Flags: W
-HStem: -4 37<172.721 238.999 395.001 461.279> 613 44<102.634 247 387 531.366>
-VStem: 8 39<482.931 537.849> 247 140<41.2661 613> 587 39<482.931 537.849>
-CounterMasks: 1 38
+HStem: -161 30<240.41 329.29> -64 68<286.155 315.807> -4 37<172.721 238.999 395.001 461.279> 613 44<102.634 247 387 531.366>
+VStem: 8 39<482.931 537.849> 247 140<41.2661 613> 336 58<-126.846 -64.5135> 587 39<482.931 537.849>
 LayerCount: 2
 Fore
+Refer: 256 63639 N 1 0 0 1 66 6 2
 Refer: 52 84 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: tcommaaccent
 Encoding: 355 355 354
 Width: 342
 Flags: W
-HStem: -7 64<181 277.975> 381 47<14.9586 82 212 328.039>
-VStem: 82 130<68.9375 381 428 500.009>
+HStem: -157 28<134.459 216.958> -66 63<175.959 218> -7 64<181 277.975> 381 47<14.9586 82 212 328.039>
+VStem: 82 130<68.9375 381 428 500.009> 223 54<-125.534 -66.5938>
 LayerCount: 2
 Fore
+Refer: 118 184 N 1 0 0 1 -28 -1 2
 Refer: 84 116 N 1 0 0 1 0 0 3
-Validated: 1
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" uni0163.sc
 EndChar
 
@@ -9538,7 +9535,7 @@ SplineSet
  210.181 280 210.181 276 212.181 276 c 0
  232.181 274 272.181 273 295.181 273 c 0
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: aogonek
@@ -9668,7 +9665,7 @@ SplineSet
  33.3857 630 34.3857 654 38.3857 660 c 1
  83.3857 657 139.386 657 181.386 657 c 0xdf
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: eogonek
@@ -9728,7 +9725,7 @@ SplineSet
  685 535 l 2
 EndSplineSet
 Refer: 40 72 N 1 0 0 1 -0.000778198 0 2
-Validated: 524293
+Validated: 5
 EndChar
 
 StartChar: hbar
@@ -9749,7 +9746,7 @@ SplineSet
  31 545.037 32.2031 558.305 36 564 c 1
 EndSplineSet
 Refer: 72 104 N 1 0 0 1 -0.000778198 0 2
-Validated: 524293
+Validated: 5
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" hbar.sc
 EndChar
 
@@ -9791,7 +9788,7 @@ SplineSet
  33.3857 632 34.3857 656 38.3857 662 c 1
  77.3857 658 139.386 655 181.386 655 c 0xe8
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: iogonek
@@ -9836,7 +9833,7 @@ SplineSet
  239.386 421 233.386 386 232.386 372 c 0
  231.386 350 231.386 315 231.386 309 c 2xf9
 EndSplineSet
-Validated: 524321
+Validated: 33
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" iogonek.sc
 EndChar
 
@@ -9911,7 +9908,7 @@ SplineSet
  239.386 421 233.386 386 232.386 372 c 0
  231.386 350 231.386 242 231.386 236 c 1xd8
 EndSplineSet
-Validated: 524321
+Validated: 33
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" kgreenlandic.sc
 EndChar
 
@@ -9931,7 +9928,7 @@ SplineSet
  39.8672 180 l 5x30
 EndSplineSet
 Refer: 44 76 N 1 0 0 1 4.86658 0 2
-Validated: 524325
+Validated: 37
 EndChar
 
 StartChar: lslash
@@ -9950,7 +9947,7 @@ SplineSet
  36 210 l 1xf8
 EndSplineSet
 Refer: 76 108 N 1 0 0 1 0.999222 0 2
-Validated: 524325
+Validated: 37
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" lslash.sc
 EndChar
 
@@ -9999,7 +9996,7 @@ SplineSet
  643.736 592 643.736 561 643.736 525 c 2
  643.736 139 l 2xec
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: eng
@@ -10042,7 +10039,7 @@ SplineSet
  285.386 -199 285.386 -195 286.386 -194 c 4
  290.386 -192 386.386 -142 386.386 64 c 6xde
 EndSplineSet
-Validated: 524325
+Validated: 37
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" eng.sc
 EndChar
 
@@ -10100,7 +10097,7 @@ SplineSet
  523 524 510 561 490 582 c 0
  472 601 431 622 353 622 c 0
 EndSplineSet
-Validated: 524325
+Validated: 37
 EndChar
 
 StartChar: oe
@@ -10227,7 +10224,7 @@ SplineSet
  404.386 -218 363.386 -192 363.386 -140 c 0
  363.386 -84 407.386 -30 466.386 4 c 1
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: uogonek
@@ -10280,7 +10277,7 @@ SplineSet
  355.5 35 355.5 40 352.5 38 c 0
  336.5 27 281.5 -5 211.5 -5 c 0xdd
 EndSplineSet
-Validated: 524289
+Validated: 1
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" uogonek.sc
 EndChar
 
@@ -11301,7 +11298,7 @@ SplineSet
  230.547 169 235.547 169 256.547 171 c 0
  257.547 171 258.547 173 258.547 174 c 9
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: b.sc
@@ -11346,7 +11343,7 @@ SplineSet
  350.386 172 328.386 224 263.386 224 c 2
  228.386 224 l 1
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: c.sc
@@ -11410,7 +11407,7 @@ SplineSet
  40.3857 421 41.3857 446 45.3857 452 c 1
  81.3857 449 128.386 449 161.386 449 c 0
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: e.sc
@@ -11463,7 +11460,7 @@ SplineSet
  249.386 416 234.386 415 231.386 408 c 0
  228.386 400 228.386 388 228.386 370 c 2
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: f.sc
@@ -11512,7 +11509,7 @@ SplineSet
  249.386 416 234.386 415 231.386 408 c 0
  228.386 400 228.386 388 228.386 370 c 2
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: g.sc
@@ -11611,7 +11608,7 @@ SplineSet
  236.386 209 230.386 209 228.386 208 c 1
  227.386 207 228.386 205 228.386 205 c 1
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: i.sc
@@ -11643,7 +11640,7 @@ SplineSet
  40.3857 423 41.3857 448 45.3857 454 c 1
  77.3857 450 129.386 448 163.386 448 c 0
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: j.sc
@@ -11725,7 +11722,7 @@ SplineSet
  40.3857 423 41.3857 448 45.3857 454 c 1
  76.3857 450 129.386 448 163.386 448 c 0
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: l.sc
@@ -11761,7 +11758,7 @@ SplineSet
  228.386 392 228.386 372 228.386 344 c 2
  228.386 104 l 2
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: m.sc
@@ -11818,7 +11815,7 @@ SplineSet
  45.5 424 50.5 452 52.5 454 c 1
  84.5 452 106.5 450 138.5 450 c 0xd8
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: n.sc
@@ -11863,7 +11860,7 @@ SplineSet
  486.736 393 483.736 361 483.736 336 c 0
  483.736 250 483.736 180 483.736 93 c 0
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: o.sc
@@ -11926,7 +11923,7 @@ SplineSet
  40.3857 421 41.3857 446 45.3857 452 c 1
  82.3857 449 131.386 449 165.386 449 c 0
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: q.sc
@@ -12003,7 +12000,7 @@ SplineSet
  260.386 235 l 0
  299.386 235 334.386 269 334.386 318 c 0
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: s.sc
@@ -12116,7 +12113,7 @@ SplineSet
  545.386 419 504.386 418 498.386 404 c 0
  493.386 390 491.386 356 491.386 327 c 2
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: v.sc
@@ -12152,7 +12149,7 @@ SplineSet
  296.386 171 362.386 331 369.386 350 c 0
  375.386 367 385.386 387 385.386 401 c 0
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: w.sc
@@ -12196,7 +12193,7 @@ SplineSet
  63.7871 364 58.7871 382 52.7871 395 c 0
  44.7871 412 12.7871 416 3.78711 417 c 1
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: x.sc
@@ -12245,7 +12242,7 @@ SplineSet
  31.75 417 31.75 449 36.75 454 c 1
  70.75 452 133.75 448 167.75 448 c 0
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: y.sc
@@ -12289,7 +12286,7 @@ SplineSet
  322.75 232 l 2
  322.75 244 325.75 252 329.75 256 c 0
 EndSplineSet
-Validated: 524329
+Validated: 41
 EndChar
 
 StartChar: z.sc
@@ -12405,7 +12402,7 @@ SplineSet
  119.319 492 119.319 488 119.319 488 c 1
  119.319 -44 l 2
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: braceright.sc
@@ -12539,7 +12536,7 @@ SplineSet
  190 459 140 510 140 571 c 0
 EndSplineSet
 Refer: 473 -1 N 1 0 0 1 0.999046 0 3
-Validated: 524293
+Validated: 5
 EndChar
 
 StartChar: ae.sc
@@ -12695,7 +12692,7 @@ SplineSet
  325.25 240 325.25 212 321.25 203 c 5
 EndSplineSet
 Refer: 476 -1 N 1 0 0 1 3.25 0 2
-Validated: 524325
+Validated: 37
 EndChar
 
 StartChar: ntilde.sc
@@ -12923,7 +12920,7 @@ SplineSet
  278.386 355 239.386 347 234.386 347 c 0
  230.386 347 228.386 353 228.386 356 c 0xd3
 EndSplineSet
-Validated: 524329
+Validated: 41
 EndChar
 
 StartChar: germandbls.sc
@@ -13036,7 +13033,7 @@ SplineSet
  230.547 169 235.547 169 256.547 171 c 0
  257.547 171 258.547 173 258.547 174 c 2
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: cacute.sc
@@ -13222,7 +13219,7 @@ SplineSet
  68.3857 -2 247.386 -2 347.386 -2 c 5
  305.386 -17 216.386 -85 216.386 -140 c 4xf6
 EndSplineSet
-Validated: 524329
+Validated: 41
 EndChar
 
 StartChar: ecaron.sc
@@ -13324,7 +13321,7 @@ SplineSet
  545.25 363 545.25 335 541.25 326 c 1
 EndSplineSet
 Refer: 480 -1 N 1 0 0 1 2.25 0 2
-Validated: 524325
+Validated: 37
 EndChar
 
 StartChar: itilde.sc
@@ -13404,7 +13401,7 @@ SplineSet
  43.3857 423 44.3857 448 48.3857 454 c 1
  80.3857 450 129.386 448 163.386 448 c 0xe8
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: Idotaccent.sc
@@ -13579,7 +13576,7 @@ SplineSet
  42.8672 127 l 1
 EndSplineSet
 Refer: 484 -1 N 1 0 0 1 4.86659 0 2
-Validated: 524325
+Validated: 37
 EndChar
 
 StartChar: nacute.sc
@@ -13669,7 +13666,7 @@ SplineSet
  204.736 -144 236.736 -149 251.736 -149 c 0
  393.736 -149 483.736 -33 483.736 93 c 0xec
 EndSplineSet
-Validated: 524329
+Validated: 41
 EndChar
 
 StartChar: omacron.sc
@@ -13937,7 +13934,7 @@ SplineSet
  229 511 179 562 179 623 c 0
 EndSplineSet
 Refer: 493 -1 N 1 0 0 1 -0.000778198 0 3
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uhungarumlaut.sc
@@ -14001,7 +13998,7 @@ SplineSet
  488.386 115 454.386 63 406.386 30 c 0
  371.386 6 267.386 -63 267.386 -99 c 0xec
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: wcircumflex.sc
@@ -14166,7 +14163,7 @@ SplineSet
  75.1602 34 121.16 38 126.16 51 c 4
  134.16 71 134.16 102 134.16 145 c 6
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: two.prop
@@ -17026,7 +17023,7 @@ SplineSet
  386 704 383 693 377 693 c 0
 EndSplineSet
 Refer: 37 69 N 1 0 0 1 -3.00039 0 2
-Validated: 8912897
+Validated: 1
 EndChar
 
 StartChar: uni1EC5

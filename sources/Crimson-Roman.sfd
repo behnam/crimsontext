@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1270926789
-ModificationTime: 1325593717
+ModificationTime: 1325594828
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -899,7 +899,7 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 72 36 12
+WinInfo: 108 36 12
 BeginPrivate: 9
 BlueValues 39 [-10 0 429 439 641 644 658 670 693 696]
 OtherBlues 11 [-228 -226]
@@ -8519,26 +8519,24 @@ StartChar: uni0162
 Encoding: 354 354 286
 Width: 626
 Flags: W
-HStem: -229 183 -3 29<194.404 265.252 363.748 434.596> 626 35<96.8184 271 358 529.71>
-VStem: 13 33<499.771 557.091> 271 87<32.7426 626> 327 63<-164.919 -88.5> 581 33<499.771 557.091>
+HStem: -171 28<253.367 328.947> -64 40<302.667 335.544> -3 29<194.404 265.252 363.748 434.596> 626 35<96.8184 271 358 529.71>
+VStem: 13 33<499.771 557.091> 271 87<32.7426 626> 340.667 44<-136.27 -67.5635> 581 33<499.771 557.091>
 LayerCount: 2
 Fore
+Refer: 494 63639 N 1 0 0 1 82.6667 3 2
 Refer: 51 84 N 1 0 0 1 1 0 3
-Refer: 348 806 N 1 0 0 1 249 0 2
-Validated: 1
 EndChar
 
 StartChar: uni0163
 Encoding: 355 355 287
 Width: 311
 Flags: W
-HStem: -229 183 -7 54<177.456 253.292> 391 41<28.9629 84 161 293.375>
-VStem: 84 77<62.1149 391 432 519.684> 186 63<-164.919 -88.5>
+HStem: -148 24<124.959 200.915> -57 34<178 205.414> -7 54<177.456 253.292> 391 41<28.9629 84 161 293.375>
+VStem: 84 77<62.1149 391 432 519.684> 210 37<-118.34 -60.0801>
 LayerCount: 2
 Fore
+Refer: 117 184 N 1 0 0 1 -521 4 2
 Refer: 83 116 N 1 0 0 1 1 0 3
-Refer: 348 806 N 1 0 0 1 108 0 2
-Validated: 1
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" uni0163.sc
 EndChar
 
