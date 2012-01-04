@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1273443993
-ModificationTime: 1325635012
+ModificationTime: 1325694975
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -14842,13 +14842,12 @@ StartChar: uni0163.sc
 Encoding: 65667 -1 563
 Width: 437
 Flags: W
-HStem: -233 180 -3 29<85.6187 136.833 211.027 252.071> 417 33<108.273 213 282 380.768>
-VStem: 97 99<-138.702 -72.7479> 394 28<327.219 400.573>
+HStem: -146 24<103.416 163.841> -55 34<161 176.728> -18 20<150.5 181> -3 29<85.6187 136.833 211.027 252.071> 417 33<108.273 213 282 380.768>
+VStem: 178 38<-106.975 -55.8032> 394 28<327.219 400.573>
 LayerCount: 2
 Fore
-Refer: 273 806 N 1 0 0 1 79 -40 2
+Refer: 117 184 N 1 0 0 1 75.0003 6 2
 Refer: 463 -1 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: tcaron.sc

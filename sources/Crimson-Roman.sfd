@@ -19,7 +19,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1270926789
-ModificationTime: 1325632696
+ModificationTime: 1325694869
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -900,7 +900,7 @@ DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
 WidthSeparation: 78
-WinInfo: 0 36 12
+WinInfo: 65304 36 12
 BeginPrivate: 9
 BlueValues 39 [-10 0 429 439 641 644 658 670 693 696]
 OtherBlues 11 [-228 -226]
@@ -21649,13 +21649,12 @@ StartChar: uni0163.sc
 Encoding: 65668 -1 918
 Width: 490
 Flags: W
-HStem: -229 183 -3 29<146.495 202.876 287.124 343.505> 417 33<86.7617 206 284 402.555>
-VStem: 24 32<326.354 377.059> 206 78<37.52 417> 220 63<-164.919 -88.5> 434 32<326.299 377.059>
+HStem: -146 24<187.959 263.915> -55 34<241 268.414> -3 29<146.495 202.876 287.124 343.505> 417 33<86.7617 206 284 402.555>
+VStem: 24 32<326.354 377.059> 206 78<37.52 417> 273 37<-116.34 -58.0801> 434 32<326.299 377.059>
 LayerCount: 2
 Fore
-Refer: 348 806 N 1 0 0 1 142 0 2
+Refer: 117 184 N 1 0 0 1 -458 6 2
 Refer: 818 -1 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: tcaron.sc
