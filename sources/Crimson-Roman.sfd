@@ -19,11 +19,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1270926789
-<<<<<<< .mine
 ModificationTime: 1325632696
-=======
-ModificationTime: 1325601217
->>>>>>> .r77
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -896,24 +892,15 @@ MacName: 0 3 12 "Tradizionale"
 MacName: 0 4 13 "Grote nummers"
 EndMacFeatures
 LangName: 1033 "" "" "" "FontForge : Crimson : 28-7-2010" "" "" "" "" "" "" "" "" "" "" "http://scripts.sil.org/OFL" 
-<<<<<<< .mine
 GaspTable: 1 65535 3 0
 Encoding: Custom
-=======
-GaspTable: 1 65535 3 0
-Encoding: UnicodeBmp
->>>>>>> .r77
 UnicodeInterp: none
 NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
-<<<<<<< .mine
 WidthSeparation: 78
 WinInfo: 645 15 11
-=======
-WinInfo: 0 36 12
->>>>>>> .r77
 BeginPrivate: 9
 BlueValues 39 [-10 0 429 439 641 644 658 670 693 696]
 OtherBlues 11 [-228 -226]
@@ -936,11 +923,7 @@ Grid
   Named: "ssups_nums" 
 EndSplineSet
 TeXData: 1 0 0 204800 102400 68266 442368 1048576 68266 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-<<<<<<< .mine
-BeginChars: 1409 1409
-=======
-BeginChars: 66110 1404
->>>>>>> .r77
+BeginChars: 1411 1411
 
 StartChar: space
 Encoding: 0 32 0
@@ -32331,7 +32314,6 @@ Refer: 326 728 N 1 0 0 -1 -387 1139.97 2
 Refer: 64 97 N 1 0 0 1 0 0 3
 Validated: 25
 EndChar
-<<<<<<< .mine
 
 StartChar: lambda_lambda
 Encoding: 1402 -1 1402
@@ -32649,7 +32631,6 @@ SplineSet
 EndSplineSet
 Validated: 9
 EndChar
-=======
 
 StartChar: Gcaron
 Encoding: 486 486 1402
@@ -32674,6 +32655,5 @@ Fore
 Refer: 325 711 N 1 0 0 1 -427 30 2
 Refer: 70 103 N 1 0 0 1 0 0 3
 EndChar
->>>>>>> .r77
 EndChars
 EndSplineFont
