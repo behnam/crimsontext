@@ -20,11 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1316567991
-<<<<<<< .mine
 ModificationTime: 1325870685
-=======
-ModificationTime: 1325863931
->>>>>>> .r85
 PfmFamily: 17
 TTFWeight: 600
 TTFWidth: 5
@@ -197,11 +193,7 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
-<<<<<<< .mine
 WinInfo: 36 36 12
-=======
-WinInfo: 432 36 12
->>>>>>> .r85
 BeginPrivate: 10
 BlueValues 39 [-11 0 437 443 638 645 661 667 694 698]
 OtherBlues 11 [-223 -222]

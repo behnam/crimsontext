@@ -274,11 +274,7 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
-<<<<<<< .mine
 WinInfo: 36 36 12
-=======
-WinInfo: 324 36 12
->>>>>>> .r85
 BeginPrivate: 10
 BlueValues 39 [-10 0 442 449 633 645 662 667 695 696]
 OtherBlues 11 [-219 -218]

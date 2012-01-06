@@ -19,11 +19,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1270926789
-<<<<<<< .mine
 ModificationTime: 1325868714
-=======
-ModificationTime: 1325863119
->>>>>>> .r85
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -904,11 +900,7 @@ DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
 WidthSeparation: 78
-<<<<<<< .mine
 WinInfo: 0 27 14
-=======
-WinInfo: 360 36 12
->>>>>>> .r85
 BeginPrivate: 9
 BlueValues 39 [-10 0 429 439 641 644 658 670 693 696]
 OtherBlues 11 [-228 -226]
