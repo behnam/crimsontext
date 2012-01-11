@@ -894,14 +894,13 @@ EndMacFeatures
 LangName: 1033 "" "" "" "FontForge : Crimson : 28-7-2010" "" "" "" "" "" "" "" "" "" "" "http://scripts.sil.org/OFL" 
 GaspTable: 1 65535 3 0
 Encoding: UnicodeBmp
-Compacted: 1
 UnicodeInterp: none
 NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
 WidthSeparation: 78
-WinInfo: 0 27 14
+WinInfo: 108 36 12
 BeginPrivate: 9
 BlueValues 39 [-10 0 429 439 641 644 658 670 693 696]
 OtherBlues 11 [-228 -226]
@@ -924,7 +923,7 @@ Grid
   Named: "ssups_nums" 
 EndSplineSet
 TeXData: 1 0 0 204800 102400 68266 442368 1048576 68266 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 65726 1411
+BeginChars: 65726 1413
 
 StartChar: space
 Encoding: 32 32 0
@@ -1075,7 +1074,7 @@ SplineSet
  167 606 146 546 146 500 c 0xd8
  146 439.049885881 191.112832113 406.295291833 241.165297655 375.450050815 c 1
 EndSplineSet
-Validated: 8913409
+Validated: 513
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" dollar.sc
 EndChar
 
@@ -3687,7 +3686,7 @@ SplineSet
  185.31 565 163.31 543 135.31 543 c 4
  107.31 543 85.3096 565 85.3096 593 c 4xf8
 EndSplineSet
-Validated: 524801
+Validated: 513
 Substitution2: "'sinf' Scientific Inferiors lookup 5-1" i.sinf
 Substitution2: "'sups' Superscript lookup 6-1" i.ssup
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" i.sc
@@ -3724,7 +3723,7 @@ SplineSet
  165.75 565 143.75 543 115.75 543 c 4
  87.75 543 65.75 565 65.75 593 c 4xf0
 EndSplineSet
-Validated: 524833
+Validated: 545
 Substitution2: "'sinf' Scientific Inferiors lookup 5-1" j.sinf
 Substitution2: "'sups' Superscript lookup 6-1" j.ssup
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" j.sc
@@ -3878,7 +3877,7 @@ SplineSet
  185.31 368 186.31 369 187.31 370 c 0
  212.31 391 265.31 438 319.31 438 c 0xbc
 EndSplineSet
-Validated: 524801
+Validated: 513
 Substitution2: "'sinf' Scientific Inferiors lookup 5-1" m.sinf
 Substitution2: "'sups' Superscript lookup 6-1" m.ssup
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" m.sc
@@ -3929,7 +3928,7 @@ SplineSet
  185.31 363 186.31 364 187.31 365 c 0
  207.31 387 274.31 438 322.31 438 c 0xb8
 EndSplineSet
-Validated: 524801
+Validated: 513
 Substitution2: "'sinf' Scientific Inferiors lookup 5-1" n.sinf
 Substitution2: "'sups' Superscript lookup 6-1" n.ssup
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" n.sc
@@ -4005,7 +4004,7 @@ SplineSet
  339.31 27 387.31 114 387.31 195 c 0
  387.31 314 323.31 379 247.31 379 c 0xdc
 EndSplineSet
-Validated: 524801
+Validated: 513
 Substitution2: "'sinf' Scientific Inferiors lookup 5-1" p.sinf
 Substitution2: "'sups' Superscript lookup 6-1" p.ssup
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" p.sc
@@ -4091,7 +4090,7 @@ SplineSet
  181.31 328 184.721 328.714 185.31 330 c 0
  205 373 258.31 437 303.31 437 c 0xd0
 EndSplineSet
-Validated: 524801
+Validated: 513
 Substitution2: "'sinf' Scientific Inferiors lookup 5-1" r.sinf
 Substitution2: "'sups' Superscript lookup 6-1" r.ssup
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" r.sc
@@ -4216,7 +4215,7 @@ SplineSet
  301.639 49 350 80 349.639 104 c 2
  349.638671875 320 l 2x9c
 EndSplineSet
-Validated: 524833
+Validated: 545
 Substitution2: "'sinf' Scientific Inferiors lookup 5-1" u.sinf
 Substitution2: "'sups' Superscript lookup 6-1" u.ssup
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" u.sc
@@ -7702,7 +7701,7 @@ SplineSet
  187.309570312 417 181.31 368 181.31 358 c 2
  181.31 325 l 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" dotlessi.sc
 EndChar
 
@@ -7831,7 +7830,7 @@ SplineSet
  229.31 267 198.31 241 181.31 235 c 1
  181.31 358 l 2xb0
 EndSplineSet
-Validated: 524329
+Validated: 41
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" kgreenlandic.sc
 EndChar
 
@@ -8154,7 +8153,7 @@ SplineSet
  354.31 380 374 340 374.31 216 c 2
  374.31 46 l 2xb8
 EndSplineSet
-Validated: 524297
+Validated: 9
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" eng.sc
 EndChar
 
@@ -9125,7 +9124,7 @@ SplineSet
  -18.25 -214 -18.25 -210 -17.25 -209 c 1
  39.75 -168 92 -121 91.75 45 c 2
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: uni02BB
