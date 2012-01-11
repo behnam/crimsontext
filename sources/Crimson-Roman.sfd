@@ -19,11 +19,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1270926789
-<<<<<<< .mine
 ModificationTime: 1325966252
-=======
-ModificationTime: 1325868714
->>>>>>> .r88
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -32705,8 +32701,6 @@ Refer: 325 711 N 1 0 0 1 -427 30 2
 Refer: 70 103 N 1 0 0 1 0 0 3
 Validated: 1
 EndChar
-<<<<<<< .mine
-=======
 
 StartChar: uni02BE
 Encoding: 702 702 1411
@@ -32747,6 +32741,5 @@ SplineSet
  167 447 166 458 161 472 c 1
 EndSplineSet
 EndChar
->>>>>>> .r88
 EndChars
 EndSplineFont
