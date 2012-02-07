@@ -4,6 +4,11 @@
 # trunk$ python tools/generate.py
 
 import fontforge
+import os
+from fontTools.ttLib import TTFont
+
+def getHeights(font):
+    return int(font['x'].boundingBox()[3]), int(font['H'].boundingBox()[3])
 
 files = [
 'Crimson-Italic.sfd',
@@ -16,10 +21,27 @@ files = [
 
 for font in files:
     f = fontforge.open('sources/' + font)
-    f.generate('builds/' + f.fontname + '.otf')
+
+    path = 'builds/' + f.fontname
+    tmp_path = path + '.tmp'
+
+    f.generate(tmp_path + '.otf')
+
+    ff = TTFont(tmp_path + '.otf')
+    ff['OS/2'].sxHeight, ff['OS/2'].sCapHeight = getHeights(f)
+    ff.save(path + '.otf')
+    ff.close()
+    os.remove(tmp_path + '.otf')
+
     f.em = 2048
     f.round()
     f.selection.all()
     f.autoHint()
     f.autoInstr()
-    f.generate('builds/' + f.fontname + '.ttf')
+    f.generate(tmp_path + '.ttf')
+
+    ff = TTFont(tmp_path + '.ttf')
+    ff['OS/2'].sxHeight, ff['OS/2'].sCapHeight = getHeights(f)
+    ff.save(path + '.ttf')
+    ff.close()
+    os.remove(tmp_path + '.ttf')
