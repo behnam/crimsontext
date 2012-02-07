@@ -13,7 +13,11 @@ source = 'sources'
 build = 'builds'
 
 def getHeights(font):
-    return int(font['x'].boundingBox()[3]), int(font['H'].boundingBox()[3])
+    # ymax + ymin, using the later as an overshoot
+    xHeight = font['x'].boundingBox()[3] + font['x'].boundingBox()[1]
+    cHeight = font['H'].boundingBox()[3] + font['H'].boundingBox()[1]
+
+    return int(xHeight), int(cHeight)
 
 def generate(font, extension):
     if extension == 'ttf':
