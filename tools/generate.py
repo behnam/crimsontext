@@ -7,41 +7,35 @@ import fontforge
 import os
 from fontTools.ttLib import TTFont
 
+name = 'Crimson'
+styles = ['Roman', 'Semibold', 'Bold', 'Italic', 'SemiboldItalic', 'BoldItalic']
+source = 'sources'
+build = 'builds'
+
 def getHeights(font):
     return int(font['x'].boundingBox()[3]), int(font['H'].boundingBox()[3])
 
-files = [
-'Crimson-Italic.sfd',
-'Crimson-Roman.sfd',
-'Crimson-SemiboldItalic.sfd',
-'Crimson-Semibold.sfd',
-'Crimson-BoldItalic.sfd',
-'Crimson-Bold.sfd'
-]
+def generate(font, extension):
+    if extension == 'ttf':
+        font.em = 2048
+        font.round()
+        font.selection.all()
+        font.autoHint()
+        font.autoInstr()
 
-for font in files:
-    f = fontforge.open('sources/' + font)
+    path = '%s/%s.%s' %(build, font.fontname, extension)
+    tmp_path = '%s.tmp.%s' %(font.fontname, extension)
 
-    path = 'builds/' + f.fontname
-    tmp_path = path + '.tmp'
+    font.generate(tmp_path)
 
-    f.generate(tmp_path + '.otf')
+    tmp_font = TTFont(tmp_path)
+    tmp_font['OS/2'].sxHeight, tmp_font['OS/2'].sCapHeight = getHeights(font)
+    tmp_font.save(path)
+    tmp_font.close()
+    os.remove(tmp_path)
 
-    ff = TTFont(tmp_path + '.otf')
-    ff['OS/2'].sxHeight, ff['OS/2'].sCapHeight = getHeights(f)
-    ff.save(path + '.otf')
-    ff.close()
-    os.remove(tmp_path + '.otf')
+for style in styles:
+    f = fontforge.open('%s/%s-%s.sfd' %(source, name, style))
 
-    f.em = 2048
-    f.round()
-    f.selection.all()
-    f.autoHint()
-    f.autoInstr()
-    f.generate(tmp_path + '.ttf')
-
-    ff = TTFont(tmp_path + '.ttf')
-    ff['OS/2'].sxHeight, ff['OS/2'].sCapHeight = getHeights(f)
-    ff.save(path + '.ttf')
-    ff.close()
-    os.remove(tmp_path + '.ttf')
+    generate(f, 'otf')
+    generate(f, 'ttf')
