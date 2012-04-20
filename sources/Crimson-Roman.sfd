@@ -59,7 +59,7 @@ Lookup: 1 0 0 "'pnum' Proportional Numbers lookup 12"  {"'pnum' Proportional Num
 Lookup: 1 0 0 "'zero' Slashed Zero lookup 11"  {"'zero' Slashed Zero lookup 11-1"  } ['zero' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'FRA ' 'ITA ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
 Lookup: 1 0 0 "'onum' Oldstyle Figures lookup 3"  {"'onum' Oldstyle Figures lookup 3-1" ("onum" ) } ['onum' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 1 0 0 "'ordn' Ordinals lookup 0"  {"'ordn' Ordinals lookup 0-1" ("ordn" ) } ['ordn' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 258 0 0 "'kern' Horizontal Kerning in Latin lookup 0"  {"'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"  "'kern' Horizontal Kerning in Latin lookup 0 kerning class 1"  "'kern' Horizontal Kerning in Latin lookup 0 kerning class 2"  "'kern' Horizontal Kerning in Latin lookup 0 kerning class 3"  "'kern' Horizontal Kerning in Latin lookup 0 kerning class 4"  "'kern' Horizontal Kerning in Latin lookup 0 kerning class 5"  "'kern' Horizontal Kerning in Latin lookup 0 kerning class 6"  "'kern' Horizontal Kerning in Latin lookup 0 kerning class 7"  "'kern' Horizontal Kerning in Latin lookup 0 kerning class 8"  "'kern' Horizontal Kerning in Latin lookup 0 kerning class 9"  "'kern' Horizontal Kerning in Latin lookup 0 kerning class 10"  "'kern' Horizontal Kerning in Latin lookup 0 kerning class 11"  "'kern' Horizontal Kerning in Latin lookup 0 kerning class 12"  } ['kern' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <' CRT' ' DEU' ' FRA' ' ITA' ' MOL' ' ROM' ' TRK' 'AZE ' > 'latn' <'dflt' > ) ]
+Lookup: 258 0 0 "'kern' Horizontal Kerning in Latin lookup 0"  {"'kern' Horizontal Kerning in Latin lookup 0 kerning class 1"  "'kern' Horizontal Kerning in Latin lookup 0 kerning class 2"  "'kern' Horizontal Kerning in Latin lookup 0 kerning class 3"  "'kern' Horizontal Kerning in Latin lookup 0 kerning class 4"  "'kern' Horizontal Kerning in Latin lookup 0 kerning class 5"  "'kern' Horizontal Kerning in Latin lookup 0 kerning class 6"  "'kern' Horizontal Kerning in Latin lookup 0 kerning class 7"  "'kern' Horizontal Kerning in Latin lookup 0 kerning class 8"  "'kern' Horizontal Kerning in Latin lookup 0 kerning class 9"  "'kern' Horizontal Kerning in Latin lookup 0 kerning class 10"  "'kern' Horizontal Kerning in Latin lookup 0 kerning class 11"  "'kern' Horizontal Kerning in Latin lookup 0 kerning class 12"  } ['kern' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <' CRT' ' DEU' ' FRA' ' ITA' ' MOL' ' ROM' ' TRK' 'AZE ' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
 KernClass2: 7+ 9 "'kern' Horizontal Kerning in Latin lookup 0 kerning class 12" 
@@ -861,7 +861,7 @@ MacName: 0 3 12 "Tradizionale"
 MacName: 0 4 13 "Grote nummers"
 EndMacFeatures
 LangName: 1033 "" "" "" "FontForge : Crimson : 28-7-2010" "" "" "" "" "" "" "" "" "" "" "http://scripts.sil.org/OFL" 
-GaspTable: 1 65535 3 0
+GaspTable: 1 65535 15 1
 Encoding: UnicodeBmp
 UnicodeInterp: none
 NameList: Adobe Glyph List
@@ -2622,7 +2622,6 @@ SplineSet
  73 669 101 661 117 661 c 0
  204 661 415 661 508 661 c 0
 EndSplineSet
-Kerns2: 78 -99 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 
 EndChar
 
 StartChar: U
