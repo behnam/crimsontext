@@ -11345,6 +11345,7 @@ SplineSet
  350.386 466 l 2
  350.386 486 359.386 535 365.386 555 c 0
 EndSplineSet
+Ligature2: "'liga' Standard Ligatures lookup 0-1" f f
 EndChar
 
 StartChar: f_i
@@ -11400,6 +11401,7 @@ SplineSet
  173.386 419 l 1
  288.386 419 l 0xdc
 EndSplineSet
+Ligature2: "'liga' Standard Ligatures lookup 0-1" f i
 EndChar
 
 StartChar: f_f_i
@@ -11486,6 +11488,7 @@ SplineSet
  392 545 389 555 388 558 c 0
  382 567 359 642 274 642 c 0
 EndSplineSet
+Ligature2: "'liga' Standard Ligatures lookup 0-1" f f i
 EndChar
 
 StartChar: f_l
@@ -11542,6 +11545,7 @@ SplineSet
  40.75 26 86.75 35 89.75 46 c 0
  95.75 71 96.75 102 96.75 116 c 2
 EndSplineSet
+Ligature2: "'liga' Standard Ligatures lookup 0-1" f l
 EndChar
 
 StartChar: f_f_l
@@ -11625,6 +11629,7 @@ SplineSet
  391 531 391 538 391 541 c 0
  391 545 388 555 387 558 c 0
 EndSplineSet
+Ligature2: "'liga' Standard Ligatures lookup 0-1" f f l
 EndChar
 
 StartChar: f_b
@@ -11689,6 +11694,7 @@ SplineSet
  690 328 623 381 531 381 c 0x9f
  497 381 466 360 466 326 c 2
 EndSplineSet
+Ligature2: "'liga' Standard Ligatures lookup 0-1" f b
 EndChar
 
 StartChar: f_f_b
@@ -11779,6 +11785,7 @@ SplineSet
  968 328 901 381 809 381 c 0x9260
  775 381 744 360 744 326 c 2
 EndSplineSet
+Ligature2: "'liga' Standard Ligatures lookup 0-1" f f b
 EndChar
 
 StartChar: f_k
@@ -11857,6 +11864,7 @@ SplineSet
  767 408 763 385 758 385 c 0
  741 385 700 375 689 368 c 0xbc
 EndSplineSet
+Ligature2: "'liga' Standard Ligatures lookup 0-1" f k
 EndChar
 
 StartChar: f_f_k
@@ -11961,6 +11969,7 @@ SplineSet
  390 531 390 538 390 541 c 0
  390 545 387 555 386 558 c 0
 EndSplineSet
+Ligature2: "'liga' Standard Ligatures lookup 0-1" f f k
 EndChar
 
 StartChar: f_h
@@ -12036,6 +12045,7 @@ SplineSet
  330 26 376 35 379 46 c 0
  385 71 387 101 387 115 c 2xde
 EndSplineSet
+Ligature2: "'liga' Standard Ligatures lookup 0-1" f h
 EndChar
 
 StartChar: f_f_h
@@ -12137,6 +12147,7 @@ SplineSet
  390 531 390 538 390 541 c 0
  390 545 387 555 386 558 c 0
 EndSplineSet
+Ligature2: "'liga' Standard Ligatures lookup 0-1" f f h
 EndChar
 
 StartChar: f_j
@@ -12192,6 +12203,7 @@ SplineSet
  260 -203 367 -183 367 45 c 2
  367 310 l 2xbc
 EndSplineSet
+Ligature2: "'liga' Standard Ligatures lookup 0-1" f j
 EndChar
 
 StartChar: f_f_j
@@ -12274,6 +12286,7 @@ SplineSet
  391 531 391 538 391 541 c 0
  391 545 388 555 387 558 c 0
 EndSplineSet
+Ligature2: "'liga' Standard Ligatures lookup 0-1" f f j
 EndChar
 
 StartChar: T_h
@@ -12343,6 +12356,7 @@ SplineSet
  211 26 261 34 266 46 c 1
  272 69 273 117 273 135 c 2xef80
 EndSplineSet
+Ligature2: "'liga' Standard Ligatures lookup 0-1" T h
 EndChar
 
 StartChar: f.short
@@ -30496,6 +30510,7 @@ SplineSet
  270 36 329.129472722 160.258945444 370 242 c 0
  402 306 433 372 466 372 c 0x62
 EndSplineSet
+Ligature2: "'liga' Standard Ligatures lookup 0-1" sigma pi
 EndChar
 
 StartChar: chi_rho
@@ -30538,6 +30553,7 @@ SplineSet
  270 36 329.129472722 160.258945444 370 242 c 0
  402 306 433 372 466 372 c 0x62
 EndSplineSet
+Ligature2: "'liga' Standard Ligatures lookup 0-1" chi rho
 EndChar
 
 StartChar: sigma_chi
@@ -30580,6 +30596,7 @@ SplineSet
  270 36 329.129472722 160.258945444 370 242 c 0
  402 306 433 372 466 372 c 0x62
 EndSplineSet
+Ligature2: "'liga' Standard Ligatures lookup 0-1" sigma chi
 EndChar
 
 StartChar: sigma_theta
@@ -30622,6 +30639,7 @@ SplineSet
  270 36 329.129472722 160.258945444 370 242 c 0
  402 306 433 372 466 372 c 0x62
 EndSplineSet
+Ligature2: "'liga' Standard Ligatures lookup 0-1" sigma theta
 EndChar
 
 StartChar: Gcaron
