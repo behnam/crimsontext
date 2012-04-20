@@ -20,11 +20,12 @@ def getHeights(font):
     return int(xHeight), int(cHeight)
 
 def generate(font, extension):
+    font.selection.all()
+    font.autoHint()
+
     if extension == 'ttf':
         font.em = 2048
         font.round()
-        font.selection.all()
-        font.autoHint()
         font.autoInstr()
 
     path = '%s/%s.%s' %(build, font.fontname, extension)
