@@ -57,11 +57,7 @@ Lookup: 1 0 0 "'smcp' Lowercase to Small Capitals lookup 2"  {"'smcp' Lowercase 
 Lookup: 4 0 1 "'liga' Standard Ligatures lookup 0"  {"'liga' Standard Ligatures lookup 0-1"  } ['liga' ('DFLT' <'dflt' > 'cyrl' <'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <' CRT' ' DEU' ' FRA' ' ITA' ' MOL' ' ROM' ' TRK' 'AZE ' 'CRT ' 'DEU ' 'FRA ' 'ITA ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
 Lookup: 1 0 0 "'pnum' Proportional Numbers lookup 12"  {"'pnum' Proportional Numbers lookup 12-1" ("prop" ) } ['pnum' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'FRA ' 'ITA ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
 Lookup: 1 0 0 "'zero' Slashed Zero lookup 11"  {"'zero' Slashed Zero lookup 11-1"  } ['zero' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'FRA ' 'ITA ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
-Lookup: 1 0 0 "Fraction Denominators"  {"Fraction Denominators-1"  } []
 Lookup: 1 0 0 "'onum' Oldstyle Figures lookup 3"  {"'onum' Oldstyle Figures lookup 3-1" ("onum" ) } ['onum' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 6 0 0 "'frac' Diagonal Fractions lookup 9"  {"'frac' Diagonal Fractions lookup 9 subtable"  } ['frac' ('DFLT' <'dflt' > 'cyrl' <'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'FRA ' 'ITA ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
-Lookup: 1 0 0 "'frac' Diagonal Fractions lookup 10"  {"'frac' Diagonal Fractions lookup 10 subtable"  } ['frac' ('DFLT' <'dflt' > 'cyrl' <'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'FRA ' 'ITA ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
-Lookup: 6 0 0 "'frac' Diagonal Fractions lookup 11"  {"'frac' Diagonal Fractions lookup 11 contextual 0"  "'frac' Diagonal Fractions lookup 11 contextual 1"  } ['frac' ('DFLT' <'dflt' > 'cyrl' <'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'FRA ' 'ITA ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
 Lookup: 1 0 0 "'ordn' Ordinals lookup 0"  {"'ordn' Ordinals lookup 0-1" ("ordn" ) } ['ordn' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 258 0 0 "'kern' Horizontal Kerning in Latin lookup 0"  {"'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"  "'kern' Horizontal Kerning in Latin lookup 0 kerning class 1"  "'kern' Horizontal Kerning in Latin lookup 0 kerning class 2"  "'kern' Horizontal Kerning in Latin lookup 0 kerning class 3"  "'kern' Horizontal Kerning in Latin lookup 0 kerning class 4"  "'kern' Horizontal Kerning in Latin lookup 0 kerning class 5"  "'kern' Horizontal Kerning in Latin lookup 0 kerning class 6"  "'kern' Horizontal Kerning in Latin lookup 0 kerning class 7"  "'kern' Horizontal Kerning in Latin lookup 0 kerning class 8"  "'kern' Horizontal Kerning in Latin lookup 0 kerning class 9"  "'kern' Horizontal Kerning in Latin lookup 0 kerning class 10"  "'kern' Horizontal Kerning in Latin lookup 0 kerning class 11"  "'kern' Horizontal Kerning in Latin lookup 0 kerning class 12"  } ['kern' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <' CRT' ' DEU' ' FRA' ' ITA' ' MOL' ' ROM' ' TRK' 'AZE ' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
@@ -819,28 +815,6 @@ KernClass2: 14+ 24 "'kern' Horizontal Kerning in Latin lookup 0 kerning class 1"
  26 zero slashedzero zero.prop
  55 d dcaron dcroat uni1E0B uni1E0D uni1E0F uni1E11 uni1E13
  0 {} -37 {} -30 {} -28 {} -22 {} -34 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -17 {} -14 {} -22 {} -21 {} -10 {} -15 {} -21 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 9 {} 0 {} 0 {} 6 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -14 {} -11 {} -16 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -15 {} -13 {} -17 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 30 {} 28 {} 36 {} 0 {} -41 {} 0 {} 0 {} 0 {} -57 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -13 {} -11 {} -14 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -10 {} 0 {} -13 {} 0 {} -26 {} 0 {} 0 {} 0 {} -34 {} -11 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -46 {} -41 {} -33 {} -48 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 68 {} -18 {} 16 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -13 {} 0 {} -33 {} 0 {} 0 {} 0 {} 0 {} -14 {} 0 {} 0 {} 0 {} -11 {} -51 {} -38 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -46 {} -37 {} -30 {} -50 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 84 {} -14 {} 0 {} -11 {} 0 {} -13 {} -10 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -24 {} 0 {} -14 {} -12 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -23 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -35 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -59 {} -14 {} 0 {} 0 {} 0 {} 0 {} -8 {}
-ChainSub2: coverage "'frac' Diagonal Fractions lookup 11 contextual 1"  0 0 0 1
- 1 2 0
-  Coverage: 122 zero.ordn one.ordn two.ordn three.ordn four.ordn five.ordn six.ordn seven.ordn eight.ordn nine.ordn comma.ordn period.ordn
-  BCoverage: 0 
-  BCoverage: 5 space
- 1
-  SeqLookup: 0 "Fraction Denominators" 
-EndFPST
-ChainSub2: coverage "'frac' Diagonal Fractions lookup 11 contextual 0"  0 0 0 1
- 1 1 0
-  Coverage: 122 zero.ordn one.ordn two.ordn three.ordn four.ordn five.ordn six.ordn seven.ordn eight.ordn nine.ordn comma.ordn period.ordn
-  BCoverage: 9 fraction 
- 1
-  SeqLookup: 0 "Fraction Denominators" 
-EndFPST
-ChainSub2: coverage "'frac' Diagonal Fractions lookup 9 subtable"  0 0 0 1
- 1 1 0
-  Coverage: 5 space
-  BCoverage: 90 zero.ordn one.ordn two.ordn three.ordn four.ordn five.ordn six.ordn seven.ordn eight.ordn 
- 1
-  SeqLookup: -1 "Fraction Denominators" 
-EndFPST
 MacFeat: 0 0 0
 MacName: 0 0 24 "All Typographic Features"
 MacName: 0 1 24 "Fonctions typographiques"
@@ -1337,7 +1311,6 @@ SplineSet
  329 746 l 1
  330 749 345 761 369 761 c 0
 EndSplineSet
-Substitution2: "'frac' Diagonal Fractions lookup 10 subtable" fraction
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" slash.sc
 EndChar
 
