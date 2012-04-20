@@ -49,9 +49,9 @@ OS2SupYOff: 491
 OS2StrikeYSize: 51
 OS2StrikeYPos: 265
 OS2Vendor: 'PfEd'
-Lookup: 4 0 1 "'liga' Standard Ligatures lookup 0"  {"'liga' Standard Ligatures lookup 0-1"  } ['liga' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 1 0 0 "'onum' Oldstyle Figures in Latin lookup 5"  {"'onum' Oldstyle Figures in Latin lookup 5-1" ("onum" ) } ['onum' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 1 0 0 "'smcp' Lowercase to Small Capitals in Latin lookup 3"  {"'smcp' Lowercase to Small Capitals in Latin lookup 3-1" ("sc" ) } ['smcp' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 4 0 1 "'liga' Standard Ligatures lookup 0"  {"'liga' Standard Ligatures lookup 0-1"  } ['liga' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 258 0 0 "Crimson-Italic-'kern' Horizontal Kerning in Latin lookup 0"  {"Crimson-Italic-'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"  "Crimson-Italic-'kern' Horizontal Kerning in Latin lookup 0 kerning class 1"  "Crimson-Italic-'kern' Horizontal Kerning in Latin lookup 0 kerning class 2"  "Crimson-Italic-'kern' Horizontal Kerning in Latin lookup 0 kerning class 3"  "Crimson-Italic-'kern' Horizontal Kerning in Latin lookup 0 kerning class 4"  "Crimson-Italic-'kern' Horizontal Kerning in Latin lookup 0 kerning class 5"  "Crimson-Italic-'kern' Horizontal Kerning in Latin lookup 0 kerning class 6"  "Crimson-Italic-'kern' Horizontal Kerning in Latin lookup 0 kerning class 7"  "Crimson-Italic-'kern' Horizontal Kerning in Latin lookup 0 kerning class 8"  "Crimson-Italic-'kern' Horizontal Kerning in Latin lookup 0 kerning class 9"  "Crimson-Italic-'kern' Horizontal Kerning in Latin lookup 0 kerning class 10"  "Crimson-Italic-'kern' Horizontal Kerning in Latin lookup 0 kerning class 11"  } ['kern' ('latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
