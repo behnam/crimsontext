@@ -57,12 +57,8 @@ Lookup: 1 0 0 "'c2sc' Capitals to Small Capitals in Latin lookup 0"  {"'c2sc' Ca
 Lookup: 1 0 0 "'pnum' Proportional Numbers lookup 12"  {"'pnum' Proportional Numbers lookup 12-1" ("prop" ) } ['pnum' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'FRA ' 'ITA ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
 Lookup: 1 0 0 "'zero' Slashed Zero lookup 11"  {"'zero' Slashed Zero lookup 11-1"  } ['zero' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'FRA ' 'ITA ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
 Lookup: 1 0 0 "Fraction Denominators"  {"Fraction Denominators-1"  } []
-Lookup: 1 0 0 "Single Substitution lookup 46"  {"Single Substitution lookup 46 subtable"  } []
-Lookup: 1 0 0 "'sinf' Scientific Inferiors lookup 5"  {"'sinf' Scientific Inferiors lookup 5-1" ("sinf" ) } ['sinf' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 1 0 0 "'sups' Superscript lookup 6"  {"'sups' Superscript lookup 6-1" ("ssup" ) } ['sups' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 1 0 0 "'onum' Oldstyle Figures lookup 3"  {"'onum' Oldstyle Figures lookup 3-1" ("onum" ) } ['onum' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 1 0 0 "'smcp' Lowercase to Small Capitals lookup 2"  {"'smcp' Lowercase to Small Capitals lookup 2-1" ("sc" ) } ['smcp' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 1 0 0 "'subs' Subscript lookup 1"  {"'subs' Subscript lookup 1-1" ("subs" ) } ['subs' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 6 0 0 "'frac' Diagonal Fractions lookup 9"  {"'frac' Diagonal Fractions lookup 9 subtable"  } ['frac' ('DFLT' <'dflt' > 'cyrl' <'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'FRA ' 'ITA ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
 Lookup: 1 0 0 "'frac' Diagonal Fractions lookup 10"  {"'frac' Diagonal Fractions lookup 10 subtable"  } ['frac' ('DFLT' <'dflt' > 'cyrl' <'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'FRA ' 'ITA ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
 Lookup: 6 0 0 "'frac' Diagonal Fractions lookup 11"  {"'frac' Diagonal Fractions lookup 11 contextual 0"  "'frac' Diagonal Fractions lookup 11 contextual 1"  } ['frac' ('DFLT' <'dflt' > 'cyrl' <'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'FRA ' 'ITA ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
@@ -313,7 +309,7 @@ KernClass2: 3+ 50 "'kern' Horizontal Kerning in Latin lookup 0 kerning class 7"
  200 omega omegatonos uni1F60 uni1F61 uni1F62 uni1F63 uni1F64 uni1F65 uni1F66 uni1F67 uni1F7C uni1F7D uni1FA0 uni1FA1 uni1FA2 uni1FA3 uni1FA4 uni1FA5 uni1FA6 uni1FA7 uni1FF2 uni1FF3 uni1FF4 uni1FF6 uni1FF7
  29 afii10053 afii10032 afii10035
  19 afii10062 afii10037
- 197 afii10067 afii10068 afii10074 afii10075 afii10076 afii10078 afii10079 afii10081 afii10088 afii10090 afii10091 afii10093 afii10094 afii10096 afii10100 afii10107 afii10109 uni045D afii10193 afii10098
+ 188 afii10067 afii10068 afii10074 afii10075 afii10076 afii10078 afii10079 afii10081 afii10088 afii10090 afii10091 afii10093 afii10094 afii10096 afii10100 afii10107 afii10109 uni045D afii10193 
  19 afii10077 afii10106
  59 afii10070 afii10080 afii10083 afii10086 afii10071 afii10101
  19 afii10085 afii10110
@@ -356,7 +352,7 @@ KernClass2: 20+ 30 "'kern' Horizontal Kerning in Latin lookup 0 kerning class 6"
  9 afii10099
  19 afii10103 afii10104
  9 afii10108
- 9 afii10098
+ 0 
  61 w wcircumflex wgrave wacute wdieresis uni1E87 uni1E89 uni1E98
  85 y yacute ydieresis ycircumflex uni0233 uni1E8F uni1E99 ygrave uni1EF5 uni1EF7 uni1EF9
  20 quotedbl quotesingle
@@ -411,9 +407,9 @@ KernClass2: 24+ 50 "'kern' Horizontal Kerning in Latin lookup 0 kerning class 5"
  9 afii10038
  9 afii10039
  39 afii10058 afii10059 afii10044 afii10046
- 9 afii10050
+ 0 
  29 afii10051 afii10060 afii10036
- 197 afii10067 afii10068 afii10074 afii10075 afii10076 afii10078 afii10079 afii10081 afii10088 afii10090 afii10091 afii10093 afii10094 afii10096 afii10100 afii10107 afii10109 uni045D afii10193 afii10098
+ 188 afii10067 afii10068 afii10074 afii10075 afii10076 afii10078 afii10079 afii10081 afii10088 afii10090 afii10091 afii10093 afii10094 afii10096 afii10100 afii10107 afii10109 uni045D afii10193 
  30 hyphen endash emdash afii00208
  49 comma period quotesinglbase quotedblbase ellipsis
  29 afii10053 afii10032 afii10035
@@ -427,7 +423,7 @@ KernClass2: 24+ 50 "'kern' Horizontal Kerning in Latin lookup 0 kerning class 5"
  19 afii10062 afii10037
  19 afii10077 afii10106
  19 afii10103 afii10104
- 239 afii10023 afii10052 afii10055 afii10056 afii10059 afii10061 afii10145 afii10018 afii10019 afii10020 afii10022 afii10026 afii10027 afii10028 afii10031 afii10033 afii10034 afii10040 afii10042 afii10043 afii10045 afii10046 afii10048 afii10050
+ 230 afii10023 afii10052 afii10055 afii10056 afii10059 afii10061 afii10145 afii10018 afii10019 afii10020 afii10022 afii10026 afii10027 afii10028 afii10031 afii10033 afii10034 afii10040 afii10042 afii10043 afii10045 afii10046 afii10048 
  5 slash
  15 colon semicolon
  9 afii10017
@@ -557,7 +553,7 @@ KernClass2: 11+ 129 "'kern' Horizontal Kerning in Latin lookup 0 kerning class 4
  9 afii10021
  9 afii10024
  9 afii10025
- 239 afii10023 afii10052 afii10055 afii10056 afii10059 afii10061 afii10145 afii10018 afii10019 afii10020 afii10022 afii10026 afii10027 afii10028 afii10031 afii10033 afii10034 afii10040 afii10042 afii10043 afii10045 afii10046 afii10048 afii10050
+ 230 afii10023 afii10052 afii10055 afii10056 afii10059 afii10061 afii10145 afii10018 afii10019 afii10020 afii10022 afii10026 afii10027 afii10028 afii10031 afii10033 afii10034 afii10040 afii10042 afii10043 afii10045 afii10046 afii10048 
  9 afii10030
  29 afii10051 afii10060 afii10036
  9 afii10039
@@ -565,7 +561,7 @@ KernClass2: 11+ 129 "'kern' Horizontal Kerning in Latin lookup 0 kerning class 4
  9 afii10044
  9 afii10069
  9 afii10072
- 197 afii10067 afii10068 afii10074 afii10075 afii10076 afii10078 afii10079 afii10081 afii10088 afii10090 afii10091 afii10093 afii10094 afii10096 afii10100 afii10107 afii10109 uni045D afii10193 afii10098
+ 188 afii10067 afii10068 afii10074 afii10075 afii10076 afii10078 afii10079 afii10081 afii10088 afii10090 afii10091 afii10093 afii10094 afii10096 afii10100 afii10107 afii10109 uni045D afii10193 
  19 afii10077 afii10106
  9 afii10087
  9 afii10089
@@ -826,7 +822,7 @@ KernClass2: 14+ 24 "'kern' Horizontal Kerning in Latin lookup 0 kerning class 1"
 ChainSub2: coverage "'frac' Diagonal Fractions lookup 11 contextual 1"  0 0 0 1
  1 2 0
   Coverage: 122 zero.ordn one.ordn two.ordn three.ordn four.ordn five.ordn six.ordn seven.ordn eight.ordn nine.ordn comma.ordn period.ordn
-  BCoverage: 99 zero.subs one.subs two.subs three.subs four.subs five.subs six.subs seven.subs eight.subs nine.subs
+  BCoverage: 0 
   BCoverage: 5 space
  1
   SeqLookup: 0 "Fraction Denominators" 
@@ -834,14 +830,14 @@ EndFPST
 ChainSub2: coverage "'frac' Diagonal Fractions lookup 11 contextual 0"  0 0 0 1
  1 1 0
   Coverage: 122 zero.ordn one.ordn two.ordn three.ordn four.ordn five.ordn six.ordn seven.ordn eight.ordn nine.ordn comma.ordn period.ordn
-  BCoverage: 131 fraction zero.subs one.subs two.subs three.subs four.subs five.subs six.subs seven.subs eight.subs nine.subs comma.subs period.subs
+  BCoverage: 9 fraction 
  1
   SeqLookup: 0 "Fraction Denominators" 
 EndFPST
 ChainSub2: coverage "'frac' Diagonal Fractions lookup 9 subtable"  0 0 0 1
  1 1 0
   Coverage: 5 space
-  BCoverage: 99 zero.ordn one.ordn two.ordn three.ordn four.ordn five.ordn six.ordn seven.ordn eight.ordn nine.ordn
+  BCoverage: 90 zero.ordn one.ordn two.ordn three.ordn four.ordn five.ordn six.ordn seven.ordn eight.ordn 
  1
   SeqLookup: -1 "Fraction Denominators" 
 EndFPST
@@ -935,7 +931,6 @@ Encoding: 32 32 0
 Width: 217
 Flags: W
 LayerCount: 2
-Substitution2: "Single Substitution lookup 46 subtable" space.ac
 EndChar
 
 StartChar: exclam
@@ -960,11 +955,7 @@ SplineSet
  91 331 75 533 75 584 c 0xd0
  75 612 93 642 125 642 c 0
 EndSplineSet
-Substitution2: "'sinf' Scientific Inferiors lookup 5-1" exclam.sinf
-Substitution2: "'sups' Superscript lookup 6-1" exclam.ssup
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" exclam.sc
-Substitution2: "'subs' Subscript lookup 1-1" exclam.subs
-Substitution2: "'ordn' Ordinals lookup 0-1" exclam.ordn
 EndChar
 
 StartChar: quotedbl
@@ -991,7 +982,6 @@ SplineSet
  53 551 39 601 39 629 c 0
  39 657 59 699 91 699 c 0
 EndSplineSet
-Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" quotedbl.sc
 EndChar
 
 StartChar: numbersign
@@ -1027,7 +1017,6 @@ SplineSet
  180.63 527 180.63 531 199.63 531 c 0
  208.63 531 209.63 530 212.63 528 c 1
 EndSplineSet
-Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" numbersign.sc
 EndChar
 
 StartChar: dollar
@@ -1076,7 +1065,6 @@ SplineSet
  167 606 146 546 146 500 c 0xd8
  146 439.049885881 191.112832113 406.295291833 241.165297655 375.450050815 c 1
 EndSplineSet
-Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" dollar.sc
 EndChar
 
 StartChar: percent
@@ -1116,11 +1104,6 @@ SplineSet
  551 630 560 636 566 636 c 0
  595 636 589 633 598 624 c 1
 EndSplineSet
-Substitution2: "'sinf' Scientific Inferiors lookup 5-1" percent.sinf
-Substitution2: "'sups' Superscript lookup 6-1" percent.ssup
-Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" percent.sc
-Substitution2: "'subs' Subscript lookup 1-1" percent.subs
-Substitution2: "'ordn' Ordinals lookup 0-1" percent.ordn
 EndChar
 
 StartChar: ampersand
@@ -1204,11 +1187,7 @@ SplineSet
  244 715 257 699 256 699 c 1
  162 616 110 443 110 285 c 0
 EndSplineSet
-Substitution2: "'sinf' Scientific Inferiors lookup 5-1" parenleft.sinf
-Substitution2: "'sups' Superscript lookup 6-1" parenleft.ssup
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" parenleft.sc
-Substitution2: "'subs' Subscript lookup 1-1" parenleft.subs
-Substitution2: "'ordn' Ordinals lookup 0-1" parenleft.ordn
 EndChar
 
 StartChar: parenright
@@ -1227,11 +1206,7 @@ SplineSet
  5.05469 699 18.0547 715 25.0547 719 c 1
  142.055 627 225.055 480 225.055 285 c 0
 EndSplineSet
-Substitution2: "'sinf' Scientific Inferiors lookup 5-1" parenright.sinf
-Substitution2: "'sups' Superscript lookup 6-1" parenright.ssup
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" parenright.sc
-Substitution2: "'subs' Subscript lookup 1-1" parenright.subs
-Substitution2: "'ordn' Ordinals lookup 0-1" parenright.ordn
 EndChar
 
 StartChar: asterisk
@@ -1275,7 +1250,6 @@ SplineSet
  232.583 513 236.583 516 240.583 520 c 0
  266.583 548 269.583 577 301.583 613 c 0x70
 EndSplineSet
-Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" asterisk.sc
 EndChar
 
 StartChar: plus
@@ -1305,11 +1279,6 @@ SplineSet
  242 274 l 9
  242 274 242 455 242 474 c 1
 EndSplineSet
-Substitution2: "'sinf' Scientific Inferiors lookup 5-1" plus.sinf
-Substitution2: "'sups' Superscript lookup 6-1" plus.ssup
-Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" plus.sc
-Substitution2: "'subs' Subscript lookup 1-1" plus.subs
-Substitution2: "'ordn' Ordinals lookup 0-1" plus.ordn
 EndChar
 
 StartChar: comma
@@ -1332,10 +1301,6 @@ SplineSet
 EndSplineSet
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" comma.sc
 Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 0 subtable" comma.sc
-Substitution2: "'sinf' Scientific Inferiors lookup 5-1" comma.sinf
-Substitution2: "'sups' Superscript lookup 6-1" comma.ssup
-Substitution2: "'subs' Subscript lookup 1-1" comma.subs
-Substitution2: "'ordn' Ordinals lookup 0-1" comma.ordn
 EndChar
 
 StartChar: hyphen
@@ -1355,11 +1320,6 @@ SplineSet
  60 199 58 201 58 210 c 0
  58 229 64 246 71 261 c 1
 EndSplineSet
-Substitution2: "'sinf' Scientific Inferiors lookup 5-1" hyphen.sinf
-Substitution2: "'sups' Superscript lookup 6-1" hyphen.ssup
-Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" hyphen.sc
-Substitution2: "'subs' Subscript lookup 1-1" hyphen.subs
-Substitution2: "'ordn' Ordinals lookup 0-1" hyphen.ordn
 EndChar
 
 StartChar: slash
@@ -1378,11 +1338,7 @@ SplineSet
  330 749 345 761 369 761 c 0
 EndSplineSet
 Substitution2: "'frac' Diagonal Fractions lookup 10 subtable" fraction
-Substitution2: "'sinf' Scientific Inferiors lookup 5-1" slash.sinf
-Substitution2: "'sups' Superscript lookup 6-1" slash.ssup
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" slash.sc
-Substitution2: "'subs' Subscript lookup 1-1" slash.subs
-Substitution2: "'ordn' Ordinals lookup 0-1" slash.ordn
 EndChar
 
 StartChar: zero
@@ -1407,11 +1363,7 @@ SplineSet
 EndSplineSet
 Substitution2: "'pnum' Proportional Numbers lookup 12-1" zero.prop
 Substitution2: "'zero' Slashed Zero lookup 11-1" slashedzero
-Substitution2: "'sinf' Scientific Inferiors lookup 5-1" zero.sinf
-Substitution2: "'sups' Superscript lookup 6-1" zero.ssup
 Substitution2: "'onum' Oldstyle Figures lookup 3-1" zero.onum
-Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" zero.sc
-Substitution2: "'subs' Subscript lookup 1-1" zero.subs
 Substitution2: "'ordn' Ordinals lookup 0-1" zero.ordn
 EndChar
 
@@ -1445,11 +1397,7 @@ SplineSet
  132.16 58 133.16 86 133.16 116 c 2
 EndSplineSet
 Substitution2: "'pnum' Proportional Numbers lookup 12-1" one.prop
-Substitution2: "'sinf' Scientific Inferiors lookup 5-1" one.sinf
-Substitution2: "'sups' Superscript lookup 6-1" one.ssup
 Substitution2: "'onum' Oldstyle Figures lookup 3-1" one.onum
-Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" one.sc
-Substitution2: "'subs' Subscript lookup 1-1" one.subs
 Substitution2: "'ordn' Ordinals lookup 0-1" one.ordn
 EndChar
 
@@ -1481,11 +1429,7 @@ SplineSet
  427 156 439 153 443 150 c 1
 EndSplineSet
 Substitution2: "'pnum' Proportional Numbers lookup 12-1" two.prop
-Substitution2: "'sinf' Scientific Inferiors lookup 5-1" two.sinf
-Substitution2: "'sups' Superscript lookup 6-1" two.ssup
 Substitution2: "'onum' Oldstyle Figures lookup 3-1" two.onum
-Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" two.sc
-Substitution2: "'subs' Subscript lookup 1-1" two.subs
 Substitution2: "'ordn' Ordinals lookup 0-1" two.ordn
 EndChar
 
@@ -1520,11 +1464,7 @@ SplineSet
  97 591 154 642 232 642 c 0xf0
 EndSplineSet
 Substitution2: "'pnum' Proportional Numbers lookup 12-1" three.prop
-Substitution2: "'sinf' Scientific Inferiors lookup 5-1" three.sinf
-Substitution2: "'sups' Superscript lookup 6-1" three.ssup
 Substitution2: "'onum' Oldstyle Figures lookup 3-1" three.onum
-Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" three.sc
-Substitution2: "'subs' Subscript lookup 1-1" three.subs
 Substitution2: "'ordn' Ordinals lookup 0-1" three.ordn
 EndChar
 
@@ -1558,11 +1498,7 @@ SplineSet
  302 524 l 25
 EndSplineSet
 Substitution2: "'pnum' Proportional Numbers lookup 12-1" four.prop
-Substitution2: "'sinf' Scientific Inferiors lookup 5-1" four.sinf
-Substitution2: "'sups' Superscript lookup 6-1" four.ssup
 Substitution2: "'onum' Oldstyle Figures lookup 3-1" four.onum
-Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" four.sc
-Substitution2: "'subs' Subscript lookup 1-1" four.subs
 Substitution2: "'ordn' Ordinals lookup 0-1" four.ordn
 EndChar
 
@@ -1598,11 +1534,7 @@ SplineSet
  145 387 195 395 222 395 c 0xe8
 EndSplineSet
 Substitution2: "'pnum' Proportional Numbers lookup 12-1" five.prop
-Substitution2: "'sinf' Scientific Inferiors lookup 5-1" five.sinf
-Substitution2: "'sups' Superscript lookup 6-1" five.ssup
 Substitution2: "'onum' Oldstyle Figures lookup 3-1" five.onum
-Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" five.sc
-Substitution2: "'subs' Subscript lookup 1-1" five.subs
 Substitution2: "'ordn' Ordinals lookup 0-1" five.ordn
 EndChar
 
@@ -1632,11 +1564,7 @@ SplineSet
  184 379 232 395 266 395 c 0
 EndSplineSet
 Substitution2: "'pnum' Proportional Numbers lookup 12-1" six.prop
-Substitution2: "'sinf' Scientific Inferiors lookup 5-1" six.sinf
-Substitution2: "'sups' Superscript lookup 6-1" six.ssup
 Substitution2: "'onum' Oldstyle Figures lookup 3-1" six.onum
-Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" six.sc
-Substitution2: "'subs' Subscript lookup 1-1" six.subs
 Substitution2: "'ordn' Ordinals lookup 0-1" six.ordn
 EndChar
 
@@ -1664,11 +1592,7 @@ SplineSet
  371 633 l 2
 EndSplineSet
 Substitution2: "'pnum' Proportional Numbers lookup 12-1" seven.prop
-Substitution2: "'sinf' Scientific Inferiors lookup 5-1" seven.sinf
-Substitution2: "'sups' Superscript lookup 6-1" seven.ssup
 Substitution2: "'onum' Oldstyle Figures lookup 3-1" seven.onum
-Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" seven.sc
-Substitution2: "'subs' Subscript lookup 1-1" seven.subs
 Substitution2: "'ordn' Ordinals lookup 0-1" seven.ordn
 EndChar
 
@@ -1708,11 +1632,7 @@ SplineSet
  85 565 163 643 251 643 c 0
 EndSplineSet
 Substitution2: "'pnum' Proportional Numbers lookup 12-1" eight.prop
-Substitution2: "'sinf' Scientific Inferiors lookup 5-1" eight.sinf
-Substitution2: "'sups' Superscript lookup 6-1" eight.ssup
 Substitution2: "'onum' Oldstyle Figures lookup 3-1" eight.onum
-Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" eight.sc
-Substitution2: "'subs' Subscript lookup 1-1" eight.subs
 Substitution2: "'ordn' Ordinals lookup 0-1" eight.ordn
 EndChar
 
@@ -1742,12 +1662,7 @@ SplineSet
  71 -6 68 17 68 23 c 1
 EndSplineSet
 Substitution2: "'pnum' Proportional Numbers lookup 12-1" nine.prop
-Substitution2: "'sinf' Scientific Inferiors lookup 5-1" nine.sinf
-Substitution2: "'sups' Superscript lookup 6-1" nine.ssup
 Substitution2: "'onum' Oldstyle Figures lookup 3-1" nine.onum
-Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" nine.sc
-Substitution2: "'subs' Subscript lookup 1-1" nine.subs
-Substitution2: "'ordn' Ordinals lookup 0-1" nine.ordn
 EndChar
 
 StartChar: colon
@@ -1770,11 +1685,7 @@ SplineSet
  168 347 144 321 114 321 c 0
  84 321 58 347 58 377 c 0
 EndSplineSet
-Substitution2: "'sinf' Scientific Inferiors lookup 5-1" colon.sinf
-Substitution2: "'sups' Superscript lookup 6-1" colon.ssup
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" colon.sc
-Substitution2: "'subs' Subscript lookup 1-1" colon.subs
-Substitution2: "'ordn' Ordinals lookup 0-1" colon.ordn
 EndChar
 
 StartChar: semicolon
@@ -1800,11 +1711,7 @@ SplineSet
  171 347 147 321 117 321 c 0
  87 321 61 347 61 377 c 0
 EndSplineSet
-Substitution2: "'sinf' Scientific Inferiors lookup 5-1" semicolon.sinf
-Substitution2: "'sups' Superscript lookup 6-1" semicolon.ssup
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" semicolon.sc
-Substitution2: "'subs' Subscript lookup 1-1" semicolon.subs
-Substitution2: "'ordn' Ordinals lookup 0-1" semicolon.ordn
 EndChar
 
 StartChar: less
@@ -1829,11 +1736,7 @@ SplineSet
  441 41 l 1
  441 41 444 40 444 35 c 0
 EndSplineSet
-Substitution2: "'sinf' Scientific Inferiors lookup 5-1" less.sinf
-Substitution2: "'sups' Superscript lookup 6-1" less.ssup
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" less.sc
-Substitution2: "'subs' Subscript lookup 1-1" less.subs
-Substitution2: "'ordn' Ordinals lookup 0-1" less.ordn
 EndChar
 
 StartChar: equal
@@ -1855,11 +1758,7 @@ SplineSet
  491.547 319 l 17
  505.547 319 492.547 271 478.547 264 c 1
 EndSplineSet
-Substitution2: "'sinf' Scientific Inferiors lookup 5-1" equal.sinf
-Substitution2: "'sups' Superscript lookup 6-1" equal.ssup
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" equal.sc
-Substitution2: "'subs' Subscript lookup 1-1" equal.subs
-Substitution2: "'ordn' Ordinals lookup 0-1" equal.ordn
 EndChar
 
 StartChar: greater
@@ -1884,11 +1783,7 @@ SplineSet
  68 -14 66 -15 65 -15 c 0
  59 -15 48 27 48 35 c 0
 EndSplineSet
-Substitution2: "'sinf' Scientific Inferiors lookup 5-1" greater.sinf
-Substitution2: "'sups' Superscript lookup 6-1" greater.ssup
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" greater.sc
-Substitution2: "'subs' Subscript lookup 1-1" greater.subs
-Substitution2: "'ordn' Ordinals lookup 0-1" greater.ordn
 EndChar
 
 StartChar: question
@@ -1921,11 +1816,7 @@ SplineSet
  260 539 224 569 186 569 c 0xb4
  133 569 126 548 100 548 c 0xd4
 EndSplineSet
-Substitution2: "'sinf' Scientific Inferiors lookup 5-1" question.sinf
-Substitution2: "'sups' Superscript lookup 6-1" question.ssup
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" question.sc
-Substitution2: "'subs' Subscript lookup 1-1" question.subs
-Substitution2: "'ordn' Ordinals lookup 0-1" question.ordn
 EndChar
 
 StartChar: at
@@ -2011,10 +1902,6 @@ SplineSet
  378.25 295 379.25 300 379.25 300 c 1
  291 542 l 1
 EndSplineSet
-Substitution2: "'sinf' Scientific Inferiors lookup 5-1" A.sinf
-Substitution2: "'sups' Superscript lookup 6-1" A.ssup
-Substitution2: "'subs' Subscript lookup 1-1" A.subs
-Substitution2: "'ordn' Ordinals lookup 0-1" A.ordn
 EndChar
 
 StartChar: B
@@ -2058,10 +1945,6 @@ SplineSet
  86.3857 660 124.386 657 163.386 657 c 0
  202.386 657 246.386 659 305.386 659 c 0
 EndSplineSet
-Substitution2: "'sinf' Scientific Inferiors lookup 5-1" B.sinf
-Substitution2: "'sups' Superscript lookup 6-1" B.ssup
-Substitution2: "'subs' Subscript lookup 1-1" B.subs
-Substitution2: "'ordn' Ordinals lookup 0-1" B.ordn
 EndChar
 
 StartChar: C
@@ -2089,10 +1972,6 @@ SplineSet
  184 -6 48 145 48 322 c 0
  48 509 189 667 386 667 c 0xe8
 EndSplineSet
-Substitution2: "'sinf' Scientific Inferiors lookup 5-1" C.sinf
-Substitution2: "'sups' Superscript lookup 6-1" C.ssup
-Substitution2: "'subs' Subscript lookup 1-1" C.subs
-Substitution2: "'ordn' Ordinals lookup 0-1" C.ordn
 EndChar
 
 StartChar: D
@@ -2126,10 +2005,6 @@ SplineSet
  86.3857 660 124.386 657 163.386 657 c 0
  202.386 657 264.386 658 308.386 658 c 0
 EndSplineSet
-Substitution2: "'sinf' Scientific Inferiors lookup 5-1" D.sinf
-Substitution2: "'sups' Superscript lookup 6-1" D.ssup
-Substitution2: "'subs' Subscript lookup 1-1" D.subs
-Substitution2: "'ordn' Ordinals lookup 0-1" D.ordn
 EndChar
 
 StartChar: E
@@ -2182,10 +2057,6 @@ SplineSet
  41.3857 638 40.3857 657 45.3857 662 c 1xb780
  86.3857 660 124.386 657 163.386 657 c 0x3b80
 EndSplineSet
-Substitution2: "'sinf' Scientific Inferiors lookup 5-1" E.sinf
-Substitution2: "'sups' Superscript lookup 6-1" E.ssup
-Substitution2: "'subs' Subscript lookup 1-1" E.subs
-Substitution2: "'ordn' Ordinals lookup 0-1" E.ordn
 EndChar
 
 StartChar: F
@@ -2233,10 +2104,6 @@ SplineSet
  41.3857 638 40.3857 657 45.3857 662 c 1xef
  86.3857 660 124.386 657 163.386 657 c 0xf7
 EndSplineSet
-Substitution2: "'sinf' Scientific Inferiors lookup 5-1" F.sinf
-Substitution2: "'sups' Superscript lookup 6-1" F.ssup
-Substitution2: "'subs' Subscript lookup 1-1" F.subs
-Substitution2: "'ordn' Ordinals lookup 0-1" F.ordn
 EndChar
 
 StartChar: G
@@ -2274,10 +2141,6 @@ SplineSet
  534 62 535 67 535 74 c 0
  535 175 l 2xf8
 EndSplineSet
-Substitution2: "'sinf' Scientific Inferiors lookup 5-1" G.sinf
-Substitution2: "'sups' Superscript lookup 6-1" G.ssup
-Substitution2: "'subs' Subscript lookup 1-1" G.subs
-Substitution2: "'ordn' Ordinals lookup 0-1" G.ordn
 EndChar
 
 StartChar: H
@@ -2337,10 +2200,6 @@ SplineSet
  41.3857 635 40.3857 657 45.3857 662 c 1
  86.3857 660 124.386 657 163.386 657 c 0
 EndSplineSet
-Substitution2: "'sinf' Scientific Inferiors lookup 5-1" H.sinf
-Substitution2: "'sups' Superscript lookup 6-1" H.ssup
-Substitution2: "'subs' Subscript lookup 1-1" H.subs
-Substitution2: "'ordn' Ordinals lookup 0-1" H.ordn
 EndChar
 
 StartChar: I
@@ -2372,10 +2231,6 @@ SplineSet
  41.3857 638 40.3857 657 45.3857 662 c 1
  86.3857 660 124.386 657 163.386 657 c 0
 EndSplineSet
-Substitution2: "'sinf' Scientific Inferiors lookup 5-1" I.sinf
-Substitution2: "'sups' Superscript lookup 6-1" I.ssup
-Substitution2: "'subs' Subscript lookup 1-1" I.subs
-Substitution2: "'ordn' Ordinals lookup 0-1" I.ordn
 EndChar
 
 StartChar: J
@@ -2406,10 +2261,6 @@ SplineSet
  36 638 35 657 40 662 c 1
  81 660 119 657 158 657 c 0
 EndSplineSet
-Substitution2: "'sinf' Scientific Inferiors lookup 5-1" J.sinf
-Substitution2: "'sups' Superscript lookup 6-1" J.ssup
-Substitution2: "'subs' Subscript lookup 1-1" J.subs
-Substitution2: "'ordn' Ordinals lookup 0-1" J.ordn
 EndChar
 
 StartChar: K
@@ -2461,10 +2312,6 @@ SplineSet
  41.3857 635 40.3857 657 45.3857 662 c 1
  86.3857 660 124.386 657 163.386 657 c 0
 EndSplineSet
-Substitution2: "'sinf' Scientific Inferiors lookup 5-1" K.sinf
-Substitution2: "'sups' Superscript lookup 6-1" K.ssup
-Substitution2: "'subs' Subscript lookup 1-1" K.subs
-Substitution2: "'ordn' Ordinals lookup 0-1" K.ordn
 EndChar
 
 StartChar: L
@@ -2501,10 +2348,6 @@ SplineSet
  206.386 601 206 573 206.386 543 c 2
  206.386 116 l 2xb0
 EndSplineSet
-Substitution2: "'sinf' Scientific Inferiors lookup 5-1" L.sinf
-Substitution2: "'sups' Superscript lookup 6-1" L.ssup
-Substitution2: "'subs' Subscript lookup 1-1" L.subs
-Substitution2: "'ordn' Ordinals lookup 0-1" L.ordn
 EndChar
 
 StartChar: M
@@ -2560,10 +2403,6 @@ SplineSet
  57.3096 633 57.3096 660 59.3096 662 c 1
  105.31 660 116.31 657 162.31 657 c 0xd0
 EndSplineSet
-Substitution2: "'sinf' Scientific Inferiors lookup 5-1" M.sinf
-Substitution2: "'sups' Superscript lookup 6-1" M.ssup
-Substitution2: "'subs' Subscript lookup 1-1" M.subs
-Substitution2: "'ordn' Ordinals lookup 0-1" M.ordn
 EndChar
 
 StartChar: N
@@ -2608,10 +2447,6 @@ SplineSet
  36.0459 647 38.0459 660 41.0459 665 c 1
  87.0459 663 110.046 660 143.046 660 c 0
 EndSplineSet
-Substitution2: "'sinf' Scientific Inferiors lookup 5-1" N.sinf
-Substitution2: "'sups' Superscript lookup 6-1" N.ssup
-Substitution2: "'subs' Subscript lookup 1-1" N.subs
-Substitution2: "'ordn' Ordinals lookup 0-1" N.ordn
 EndChar
 
 StartChar: O
@@ -2634,10 +2469,6 @@ SplineSet
  197 -10 49 130 49 328 c 0
  49 515 197 667 373 667 c 0
 EndSplineSet
-Substitution2: "'sinf' Scientific Inferiors lookup 5-1" O.sinf
-Substitution2: "'sups' Superscript lookup 6-1" O.ssup
-Substitution2: "'subs' Subscript lookup 1-1" O.subs
-Substitution2: "'ordn' Ordinals lookup 0-1" O.ordn
 EndChar
 
 StartChar: P
@@ -2676,10 +2507,6 @@ SplineSet
  202 657 246 659 305 659 c 0
  411 659 518 595 518 479 c 0
 EndSplineSet
-Substitution2: "'sinf' Scientific Inferiors lookup 5-1" P.sinf
-Substitution2: "'sups' Superscript lookup 6-1" P.ssup
-Substitution2: "'subs' Subscript lookup 1-1" P.subs
-Substitution2: "'ordn' Ordinals lookup 0-1" P.ordn
 EndChar
 
 StartChar: Q
@@ -2708,10 +2535,6 @@ SplineSet
  154 35 49 161 49 328 c 0
  49 515 197 667 373 667 c 0
 EndSplineSet
-Substitution2: "'sinf' Scientific Inferiors lookup 5-1" Q.sinf
-Substitution2: "'sups' Superscript lookup 6-1" Q.ssup
-Substitution2: "'subs' Subscript lookup 1-1" Q.subs
-Substitution2: "'ordn' Ordinals lookup 0-1" Q.ordn
 EndChar
 
 StartChar: R
@@ -2757,10 +2580,6 @@ SplineSet
  206.386 333 241 333 260 333 c 0
  338 333 415 389 415 477 c 0
 EndSplineSet
-Substitution2: "'sinf' Scientific Inferiors lookup 5-1" R.sinf
-Substitution2: "'sups' Superscript lookup 6-1" R.ssup
-Substitution2: "'subs' Subscript lookup 1-1" R.subs
-Substitution2: "'ordn' Ordinals lookup 0-1" R.ordn
 EndChar
 
 StartChar: S
@@ -2792,10 +2611,6 @@ SplineSet
  162 335 65 389 65 490 c 0
  65 596 161 666 261 666 c 0xd8
 EndSplineSet
-Substitution2: "'sinf' Scientific Inferiors lookup 5-1" S.sinf
-Substitution2: "'sups' Superscript lookup 6-1" S.ssup
-Substitution2: "'subs' Subscript lookup 1-1" S.subs
-Substitution2: "'ordn' Ordinals lookup 0-1" S.ordn
 EndChar
 
 StartChar: T
@@ -2835,10 +2650,6 @@ SplineSet
  204 661 415 661 508 661 c 0
 EndSplineSet
 Kerns2: 78 -99 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 
-Substitution2: "'sinf' Scientific Inferiors lookup 5-1" T.sinf
-Substitution2: "'sups' Superscript lookup 6-1" T.ssup
-Substitution2: "'subs' Subscript lookup 1-1" T.subs
-Substitution2: "'ordn' Ordinals lookup 0-1" T.ordn
 EndChar
 
 StartChar: U
@@ -2878,10 +2689,6 @@ SplineSet
  25.3857 638 24.3857 657 29.3857 662 c 1
  70.3857 660 108.386 657 147.386 657 c 0
 EndSplineSet
-Substitution2: "'sinf' Scientific Inferiors lookup 5-1" U.sinf
-Substitution2: "'sups' Superscript lookup 6-1" U.ssup
-Substitution2: "'subs' Subscript lookup 1-1" U.subs
-Substitution2: "'ordn' Ordinals lookup 0-1" U.ordn
 EndChar
 
 StartChar: V
@@ -2916,10 +2723,6 @@ SplineSet
  -8.5 633 -8.5 660 -6.5 662 c 1
  39.5 660 63.5 657 109.5 657 c 0
 EndSplineSet
-Substitution2: "'sinf' Scientific Inferiors lookup 5-1" V.sinf
-Substitution2: "'sups' Superscript lookup 6-1" V.ssup
-Substitution2: "'subs' Subscript lookup 1-1" V.subs
-Substitution2: "'ordn' Ordinals lookup 0-1" V.ordn
 EndChar
 
 StartChar: W
@@ -2962,10 +2765,6 @@ SplineSet
  -6.5 633 -6.5 660 -4.5 662 c 1
  41.5 660 71.5 657 117.5 657 c 0
 EndSplineSet
-Substitution2: "'sinf' Scientific Inferiors lookup 5-1" W.sinf
-Substitution2: "'sups' Superscript lookup 6-1" W.ssup
-Substitution2: "'subs' Subscript lookup 1-1" W.subs
-Substitution2: "'ordn' Ordinals lookup 0-1" W.ordn
 EndChar
 
 StartChar: X
@@ -3015,10 +2814,6 @@ SplineSet
  29.2695 633 29.2695 657 34.2695 662 c 1
  83.2695 660 110.27 657 159.27 657 c 0
 EndSplineSet
-Substitution2: "'sinf' Scientific Inferiors lookup 5-1" X.sinf
-Substitution2: "'sups' Superscript lookup 6-1" X.ssup
-Substitution2: "'subs' Subscript lookup 1-1" X.subs
-Substitution2: "'ordn' Ordinals lookup 0-1" X.ordn
 EndChar
 
 StartChar: Y
@@ -3063,10 +2858,6 @@ SplineSet
  198.75 26 252.75 31 255.75 42 c 0
  260.75 58 260.75 86 260.75 116 c 2
 EndSplineSet
-Substitution2: "'sinf' Scientific Inferiors lookup 5-1" Y.sinf
-Substitution2: "'sups' Superscript lookup 6-1" Y.ssup
-Substitution2: "'subs' Subscript lookup 1-1" Y.subs
-Substitution2: "'ordn' Ordinals lookup 0-1" Y.ordn
 EndChar
 
 StartChar: Z
@@ -3099,10 +2890,6 @@ SplineSet
  459.79 626 l 1
  215.79 626 l 2xd0
 EndSplineSet
-Substitution2: "'sinf' Scientific Inferiors lookup 5-1" Z.sinf
-Substitution2: "'sups' Superscript lookup 6-1" Z.ssup
-Substitution2: "'subs' Subscript lookup 1-1" Z.subs
-Substitution2: "'ordn' Ordinals lookup 0-1" Z.ordn
 EndChar
 
 StartChar: bracketleft
@@ -3128,11 +2915,7 @@ SplineSet
  79 695 l 2
  79 696 80 718 98 718 c 0
 EndSplineSet
-Substitution2: "'sinf' Scientific Inferiors lookup 5-1" bracketleft.sinf
-Substitution2: "'sups' Superscript lookup 6-1" bracketleft.ssup
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" bracketleft.sc
-Substitution2: "'subs' Subscript lookup 1-1" bracketleft.subs
-Substitution2: "'ordn' Ordinals lookup 0-1" bracketleft.ordn
 EndChar
 
 StartChar: backslash
@@ -3151,11 +2934,7 @@ SplineSet
  339 -28 328 -21 325 -14 c 0
  214 275 119 524 31 750 c 1
 EndSplineSet
-Substitution2: "'sinf' Scientific Inferiors lookup 5-1" backslash.sinf
-Substitution2: "'sups' Superscript lookup 6-1" backslash.ssup
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" backslash.sc
-Substitution2: "'subs' Subscript lookup 1-1" backslash.subs
-Substitution2: "'ordn' Ordinals lookup 0-1" backslash.ordn
 EndChar
 
 StartChar: bracketright
@@ -3181,11 +2960,7 @@ SplineSet
  6 721 9 724 9 724 c 1
  9 724 80 718 162 718 c 0
 EndSplineSet
-Substitution2: "'sinf' Scientific Inferiors lookup 5-1" bracketright.sinf
-Substitution2: "'sups' Superscript lookup 6-1" bracketright.ssup
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" bracketright.sc
-Substitution2: "'subs' Subscript lookup 1-1" bracketright.subs
-Substitution2: "'ordn' Ordinals lookup 0-1" bracketright.ordn
 EndChar
 
 StartChar: asciicircum
@@ -3277,11 +3052,7 @@ SplineSet
  52 334 55 349 59 354 c 1
  90 383 168 436 241 436 c 0
 EndSplineSet
-Substitution2: "'sinf' Scientific Inferiors lookup 5-1" a.sinf
-Substitution2: "'sups' Superscript lookup 6-1" a.ssup
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" a.sc
-Substitution2: "'subs' Subscript lookup 1-1" a.subs
-Substitution2: "'ordn' Ordinals lookup 0-1" a.ordn
 EndChar
 
 StartChar: b
@@ -3318,11 +3089,7 @@ SplineSet
  313.394 27 374.394 113 374.394 194 c 0
  374.394 310 316.394 379 227.394 379 c 0
 EndSplineSet
-Substitution2: "'sinf' Scientific Inferiors lookup 5-1" b.sinf
-Substitution2: "'sups' Superscript lookup 6-1" b.ssup
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" b.sc
-Substitution2: "'subs' Subscript lookup 1-1" b.subs
-Substitution2: "'ordn' Ordinals lookup 0-1" b.ordn
 EndChar
 
 StartChar: c
@@ -3349,11 +3116,7 @@ SplineSet
  317 438 348 430 372 414 c 1
  376 410 382 396 382 386 c 0
 EndSplineSet
-Substitution2: "'sinf' Scientific Inferiors lookup 5-1" c.sinf
-Substitution2: "'sups' Superscript lookup 6-1" c.ssup
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" c.sc
-Substitution2: "'subs' Subscript lookup 1-1" c.subs
-Substitution2: "'ordn' Ordinals lookup 0-1" c.ordn
 EndChar
 
 StartChar: d
@@ -3394,11 +3157,7 @@ SplineSet
  351 347 l 2
  351 370 301 396 245 396 c 0
 EndSplineSet
-Substitution2: "'sinf' Scientific Inferiors lookup 5-1" d.sinf
-Substitution2: "'sups' Superscript lookup 6-1" d.ssup
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" d.sc
-Substitution2: "'subs' Subscript lookup 1-1" d.subs
-Substitution2: "'ordn' Ordinals lookup 0-1" d.ordn
 EndChar
 
 StartChar: e
@@ -3427,11 +3186,7 @@ SplineSet
  387 273 382 256 363 255 c 0
  332 253 123 248 111 248 c 1
 EndSplineSet
-Substitution2: "'sinf' Scientific Inferiors lookup 5-1" e.sinf
-Substitution2: "'sups' Superscript lookup 6-1" e.ssup
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" e.sc
-Substitution2: "'subs' Subscript lookup 1-1" e.subs
-Substitution2: "'ordn' Ordinals lookup 0-1" e.ordn
 EndChar
 
 StartChar: f
@@ -3472,11 +3227,7 @@ SplineSet
  96.3857 443 96.3857 438 96.3857 438 c 2
  96.3857 583 208.386 697 269.386 697 c 0
 EndSplineSet
-Substitution2: "'sinf' Scientific Inferiors lookup 5-1" f.sinf
-Substitution2: "'sups' Superscript lookup 6-1" f.ssup
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" f.sc
-Substitution2: "'subs' Subscript lookup 1-1" f.subs
-Substitution2: "'ordn' Ordinals lookup 0-1" f.ordn
 EndChar
 
 StartChar: g
@@ -3522,11 +3273,7 @@ SplineSet
  123 92 143 67 183 67 c 0
  249 67 257 67 301 67 c 0
 EndSplineSet
-Substitution2: "'sinf' Scientific Inferiors lookup 5-1" g.sinf
-Substitution2: "'sups' Superscript lookup 6-1" g.ssup
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" g.sc
-Substitution2: "'subs' Subscript lookup 1-1" g.subs
-Substitution2: "'ordn' Ordinals lookup 0-1" g.ordn
 EndChar
 
 StartChar: h
@@ -3573,11 +3320,7 @@ SplineSet
  170.386 363 171.386 364 172.386 365 c 0
  192.386 387 259.386 438 307.386 438 c 0
 EndSplineSet
-Substitution2: "'sinf' Scientific Inferiors lookup 5-1" h.sinf
-Substitution2: "'sups' Superscript lookup 6-1" h.ssup
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" h.sc
-Substitution2: "'subs' Subscript lookup 1-1" h.subs
-Substitution2: "'ordn' Ordinals lookup 0-1" h.ordn
 EndChar
 
 StartChar: i
@@ -3590,11 +3333,7 @@ LayerCount: 2
 Fore
 Refer: 339 775 N 1 0 0 1 390.31 48 2
 Refer: 238 305 N 1 0 0 1 0 0 2
-Substitution2: "'sinf' Scientific Inferiors lookup 5-1" i.sinf
-Substitution2: "'sups' Superscript lookup 6-1" i.ssup
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" i.sc
-Substitution2: "'subs' Subscript lookup 1-1" i.subs
-Substitution2: "'ordn' Ordinals lookup 0-1" i.ordn
 EndChar
 
 StartChar: j
@@ -3607,11 +3346,7 @@ LayerCount: 2
 Fore
 Refer: 339 775 N 1 0 0 1 370.75 48 2
 Refer: 320 567 N 1 0 0 1 0 0 2
-Substitution2: "'sinf' Scientific Inferiors lookup 5-1" j.sinf
-Substitution2: "'sups' Superscript lookup 6-1" j.ssup
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" j.sc
-Substitution2: "'subs' Subscript lookup 1-1" j.subs
-Substitution2: "'ordn' Ordinals lookup 0-1" j.ordn
 EndChar
 
 StartChar: k
@@ -3658,11 +3393,7 @@ SplineSet
  177.386 200 166.386 204 166.386 204 c 1
  166.386 116 l 2
 EndSplineSet
-Substitution2: "'sinf' Scientific Inferiors lookup 5-1" k.sinf
-Substitution2: "'sups' Superscript lookup 6-1" k.ssup
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" k.sc
-Substitution2: "'subs' Subscript lookup 1-1" k.subs
-Substitution2: "'ordn' Ordinals lookup 0-1" k.ordn
 EndChar
 
 StartChar: l
@@ -3692,11 +3423,7 @@ SplineSet
  89.3857 58 89.3857 86 89.3857 116 c 2
  89.3857 558 l 2
 EndSplineSet
-Substitution2: "'sinf' Scientific Inferiors lookup 5-1" l.sinf
-Substitution2: "'sups' Superscript lookup 6-1" l.ssup
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" l.sc
-Substitution2: "'subs' Subscript lookup 1-1" l.subs
-Substitution2: "'ordn' Ordinals lookup 0-1" l.ordn
 EndChar
 
 StartChar: m
@@ -3758,11 +3485,7 @@ SplineSet
  185.31 368 186.31 369 187.31 370 c 0
  212.31 391 265.31 438 319.31 438 c 0xbc
 EndSplineSet
-Substitution2: "'sinf' Scientific Inferiors lookup 5-1" m.sinf
-Substitution2: "'sups' Superscript lookup 6-1" m.ssup
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" m.sc
-Substitution2: "'subs' Subscript lookup 1-1" m.subs
-Substitution2: "'ordn' Ordinals lookup 0-1" m.ordn
 EndChar
 
 StartChar: n
@@ -3808,11 +3531,7 @@ SplineSet
  185.31 363 186.31 364 187.31 365 c 0
  207.31 387 274.31 438 322.31 438 c 0xb8
 EndSplineSet
-Substitution2: "'sinf' Scientific Inferiors lookup 5-1" n.sinf
-Substitution2: "'sups' Superscript lookup 6-1" n.ssup
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" n.sc
-Substitution2: "'subs' Subscript lookup 1-1" n.subs
-Substitution2: "'ordn' Ordinals lookup 0-1" n.ordn
 EndChar
 
 StartChar: o
@@ -3835,11 +3554,7 @@ SplineSet
  124 -7 41 88 41 213 c 0
  41 342 133 439 254 439 c 0
 EndSplineSet
-Substitution2: "'sinf' Scientific Inferiors lookup 5-1" o.sinf
-Substitution2: "'sups' Superscript lookup 6-1" o.ssup
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" o.sc
-Substitution2: "'subs' Subscript lookup 1-1" o.subs
-Substitution2: "'ordn' Ordinals lookup 0-1" o.ordn
 EndChar
 
 StartChar: p
@@ -3882,11 +3597,7 @@ SplineSet
  339.31 27 387.31 114 387.31 195 c 0
  387.31 314 323.31 379 247.31 379 c 0xdc
 EndSplineSet
-Substitution2: "'sinf' Scientific Inferiors lookup 5-1" p.sinf
-Substitution2: "'sups' Superscript lookup 6-1" p.ssup
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" p.sc
-Substitution2: "'subs' Subscript lookup 1-1" p.subs
-Substitution2: "'ordn' Ordinals lookup 0-1" p.ordn
 EndChar
 
 StartChar: q
@@ -3924,11 +3635,7 @@ SplineSet
  102 -7 39 110 39 199 c 0
  39 336 179 438 286 438 c 0
 EndSplineSet
-Substitution2: "'sinf' Scientific Inferiors lookup 5-1" q.sinf
-Substitution2: "'sups' Superscript lookup 6-1" q.ssup
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" q.sc
-Substitution2: "'subs' Subscript lookup 1-1" q.subs
-Substitution2: "'ordn' Ordinals lookup 0-1" q.ordn
 EndChar
 
 StartChar: r
@@ -3966,11 +3673,7 @@ SplineSet
  181.31 328 184.721 328.714 185.31 330 c 0
  205 373 258.31 437 303.31 437 c 0xd0
 EndSplineSet
-Substitution2: "'sinf' Scientific Inferiors lookup 5-1" r.sinf
-Substitution2: "'sups' Superscript lookup 6-1" r.ssup
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" r.sc
-Substitution2: "'subs' Subscript lookup 1-1" r.subs
-Substitution2: "'ordn' Ordinals lookup 0-1" r.ordn
 EndChar
 
 StartChar: s
@@ -4002,11 +3705,7 @@ SplineSet
  86 231 50 262 50 315 c 0
  50 389 121 437 195 437 c 0xd8
 EndSplineSet
-Substitution2: "'sinf' Scientific Inferiors lookup 5-1" s.sinf
-Substitution2: "'sups' Superscript lookup 6-1" s.ssup
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" s.sc
-Substitution2: "'subs' Subscript lookup 1-1" s.subs
-Substitution2: "'ordn' Ordinals lookup 0-1" s.ordn
 EndChar
 
 StartChar: t
@@ -4040,11 +3739,7 @@ SplineSet
  149 567 160 567 160 563 c 2
  160 432 l 1
 EndSplineSet
-Substitution2: "'sinf' Scientific Inferiors lookup 5-1" t.sinf
-Substitution2: "'sups' Superscript lookup 6-1" t.ssup
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" t.sc
-Substitution2: "'subs' Subscript lookup 1-1" t.subs
-Substitution2: "'ordn' Ordinals lookup 0-1" t.ordn
 EndChar
 
 StartChar: u
@@ -4088,11 +3783,7 @@ SplineSet
  301.639 49 350 80 349.639 104 c 2
  349.638671875 320 l 2x9c
 EndSplineSet
-Substitution2: "'sinf' Scientific Inferiors lookup 5-1" u.sinf
-Substitution2: "'sups' Superscript lookup 6-1" u.ssup
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" u.sc
-Substitution2: "'subs' Subscript lookup 1-1" u.subs
-Substitution2: "'ordn' Ordinals lookup 0-1" u.ordn
 EndChar
 
 StartChar: v
@@ -4125,11 +3816,7 @@ SplineSet
  0.30957 406 -1.69043 420 2.30957 430 c 1
  43.3096 428 61.3096 425 102.31 425 c 0
 EndSplineSet
-Substitution2: "'sinf' Scientific Inferiors lookup 5-1" v.sinf
-Substitution2: "'sups' Superscript lookup 6-1" v.ssup
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" v.sc
-Substitution2: "'subs' Subscript lookup 1-1" v.subs
-Substitution2: "'ordn' Ordinals lookup 0-1" v.ordn
 EndChar
 
 StartChar: w
@@ -4177,11 +3864,7 @@ SplineSet
  -0.75 407 -0.75 424 2.25 430 c 1
  43.25 428 60.25 425 101.25 425 c 0
 EndSplineSet
-Substitution2: "'sinf' Scientific Inferiors lookup 5-1" w.sinf
-Substitution2: "'sups' Superscript lookup 6-1" w.ssup
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" w.sc
-Substitution2: "'subs' Subscript lookup 1-1" w.subs
-Substitution2: "'ordn' Ordinals lookup 0-1" w.ordn
 EndChar
 
 StartChar: x
@@ -4229,11 +3912,7 @@ SplineSet
  21.04 401 21 424 24.04 430 c 1
  57 427 84.04 425 123.04 425 c 0
 EndSplineSet
-Substitution2: "'sinf' Scientific Inferiors lookup 5-1" x.sinf
-Substitution2: "'sups' Superscript lookup 6-1" x.ssup
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" x.sc
-Substitution2: "'subs' Subscript lookup 1-1" x.subs
-Substitution2: "'ordn' Ordinals lookup 0-1" x.ordn
 EndChar
 
 StartChar: y
@@ -4270,11 +3949,7 @@ SplineSet
  -0.5 401 -0.5 428 1.5 430 c 1
  20.5 428 60.5 425 101.5 425 c 0
 EndSplineSet
-Substitution2: "'sinf' Scientific Inferiors lookup 5-1" y.sinf
-Substitution2: "'sups' Superscript lookup 6-1" y.ssup
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" y.sc
-Substitution2: "'subs' Subscript lookup 1-1" y.subs
-Substitution2: "'ordn' Ordinals lookup 0-1" y.ordn
 EndChar
 
 StartChar: z
@@ -4307,11 +3982,7 @@ SplineSet
  47 336 56 386 59 439 c 1xb0
  59 439 112 431 148 431 c 2xd0
 EndSplineSet
-Substitution2: "'sinf' Scientific Inferiors lookup 5-1" z.sinf
-Substitution2: "'sups' Superscript lookup 6-1" z.ssup
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" z.sc
-Substitution2: "'subs' Subscript lookup 1-1" z.subs
-Substitution2: "'ordn' Ordinals lookup 0-1" z.ordn
 EndChar
 
 StartChar: braceleft
@@ -4344,11 +4015,7 @@ SplineSet
  26 292.25 26.75 296.5 28.25 299 c 1
  67.25 309 104.25 330 104.25 383 c 0
 EndSplineSet
-Substitution2: "'sinf' Scientific Inferiors lookup 5-1" braceleft.sinf
-Substitution2: "'sups' Superscript lookup 6-1" braceleft.ssup
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" braceleft.sc
-Substitution2: "'subs' Subscript lookup 1-1" braceleft.subs
-Substitution2: "'ordn' Ordinals lookup 0-1" braceleft.ordn
 EndChar
 
 StartChar: bar
@@ -4368,11 +4035,7 @@ SplineSet
  128.265 772 127.265 766 127.265 766 c 1
  128.265 -106 l 2
 EndSplineSet
-Substitution2: "'sinf' Scientific Inferiors lookup 5-1" bar.sinf
-Substitution2: "'sups' Superscript lookup 6-1" bar.ssup
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" bar.sc
-Substitution2: "'subs' Subscript lookup 1-1" bar.subs
-Substitution2: "'ordn' Ordinals lookup 0-1" bar.ordn
 EndChar
 
 StartChar: braceright
@@ -4405,11 +4068,7 @@ SplineSet
  120 640 68 688 41 701 c 1
  41 710 49 720 57 720 c 1
 EndSplineSet
-Substitution2: "'sinf' Scientific Inferiors lookup 5-1" braceright.sinf
-Substitution2: "'sups' Superscript lookup 6-1" braceright.ssup
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" braceright.sc
-Substitution2: "'subs' Subscript lookup 1-1" braceright.subs
-Substitution2: "'ordn' Ordinals lookup 0-1" braceright.ordn
 EndChar
 
 StartChar: asciitilde
@@ -4432,11 +4091,7 @@ SplineSet
  521 295 455 250 393 250 c 0
  344 250 308 263 271 277 c 0
 EndSplineSet
-Substitution2: "'sinf' Scientific Inferiors lookup 5-1" asciitilde.sinf
-Substitution2: "'sups' Superscript lookup 6-1" asciitilde.ssup
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" asciitilde.sc
-Substitution2: "'subs' Subscript lookup 1-1" asciitilde.subs
-Substitution2: "'ordn' Ordinals lookup 0-1" asciitilde.ordn
 EndChar
 
 StartChar: uni00A0
@@ -4444,7 +4099,6 @@ Encoding: 160 160 94
 Width: 217
 Flags: W
 LayerCount: 2
-Substitution2: "Single Substitution lookup 46 subtable" u00A0.ac
 EndChar
 
 StartChar: exclamdown
@@ -4501,7 +4155,6 @@ SplineSet
  323 438 354 430 378 414 c 1
  382 410 388 393 388 388 c 0
 EndSplineSet
-Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" cent.sc
 EndChar
 
 StartChar: sterling
@@ -4541,7 +4194,6 @@ SplineSet
  55 306 l 17
  49 312 69 342 78 342 c 1
 EndSplineSet
-Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" sterling.sc
 EndChar
 
 StartChar: currency
@@ -4634,7 +4286,6 @@ SplineSet
  238.75 26 292.75 31 295.75 42 c 0
  300.75 58 300.75 86 300.75 116 c 2
 EndSplineSet
-Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" yen.sc
 EndChar
 
 StartChar: brokenbar
@@ -4662,11 +4313,6 @@ SplineSet
  133 -116 89.2646 -123 87.2646 -123 c 0
  80.2646 -123 82.2646 -119 82.2646 -115 c 2
 EndSplineSet
-Substitution2: "'sinf' Scientific Inferiors lookup 5-1" brokenbar.sinf
-Substitution2: "'sups' Superscript lookup 6-1" brokenbar.ssup
-Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" brokenbar.sc
-Substitution2: "'subs' Subscript lookup 1-1" brokenbar.subs
-Substitution2: "'ordn' Ordinals lookup 0-1" brokenbar.ordn
 EndChar
 
 StartChar: section
@@ -4711,11 +4357,6 @@ SplineSet
  252 196 322 140 322 68 c 0
  322 -12 250 -78 138 -78 c 0
 EndSplineSet
-Substitution2: "'sinf' Scientific Inferiors lookup 5-1" section.sinf
-Substitution2: "'sups' Superscript lookup 6-1" section.ssup
-Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" section.sc
-Substitution2: "'subs' Subscript lookup 1-1" section.subs
-Substitution2: "'ordn' Ordinals lookup 0-1" section.ordn
 EndChar
 
 StartChar: dieresis
@@ -4764,7 +4405,6 @@ SplineSet
  603 191 480 69 329 69 c 0
  178 69 56 191 56 342 c 0
 EndSplineSet
-Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" copyright.sc
 EndChar
 
 StartChar: ordfeminine
@@ -4804,7 +4444,6 @@ SplineSet
  57 486 59 497 62 500 c 1
  83 520 137 556 188 556 c 0
 EndSplineSet
-Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" ordfeminine.sc
 EndChar
 
 StartChar: guillemotleft
@@ -4833,7 +4472,6 @@ SplineSet
  240 72 163 151 32 230 c 1
  30 233 27 240 27 246 c 0
 EndSplineSet
-Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" guillemotleft.sc
 EndChar
 
 StartChar: logicalnot
@@ -4910,7 +4548,6 @@ SplineSet
  603 256 480 133 329 133 c 0
  178 133 56 256 56 407 c 0
 EndSplineSet
-Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" registered.sc
 EndChar
 
 StartChar: macron
@@ -4943,7 +4580,6 @@ SplineSet
  235 482 191 437 137 437 c 0
  83 437 38 482 38 536 c 0
 EndSplineSet
-Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" degree.sc
 EndChar
 
 StartChar: plusminus
@@ -5140,11 +4776,6 @@ SplineSet
  420 336 399 312 392 309 c 0
  381 304 369 300 361 299 c 1x1680
 EndSplineSet
-Substitution2: "'sinf' Scientific Inferiors lookup 5-1" paragraph.sinf
-Substitution2: "'sups' Superscript lookup 6-1" paragraph.ssup
-Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" paragraph.sc
-Substitution2: "'subs' Subscript lookup 1-1" paragraph.subs
-Substitution2: "'ordn' Ordinals lookup 0-1" paragraph.ordn
 EndChar
 
 StartChar: periodcentered
@@ -5226,7 +4857,6 @@ SplineSet
  109 247 38 316 38 399 c 0
  38 484 107 554 196 554 c 0
 EndSplineSet
-Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" ordmasculine.sc
 EndChar
 
 StartChar: guillemotright
@@ -5255,7 +4885,6 @@ SplineSet
  244 422 321 343 452 264 c 1
  456 255 457 256 457 246 c 0
 EndSplineSet
-Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" guillemotright.sc
 EndChar
 
 StartChar: onequarter
@@ -5620,10 +5249,6 @@ LayerCount: 2
 Fore
 Refer: 36 69 N 1 0 0 1 -0.000190735 0 3
 Refer: 487 63632 N 1 0 0 1 132.77 19 2
-Substitution2: "'sinf' Scientific Inferiors lookup 5-1" Egrave.sinf
-Substitution2: "'sups' Superscript lookup 6-1" Egrave.ssup
-Substitution2: "'subs' Subscript lookup 1-1" Egrave.subs
-Substitution2: "'ordn' Ordinals lookup 0-1" Egrave.ordn
 EndChar
 
 StartChar: Eacute
@@ -6148,11 +5773,7 @@ LayerCount: 2
 Fore
 Refer: 332 768 N 1 0 0 1 458 -30 2
 Refer: 68 101 N 1 0 0 1 0 0 3
-Substitution2: "'sinf' Scientific Inferiors lookup 5-1" egrave.sinf
-Substitution2: "'sups' Superscript lookup 6-1" egrave.ssup
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" egrave.sc
-Substitution2: "'subs' Subscript lookup 1-1" egrave.subs
-Substitution2: "'ordn' Ordinals lookup 0-1" egrave.ordn
 EndChar
 
 StartChar: eacute
@@ -9557,7 +9178,6 @@ SplineSet
  234 540 181 618 135 618 c 0
  113 618 102 604 95 595 c 1
 EndSplineSet
-Substitution2: "Single Substitution lookup 46 subtable" u03BB.d
 EndChar
 
 StartChar: mu
@@ -10302,7 +9922,6 @@ Encoding: 8199 8199 402
 Width: 309
 Flags: W
 LayerCount: 2
-Substitution2: "Single Substitution lookup 46 subtable" u2007.ac
 EndChar
 
 StartChar: uni2008
@@ -10458,7 +10077,6 @@ SplineSet
  66 210 l 1
  66 210 60 209 60 219 c 0
 EndSplineSet
-Substitution2: "Single Substitution lookup 46 subtable" u2014.d
 EndChar
 
 StartChar: afii00208
@@ -10666,10 +10284,6 @@ SplineSet
  35 497 52 518 73 518 c 1xd4
  92 499 121 486 154 486 c 8xb4
 EndSplineSet
-Substitution2: "'sinf' Scientific Inferiors lookup 5-1" dagger.sinf
-Substitution2: "'sups' Superscript lookup 6-1" dagger.ssup
-Substitution2: "'subs' Subscript lookup 1-1" dagger.subs
-Substitution2: "'ordn' Ordinals lookup 0-1" dagger.ordn
 EndChar
 
 StartChar: daggerdbl
@@ -10723,10 +10337,6 @@ SplineSet
  240 343 239 342 227 327 c 1
  237 314 241 309 257 289 c 1x95
 EndSplineSet
-Substitution2: "'sinf' Scientific Inferiors lookup 5-1" daggerdbl.sinf
-Substitution2: "'sups' Superscript lookup 6-1" daggerdbl.ssup
-Substitution2: "'subs' Subscript lookup 1-1" daggerdbl.subs
-Substitution2: "'ordn' Ordinals lookup 0-1" daggerdbl.ordn
 EndChar
 
 StartChar: bullet
@@ -14296,7 +13906,6 @@ SplineSet
  88 664 132 643 132 627 c 0
  132 620 122 532 122 468 c 0
 EndSplineSet
-Substitution2: "Single Substitution lookup 46 subtable" Iota.d
 EndChar
 
 StartChar: Kappa
@@ -14640,7 +14249,6 @@ SplineSet
  481 667 544.419 646.581 546 645 c 0
  552 639 555 632 552 624 c 1
 EndSplineSet
-Substitution2: "Single Substitution lookup 46 subtable" u03A5.d
 EndChar
 
 StartChar: Phi
@@ -18500,7 +18108,6 @@ SplineSet
  508.31 449 530.31 447 545.31 447 c 0xc8
  572.31 447 621.31 449 641.31 451 c 1xa8
 EndSplineSet
-Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 0 subtable" uniFFFFFFFF.sc
 EndChar
 
 StartChar: n.sc
@@ -20961,7 +20568,6 @@ SplineSet
  376 352 312 252 215 252 c 0
  116 252 54 352 54 471 c 0
 EndSplineSet
-Substitution2: "Fraction Denominators-1" zero.subs
 EndChar
 
 StartChar: one.ordn
@@ -20994,7 +20600,6 @@ SplineSet
  129 603 126 606 120 606 c 0
  111 606 84 592 72 586 c 1
 EndSplineSet
-Substitution2: "Fraction Denominators-1" one.subs
 EndChar
 
 StartChar: two.ordn
@@ -21025,7 +20630,6 @@ SplineSet
  124 347 255 486 255 566 c 0
  255 618 226 638 179 638 c 0
 EndSplineSet
-Substitution2: "Fraction Denominators-1" two.subs
 EndChar
 
 StartChar: three.ordn
@@ -21057,7 +20661,6 @@ SplineSet
  85 618 79 631 79 636 c 1
  99 666 132 693 187 693 c 0xf0
 EndSplineSet
-Substitution2: "Fraction Denominators-1" three.subs
 EndChar
 
 StartChar: four.ordn
@@ -21093,7 +20696,6 @@ SplineSet
  224 417 l 25
  224 584 l 2
 EndSplineSet
-Substitution2: "Fraction Denominators-1" four.subs
 EndChar
 
 StartChar: five.ordn

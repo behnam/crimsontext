@@ -58,51 +58,51 @@ KernClass2: 75+ 56 "'kern' Horizontal Kerning in Latin lookup 0 kerning class 1"
  10 exclamdown
  10 registered
  12 questiondown
- 92 A Agrave Aacute Acircumflex Atilde Adieresis Aring Amacron Abreve Aogonek uni01CD Aringacute
+ 84 A Agrave Aacute Acircumflex Atilde Adieresis Aring Amacron Abreve Aogonek Aringacute
  1 B
  47 C Ccedilla Cacute Ccircumflex Cdotaccent Ccaron
  100 E AE Egrave Eacute Ecircumflex Edieresis Emacron Ebreve Edotaccent Eogonek Ecaron OE uni01E2 AEacute
  1 F
  44 G Gcircumflex Gbreve Gdotaccent Gcommaaccent
- 105 H I Igrave Iacute Icircumflex Idieresis Hcircumflex Hbar Itilde Imacron Ibreve Iogonek Idotaccent uni01CF
+ 98 H I Igrave Iacute Icircumflex Idieresis Hcircumflex Hbar Itilde Imacron Ibreve Iogonek Idotaccent 
  16 J IJ Jcircumflex
  14 K Kcommaaccent
  40 L Lacute Lcommaaccent Lcaron Ldot Lslash
  1 M
  39 N Ntilde Nacute Ncommaaccent Ncaron Eng
- 122 D O Q Eth Ograve Oacute Ocircumflex Otilde Odieresis Oslash Dcaron Dcroat Omacron Obreve Ohungarumlaut uni01D1 Oslashacute
+ 114 D O Q Eth Ograve Oacute Ocircumflex Otilde Odieresis Oslash Dcaron Dcroat Omacron Obreve Ohungarumlaut Oslashacute
  1 P
  28 R Racute Rcommaaccent Rcaron
  49 S Sacute Scircumflex Scedilla Scaron Scommaaccent
  34 T Tcommaaccent Tcaron Tbar uni021A
- 127 U Ugrave Uacute Ucircumflex Udieresis Utilde Umacron Ubreve Uring Uhungarumlaut Uogonek uni01D3 uni01D5 uni01D7 uni01D9 uni01DB
+ 119 U Ugrave Uacute Ucircumflex Udieresis Utilde Umacron Ubreve Uring Uhungarumlaut Uogonek uni01D5 uni01D7 uni01D9 uni01DB
  1 V
  13 W Wcircumflex
  1 X
  38 Y Yacute Ycircumflex Ydieresis uni0232
  26 Z Zacute Zdotaccent Zcaron
  5 Thorn
- 5 Ohorn
- 5 Uhorn
- 92 a agrave aacute acircumflex atilde adieresis aring amacron abreve aogonek uni01CE aringacute
+ 0 
+ 0 
+ 84 a agrave aacute acircumflex atilde adieresis aring amacron abreve aogonek aringacute
  1 b
  47 c ccedilla cacute ccircumflex cdotaccent ccaron
  15 d dcaron dcroat
  100 e ae egrave eacute ecircumflex edieresis emacron ebreve edotaccent eogonek ecaron oe uni01E3 aeacute
  1 f
  44 g gcircumflex gbreve gdotaccent gcommaaccent
- 84 i igrave iacute icircumflex idieresis itilde imacron ibreve iogonek dotlessi uni01D0
+ 77 i igrave iacute icircumflex idieresis itilde imacron ibreve iogonek dotlessi 
  24 j ij jcircumflex uni0237
  27 k kcommaaccent kgreenlandic
  35 l lacute lcommaaccent lcaron lslash
  56 h m n ntilde hcircumflex hbar nacute ncommaaccent ncaron
- 100 o ograve oacute ocircumflex otilde odieresis oslash omacron obreve ohungarumlaut uni01D2 oslashacute
+ 92 o ograve oacute ocircumflex otilde odieresis oslash omacron obreve ohungarumlaut oslashacute
  7 p thorn
  1 q
  28 r racute rcommaaccent rcaron
  49 s sacute scircumflex scedilla scaron scommaaccent
  34 t tcommaaccent tcaron tbar uni021B
- 127 u ugrave uacute ucircumflex udieresis utilde umacron ubreve uring uhungarumlaut uogonek uni01D4 uni01D6 uni01D8 uni01DA uni01DC
+ 119 u ugrave uacute ucircumflex udieresis utilde umacron ubreve uring uhungarumlaut uogonek uni01D6 uni01D8 uni01DA uni01DC
  1 v
  13 w wcircumflex
  1 x
@@ -111,7 +111,7 @@ KernClass2: 75+ 56 "'kern' Horizontal Kerning in Latin lookup 0 kerning class 1"
  3 eth
  4 ldot
  3 eng
- 5 uhorn
+ 0 
  20 quotedbl quotesingle
  8 asterisk
  6 hyphen
@@ -133,29 +133,29 @@ KernClass2: 75+ 56 "'kern' Horizontal Kerning in Latin lookup 0 kerning class 1"
  13 W Wcircumflex
  38 Y Yacute Ycircumflex Ydieresis uni0232
  13 J Jcircumflex
- 133 U Ugrave Uacute Ucircumflex Udieresis Utilde Umacron Ubreve Uring Uhungarumlaut Uogonek Uhorn uni01D3 uni01D5 uni01D7 uni01D9 uni01DB
- 92 A Agrave Aacute Acircumflex Atilde Adieresis Aring Amacron Abreve Aogonek uni01CD Aringacute
- 304 B D E F H I K L P R Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Thorn Dcaron Dcroat Emacron Ebreve Edotaccent Eogonek Ecaron Hcircumflex Hbar Itilde Imacron Ibreve Iogonek Idotaccent IJ Kcommaaccent Lacute Lcommaaccent Lcaron Ldot Lslash Racute Rcommaaccent Rcaron uni01CF
+ 119 U Ugrave Uacute Ucircumflex Udieresis Utilde Umacron Ubreve Uring Uhungarumlaut Uogonek uni01D5 uni01D7 uni01D9 uni01DB
+ 84 A Agrave Aacute Acircumflex Atilde Adieresis Aring Amacron Abreve Aogonek Aringacute
+ 297 B D E F H I K L P R Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Thorn Dcaron Dcroat Emacron Ebreve Edotaccent Eogonek Ecaron Hcircumflex Hbar Itilde Imacron Ibreve Iogonek Idotaccent IJ Kcommaaccent Lacute Lcommaaccent Lcaron Ldot Lslash Racute Rcommaaccent Rcaron 
  39 N Ntilde Nacute Ncommaaccent Ncaron Eng
  18 AE uni01E2 AEacute
  8 asterisk
  6 hyphen
  15 colon semicolon
- 204 C G O Q Ccedilla Ograve Oacute Ocircumflex Otilde Odieresis Oslash Cacute Ccircumflex Cdotaccent Ccaron Gcircumflex Gbreve Gdotaccent Gcommaaccent Omacron Obreve Ohungarumlaut OE Ohorn uni01D1 Oslashacute
+ 179 C G O Q Ccedilla Ograve Oacute Ocircumflex Otilde Odieresis Oslash Cacute Ccircumflex Cdotaccent Ccaron Gcircumflex Gbreve Gdotaccent Gcommaaccent Omacron Obreve Ohungarumlaut OE 
  49 S Sacute Scircumflex Scedilla Scaron Scommaaccent
  1 V
  9 backslash
  12 bracketright
- 111 a agrave aacute acircumflex atilde adieresis aring ae amacron abreve aogonek uni01CE uni01E3 aringacute aeacute
+ 103 a agrave aacute acircumflex atilde adieresis aring ae amacron abreve aogonek uni01E3 aringacute aeacute
  47 c ccedilla cacute ccircumflex cdotaccent ccaron
  15 d dcaron dcroat
  44 g gcircumflex gbreve gdotaccent gcommaaccent
  21 j jcircumflex uni0237
- 192 e o egrave eacute ecircumflex edieresis eth ograve oacute ocircumflex otilde odieresis oslash emacron ebreve edotaccent eogonek ecaron omacron obreve ohungarumlaut oe ohorn uni01D2 oslashacute
+ 178 e o egrave eacute ecircumflex edieresis eth ograve oacute ocircumflex otilde odieresis oslash emacron ebreve edotaccent eogonek ecaron omacron obreve ohungarumlaut oe oslashacute
  1 q
  49 s sacute scircumflex scedilla scaron scommaaccent
  34 t tcommaaccent tcaron tbar uni021B
- 133 u ugrave uacute ucircumflex udieresis utilde umacron ubreve uring uhungarumlaut uogonek uhorn uni01D4 uni01D6 uni01D8 uni01DA uni01DC
+ 119 u ugrave uacute ucircumflex udieresis utilde umacron ubreve uring uhungarumlaut uogonek uni01D6 uni01D8 uni01DA uni01DC
  1 v
  13 w wcircumflex
  38 y yacute ydieresis ycircumflex uni0233
@@ -164,7 +164,7 @@ KernClass2: 75+ 56 "'kern' Horizontal Kerning in Latin lookup 0 kerning class 1"
  10 registered
  18 f germandbls longs
  33 h k hcircumflex hbar kcommaaccent
- 87 i igrave iacute icircumflex idieresis itilde imacron ibreve iogonek dotlessi ij uni01D0
+ 80 i igrave iacute icircumflex idieresis itilde imacron ibreve iogonek dotlessi ij 
  40 l lacute lcommaaccent lcaron ldot lslash
  83 m n r ntilde kgreenlandic nacute ncommaaccent ncaron eng racute rcommaaccent rcaron
  26 z zacute zdotaccent zcaron

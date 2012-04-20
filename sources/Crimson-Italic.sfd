@@ -51,7 +51,6 @@ OS2StrikeYPos: 265
 OS2Vendor: 'PfEd'
 Lookup: 4 0 1 "'liga' Standard Ligatures lookup 0"  {"'liga' Standard Ligatures lookup 0-1"  } ['liga' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 1 0 0 "'onum' Oldstyle Figures in Latin lookup 5"  {"'onum' Oldstyle Figures in Latin lookup 5-1" ("onum" ) } ['onum' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 1 0 0 "Ordinals"  {"Ordinals-1" ("ordn" ) } ['ordn' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 1 0 0 "'smcp' Lowercase to Small Capitals in Latin lookup 3"  {"'smcp' Lowercase to Small Capitals in Latin lookup 3-1" ("sc" ) } ['smcp' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 258 0 0 "Crimson-Italic-'kern' Horizontal Kerning in Latin lookup 0"  {"Crimson-Italic-'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"  "Crimson-Italic-'kern' Horizontal Kerning in Latin lookup 0 kerning class 1"  "Crimson-Italic-'kern' Horizontal Kerning in Latin lookup 0 kerning class 2"  "Crimson-Italic-'kern' Horizontal Kerning in Latin lookup 0 kerning class 3"  "Crimson-Italic-'kern' Horizontal Kerning in Latin lookup 0 kerning class 4"  "Crimson-Italic-'kern' Horizontal Kerning in Latin lookup 0 kerning class 5"  "Crimson-Italic-'kern' Horizontal Kerning in Latin lookup 0 kerning class 6"  "Crimson-Italic-'kern' Horizontal Kerning in Latin lookup 0 kerning class 7"  "Crimson-Italic-'kern' Horizontal Kerning in Latin lookup 0 kerning class 8"  "Crimson-Italic-'kern' Horizontal Kerning in Latin lookup 0 kerning class 9"  "Crimson-Italic-'kern' Horizontal Kerning in Latin lookup 0 kerning class 10"  "Crimson-Italic-'kern' Horizontal Kerning in Latin lookup 0 kerning class 11"  } ['kern' ('latn' <'dflt' > ) ]
 MarkAttachClasses: 1
@@ -331,7 +330,7 @@ KernClass2: 23+ 26 "Crimson-Italic-'kern' Horizontal Kerning in Latin lookup 0 k
  9 afii10102
  19 afii10103 afii10104
  9 afii10108
- 9 afii10098
+ 0 
  30 hyphen endash emdash afii00208
  22 quoteleft quotedblleft
  24 quoteright quotedblright
@@ -385,7 +384,7 @@ KernClass2: 27+ 51 "Crimson-Italic-'kern' Horizontal Kerning in Latin lookup 0 k
  39 afii10058 afii10059 afii10044 afii10046
  9 afii10047
  9 afii10048
- 9 afii10050
+ 0 
  29 afii10051 afii10060 afii10036
  97 afii10074 afii10075 afii10088 afii10090 afii10091 afii10093 afii10094 afii10096 uni045D afii10193
  60 afii10076 afii10079 pecyrillic afii10084 afii10107 afii10109
@@ -424,9 +423,9 @@ KernClass2: 27+ 51 "Crimson-Italic-'kern' Horizontal Kerning in Latin lookup 0 k
  29 guillemotright guilsinglright
  9 afii10053
  9 afii10105
- 9 afii10098
+ 0 
  9 afii10102
- 239 afii10023 afii10052 afii10055 afii10056 afii10059 afii10061 afii10145 afii10018 afii10019 afii10020 afii10022 afii10026 afii10027 afii10028 afii10031 afii10033 afii10034 afii10040 afii10042 afii10043 afii10045 afii10046 afii10048 afii10050
+ 230 afii10023 afii10052 afii10055 afii10056 afii10059 afii10061 afii10145 afii10018 afii10019 afii10020 afii10022 afii10026 afii10027 afii10028 afii10031 afii10033 afii10034 afii10040 afii10042 afii10043 afii10045 afii10046 afii10048 
  9 afii10025
  9 afii10041
  19 afii10099 afii10108
@@ -503,7 +502,7 @@ KernClass2: 11+ 127 "Crimson-Italic-'kern' Horizontal Kerning in Latin lookup 0 
  9 afii10057
  9 afii10021
  9 afii10024
- 239 afii10023 afii10052 afii10055 afii10056 afii10059 afii10061 afii10145 afii10018 afii10019 afii10020 afii10022 afii10026 afii10027 afii10028 afii10031 afii10033 afii10034 afii10040 afii10042 afii10043 afii10045 afii10046 afii10048 afii10050
+ 230 afii10023 afii10052 afii10055 afii10056 afii10059 afii10061 afii10145 afii10018 afii10019 afii10020 afii10022 afii10026 afii10027 afii10028 afii10031 afii10033 afii10034 afii10040 afii10042 afii10043 afii10045 afii10046 afii10048 
  9 afii10030
  29 afii10051 afii10060 afii10036
  19 afii10062 afii10037
@@ -573,7 +572,7 @@ KernClass2: 11+ 127 "Crimson-Italic-'kern' Horizontal Kerning in Latin lookup 0 
  4 q.sc
  9 afii10082
  9 afii10102
- 9 afii10098
+ 0 
  9 afii10049
  0 {} -24 {} -91 {} -41 {} -37 {} -11 {} -46 {} -10 {} -19 {} -10 {} -59 {} -41 {} -36 {} -41 {} -10 {} -14 {} -19 {} -10 {} -18 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -40 {} -8 {} -12 {} 0 {} 0 {} -35 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -18 {} -14 {} 14 {} 12 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -18 {} 0 {} 0 {} 0 {} -22 {} -14 {} 0 {} -14 {} 0 {} -32 {} -35 {} 0 {} -25 {} -14 {} -16 {} -25 {} -9 {} -8 {} -10 {} -12 {} -58 {} -38 {} -30 {} -23 {} -56 {} -25 {} -15 {} -11 {} -8 {} -8 {} -25 {} -9 {} -10 {} -12 {} -32 {} -58 {} -56 {} -23 {} -63 {} -27 {} -16 {} -18 {} -24 {} -18 {} -27 {} -24 {} -8 {} -13 {} -19 {} -9 {} -11 {} -58 {} -38 {} -23 {} -29 {} -55 {} -10 {} -12 {} -13 {} -8 {} -14 {} -9 {} -19 {} -9 {} -10 {} -14 {} -11 {} -9 {} -11 {} -12 {} -10 {} -14 {} -13 {} -19 {} -16 {} -30 {} -18 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -10 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -21 {} -8 {} 0 {} 0 {} 0 {} 0 {} -37 {} -59 {} -49 {} 0 {} -36 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -37 {} -36 {} 0 {} -56 {} -29 {} 0 {} 0 {} 0 {} -22 {} 0 {} -34 {} 0 {} 0 {} 0 {} 0 {} 0 {} -37 {} 0 {} 0 {} -74 {} -31 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -40 {} 0 {} -37 {} -8 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -16 {} -24 {} 0 {} 0 {} -91 {} -13 {} -23 {} -18 {} -24 {} -15 {} -24 {} -19 {} -23 {} -33 {} -27 {} -19 {} -23 {} -33 {} -92 {} -97 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -49 {} -45 {} -39 {} 0 {} 0 {} -45 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -58 {} 0 {} -14 {} -13 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -19 {} 0 {} -21 {} -32 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -25 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -39 {} 0 {} 0 {} -27 {} 0 {} -28 {} -25 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -25 {} -23 {} 0 {} -24 {} -20 {} 0 {} 0 {} -26 {} 0 {} 0 {} -16 {} 0 {} 0 {} -18 {} 0 {} 0 {} -16 {} 0 {} 0 {} 0 {} -16 {} 0 {} 0 {} 0 {} -42 {} -35 {} -19 {} -41 {} -35 {} -34 {} -17 {} -23 {} -25 {} -42 {} -38 {} -32 {} -40 {} -28 {} -39 {} -41 {} -37 {} -34 {} -21 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -29 {} -28 {} -23 {} 0 {} -35 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -29 {} -35 {} 0 {} -31 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -29 {} 0 {} 0 {} -8 {} -33 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -8 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 13 {} 0 {} 0 {} 0 {} 0 {} 20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 7 {} -16 {} 0 {} 0 {} 0 {} 0 {} 0 {} -25 {} -37 {} -33 {} 18 {} -29 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -29 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -25 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -17 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -11 {} 0 {} 0 {} 0 {} -40 {} 0 {} -13 {} 0 {} -18 {} 0 {} 0 {} 0 {} -13 {} 0 {} 0 {} 0 {} -13 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -92 {} 0 {} 0 {} 0 {} -46 {} -20 {} -22 {} -20 {} -60 {} -41 {} -35 {} -41 {} -20 {} -19 {} -25 {} 0 {} -22 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 10 {} 0 {} 0 {} 0 {} -9 {} 0 {} 0 {} 0 {} -9 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -17 {} -8 {} 0 {} -14 {} 0 {} 0 {} 0 {} 0 {} 0 {} -14 {} -9 {} 0 {} -13 {} 0 {} -9 {} -14 {} -8 {} 0 {} 0 {} -9 {} -12 {} -13 {} -14 {} -8 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -97 {} 0 {} 0 {} 0 {} -51 {} -27 {} -21 {} -27 {} -64 {} 0 {} 0 {} -46 {} -27 {} -26 {} -32 {} -40 {} -27 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 10 {} 0 {} 0 {} 16 {} 0 {} 0 {} 0 {} 0 {} -10 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 22 {} 0 {} 5 {} 0 {} -15 {} -8 {} 0 {} -9 {} -15 {} -9 {} -9 {} 0 {} -8 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -13 {} 0 {} 0 {} -24 {} -14 {} 0 {} -21 {} -8 {} -11 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -21 {} -13 {} -9 {} 0 {} -16 {} 0 {} 0 {} 0 {} -13 {} -9 {} -11 {} -10 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -42 {} -27 {} -22 {} 0 {} -39 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -42 {} -39 {} 0 {} -30 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -42 {} 0 {} 0 {} 0 {} -45 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -19 {} 0 {} 0 {} 0 {} -21 {} -15 {} 0 {} -15 {} 0 {} -21 {} -23 {} 0 {} -17 {} -16 {} 0 {} -17 {} -12 {} -12 {} -13 {} -15 {} -57 {} -41 {} -34 {} -22 {} -59 {} -25 {} 0 {} 0 {} 0 {} 0 {} -26 {} -12 {} -13 {} -15 {} -34 {} -57 {} -59 {} -22 {} -63 {} 0 {} 0 {} 0 {} -18 {} 0 {} -10 {} 0 {} -12 {} -15 {} -17 {} -12 {} -14 {} -57 {} -37 {} -22 {} -31 {} -55 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -18 {} 0 {} -27 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -43 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -25 {}
 KernClass2: 27+ 38 "Crimson-Italic-'kern' Horizontal Kerning in Latin lookup 0 kerning class 3" 
@@ -824,7 +823,6 @@ SplineSet
  80 170 112 429 133 577 c 0
  136 596 160 631 192 631 c 3
 EndSplineSet
-Substitution2: "Ordinals-1" exclam.ordn
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" exclam.sc
 EndChar
 
@@ -853,7 +851,6 @@ SplineSet
  116.076 537 107.076 590 107.076 636 c 1
  110.076 654 138.076 698 174.076 698 c 27
 EndSplineSet
-Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" quotedbl.sc
 EndChar
 
 StartChar: numbersign
@@ -912,7 +909,6 @@ SplineSet
  255 228 l 1
  285 320 l 1
 EndSplineSet
-Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" numbersign.sc
 EndChar
 
 StartChar: dollar
@@ -949,7 +945,6 @@ SplineSet
  348.842 683 373.842 683 372.842 676 c 9
  119.842 -52 l 17
 EndSplineSet
-Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" dollar.sc
 EndChar
 
 StartChar: percent
@@ -990,8 +985,6 @@ SplineSet
  602 656 610 663 620 663 c 27xf480
  632 663 643 660 647 650 c 9
 EndSplineSet
-Substitution2: "Ordinals-1" percent.ordn
-Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" percent.sc
 EndChar
 
 StartChar: ampersand
@@ -1033,7 +1026,6 @@ SplineSet
  247 -5 139.183 56 139.183 224 c 3
  139.183 370 255 536 418 536 c 27xee
 EndSplineSet
-Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" ampersand.sc
 EndChar
 
 StartChar: quotesingle
@@ -1054,7 +1046,6 @@ SplineSet
  116.076 537 107.076 590 107.076 636 c 1
  110.076 654 138.076 698 174.076 698 c 27
 EndSplineSet
-Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" quotesingle.sc
 EndChar
 
 StartChar: parenleft
@@ -1073,7 +1064,6 @@ SplineSet
  85.6221 418 221.622 664 283.622 735 c 1
  283.622 739 281.622 746 276.622 748 c 1
 EndSplineSet
-Substitution2: "Ordinals-1" parenleft.ordn
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" parenleft.sc
 EndChar
 
@@ -1093,7 +1083,6 @@ SplineSet
  193.191 209 57.1914 -37 -4.80859 -108 c 1
  -5.80859 -112 -2.80859 -119 2.19141 -121 c 1
 EndSplineSet
-Substitution2: "Ordinals-1" parenright.ordn
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" parenright.sc
 EndChar
 
@@ -1128,7 +1117,6 @@ SplineSet
  242 664 244 620 244 580 c 0
  244 574 242 514 256 514 c 0x5a
 EndSplineSet
-Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" asterisk.sc
 EndChar
 
 StartChar: plus
@@ -1157,8 +1145,6 @@ SplineSet
  195 217 l 1
  23 217 l 2
 EndSplineSet
-Substitution2: "Ordinals-1" plus.ordn
-Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" plus.sc
 EndChar
 
 StartChar: comma
@@ -1181,8 +1167,6 @@ SplineSet
  44.9644 -73.9783 4 -102 -14 -109 c 1
  -18 -109 -28 -97 -28 -89 c 1
 EndSplineSet
-Substitution2: "Ordinals-1" comma.ordn
-Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" comma.sc
 EndChar
 
 StartChar: hyphen
@@ -1202,8 +1186,6 @@ SplineSet
  55 199 53 206 53 214 c 0
  53 225 63 260 74 261 c 2
 EndSplineSet
-Substitution2: "Ordinals-1" hyphen.ordn
-Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" hyphen.sc
 EndChar
 
 StartChar: period
@@ -1222,7 +1204,6 @@ SplineSet
  118 20 85 -14 52 -14 c 0
  26 -14 8 6 8 33 c 0
 EndSplineSet
-Substitution2: "Ordinals-1" period.ordn
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" period.sc
 EndChar
 
@@ -1242,7 +1223,6 @@ SplineSet
  397.612 747.323 421 761 439 761 c 0
  445 761 449 758 451 755 c 1
 EndSplineSet
-Substitution2: "Ordinals-1" slash.ordn
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" slash.sc
 EndChar
 
@@ -1266,8 +1246,6 @@ SplineSet
  71.6094 -3 23.6094 145 57.6094 319 c 0
 EndSplineSet
 Substitution2: "'onum' Oldstyle Figures in Latin lookup 5-1" zero.onum
-Substitution2: "Ordinals-1" zero.ordn
-Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" zero.sc
 EndChar
 
 StartChar: one
@@ -1301,8 +1279,6 @@ SplineSet
  145.453 554 106.453 543 88.4531 534 c 1
 EndSplineSet
 Substitution2: "'onum' Oldstyle Figures in Latin lookup 5-1" one.onum
-Substitution2: "Ordinals-1" one.ordn
-Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" one.sc
 EndChar
 
 StartChar: two
@@ -1333,8 +1309,6 @@ SplineSet
  352 642 417 590 417 512 c 0
 EndSplineSet
 Substitution2: "'onum' Oldstyle Figures in Latin lookup 5-1" two.onum
-Substitution2: "Ordinals-1" two.ordn
-Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" two.sc
 EndChar
 
 StartChar: three
@@ -1368,8 +1342,6 @@ SplineSet
  153 598 207 642 280 642 c 0xe8
 EndSplineSet
 Substitution2: "'onum' Oldstyle Figures in Latin lookup 5-1" three.onum
-Substitution2: "Ordinals-1" three.ordn
-Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" three.sc
 EndChar
 
 StartChar: four
@@ -1401,8 +1373,6 @@ SplineSet
  323.496 524 l 25
 EndSplineSet
 Substitution2: "'onum' Oldstyle Figures in Latin lookup 5-1" four.onum
-Substitution2: "Ordinals-1" four.ordn
-Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" four.sc
 EndChar
 
 StartChar: five
@@ -1435,8 +1405,6 @@ SplineSet
  327 395 374 314 374 247 c 0xe8
 EndSplineSet
 Substitution2: "'onum' Oldstyle Figures in Latin lookup 5-1" five.onum
-Substitution2: "Ordinals-1" five.ordn
-Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" five.sc
 EndChar
 
 StartChar: six
@@ -1466,8 +1434,6 @@ SplineSet
  174 341 240 380 274 380 c 0
 EndSplineSet
 Substitution2: "'onum' Oldstyle Figures in Latin lookup 5-1" six.onum
-Substitution2: "Ordinals-1" six.ordn
-Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" six.sc
 EndChar
 
 StartChar: seven
@@ -1494,8 +1460,6 @@ SplineSet
  59.1094 -6 33.1094 5 35.1094 14 c 1
 EndSplineSet
 Substitution2: "'onum' Oldstyle Figures in Latin lookup 5-1" seven.onum
-Substitution2: "Ordinals-1" seven.ordn
-Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" seven.sc
 EndChar
 
 StartChar: eight
@@ -1533,8 +1497,6 @@ SplineSet
  77.5811 75 120.581 27 169.581 27 c 0
 EndSplineSet
 Substitution2: "'onum' Oldstyle Figures in Latin lookup 5-1" eight.onum
-Substitution2: "Ordinals-1" eight.ordn
-Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" eight.sc
 EndChar
 
 StartChar: nine
@@ -1564,8 +1526,6 @@ SplineSet
  291.245 296 225.245 257 191.245 257 c 0
 EndSplineSet
 Substitution2: "'onum' Oldstyle Figures in Latin lookup 5-1" nine.onum
-Substitution2: "Ordinals-1" nine.ordn
-Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" nine.sc
 EndChar
 
 StartChar: colon
@@ -1589,7 +1549,6 @@ SplineSet
  132 20 98 -14 64 -14 c 0
  37 -14 19 7 19 34 c 0xe0
 EndSplineSet
-Substitution2: "Ordinals-1" colon.ordn
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" colon.sc
 EndChar
 
@@ -1610,7 +1569,6 @@ SplineSet
  118 318 99 339 99 367 c 0xd0
 EndSplineSet
 Refer: 11 44 N 1 0 0 1 11 0 2
-Substitution2: "Ordinals-1" semicolon.ordn
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" semicolon.sc
 EndChar
 
@@ -1636,7 +1594,6 @@ SplineSet
  427 391 426 376 422 374 c 2
  87 209 l 1
 EndSplineSet
-Substitution2: "Ordinals-1" less.ordn
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" less.sc
 EndChar
 
@@ -1666,7 +1623,6 @@ SplineSet
  486 259 481 259 481 259 c 1
  67 259 l 1
 EndSplineSet
-Substitution2: "Ordinals-1" equal.ordn
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" equal.sc
 EndChar
 
@@ -1692,7 +1648,6 @@ SplineSet
  -7 38 -2 41 -2 41 c 1
  339 209 l 1
 EndSplineSet
-Substitution2: "Ordinals-1" greater.ordn
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" greater.sc
 EndChar
 
@@ -1727,7 +1682,6 @@ SplineSet
  144 304 136 288 136 261 c 27xd8
  136 232 164 205 175 197 c 1
 EndSplineSet
-Substitution2: "Ordinals-1" question.ordn
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" question.sc
 EndChar
 
@@ -1809,7 +1763,6 @@ SplineSet
  328.532 535 l 1
  192.219 289 l 1
 EndSplineSet
-Substitution2: "Ordinals-1" A.ordn
 EndChar
 
 StartChar: B
@@ -1851,7 +1804,6 @@ SplineSet
  116.453 638 118.453 657 124.453 662 c 1
  162.453 660 197.453 657 233.453 657 c 0
 EndSplineSet
-Substitution2: "Ordinals-1" B.ordn
 EndChar
 
 StartChar: C
@@ -1878,7 +1830,6 @@ SplineSet
  154.343 163 208 21 358 21 c 0
  460 21 526 91 569 173 c 1
 EndSplineSet
-Substitution2: "Ordinals-1" C.ordn
 EndChar
 
 StartChar: D
@@ -1911,7 +1862,6 @@ SplineSet
  162.453 660 197.453 657 233.453 657 c 0
  269.453 657 327.453 658 368.453 658 c 0
 EndSplineSet
-Substitution2: "Ordinals-1" D.ordn
 EndChar
 
 StartChar: E
@@ -1971,7 +1921,6 @@ SplineSet
  115 638 118 657 124 662 c 1
  162 660 197 657 233 657 c 0
 EndSplineSet
-Substitution2: "Ordinals-1" E.ordn
 EndChar
 
 StartChar: F
@@ -2019,7 +1968,6 @@ SplineSet
  115 638 118 657 124 662 c 1
  162 660 197 657 233 657 c 0
 EndSplineSet
-Substitution2: "Ordinals-1" F.ordn
 EndChar
 
 StartChar: G
@@ -2057,7 +2005,6 @@ SplineSet
  615.663 490.855 612 489 608 489 c 1
  601.57 488.827 593 490 585 494 c 1
 EndSplineSet
-Substitution2: "Ordinals-1" G.ordn
 EndChar
 
 StartChar: H
@@ -2110,7 +2057,6 @@ SplineSet
  206.509 316 l 1
  167.633 116 l 2
 EndSplineSet
-Substitution2: "Ordinals-1" H.ordn
 EndChar
 
 StartChar: I
@@ -2141,7 +2087,6 @@ SplineSet
  114.633 638 117.633 657 123.633 662 c 1
  161.633 660 196.633 657 232.633 657 c 0
 EndSplineSet
-Substitution2: "Ordinals-1" I.ordn
 EndChar
 
 StartChar: J
@@ -2168,7 +2113,6 @@ SplineSet
  5 -179 49 -83 84 109 c 2
  163.633 543 l 2
 EndSplineSet
-Substitution2: "Ordinals-1" J.ordn
 EndChar
 
 StartChar: K
@@ -2219,7 +2163,6 @@ SplineSet
  294.633 360 296.633 355 299.633 350 c 0
  367.633 238 423.633 145 480.633 72 c 0
 EndSplineSet
-Substitution2: "Ordinals-1" K.ordn
 EndChar
 
 StartChar: L
@@ -2255,7 +2198,6 @@ SplineSet
  262.453 601 257 573 251.453 543 c 2
  166.093 112 l 2
 EndSplineSet
-Substitution2: "Ordinals-1" L.ordn
 EndChar
 
 StartChar: M
@@ -2305,7 +2247,6 @@ SplineSet
  614.25 93 659 376 689.976 566 c 17
  676.976 545 397.25 49 397.25 49 c 2
 EndSplineSet
-Substitution2: "Ordinals-1" M.ordn
 EndChar
 
 StartChar: N
@@ -2348,7 +2289,6 @@ SplineSet
  317 582 481 317 554 162 c 1
  628 541 l 2
 EndSplineSet
-Substitution2: "Ordinals-1" N.ordn
 EndChar
 
 StartChar: O
@@ -2371,7 +2311,6 @@ SplineSet
  157 -11 61 115 61 273 c 0
  61 503 232.656 665 415 665 c 0
 EndSplineSet
-Substitution2: "Ordinals-1" O.ordn
 EndChar
 
 StartChar: P
@@ -2410,7 +2349,6 @@ SplineSet
  270.633 657 287 659 342 659 c 0
  448 659 522.633 599 522.633 508 c 0
 EndSplineSet
-Substitution2: "Ordinals-1" P.ordn
 EndChar
 
 StartChar: Q
@@ -2438,7 +2376,6 @@ SplineSet
  481 18 578 214 578 393 c 0
  578 489 547.004 635 406 635 c 0
 EndSplineSet
-Substitution2: "Ordinals-1" Q.ordn
 EndChar
 
 StartChar: R
@@ -2483,7 +2420,6 @@ SplineSet
  262.604 608 256.604 575 250.604 545 c 2
  209.633 333 l 1
 EndSplineSet
-Substitution2: "Ordinals-1" R.ordn
 EndChar
 
 StartChar: S
@@ -2515,7 +2451,6 @@ SplineSet
  176.544 342.364 101.798 373.039 101.798 476 c 0
  101.798 591 218.798 666 311.798 666 c 0xf8
 EndSplineSet
-Substitution2: "Ordinals-1" S.ordn
 EndChar
 
 StartChar: T
@@ -2554,7 +2489,6 @@ SplineSet
  146.834 663 172 655 186.834 655 c 2
  549.834 655 l 2
 EndSplineSet
-Substitution2: "Ordinals-1" T.ordn
 EndChar
 
 StartChar: U
@@ -2593,7 +2527,6 @@ SplineSet
  100.706 638 103.705 657 109.705 662 c 1
  147.705 660 181.705 657 217.705 657 c 0
 EndSplineSet
-Substitution2: "Ordinals-1" U.ordn
 EndChar
 
 StartChar: V
@@ -2628,7 +2561,6 @@ SplineSet
  60.4023 633 66.4023 660 68.4023 662 c 1
  110.402 660 132.402 657 175.402 657 c 0
 EndSplineSet
-Substitution2: "Ordinals-1" V.ordn
 EndChar
 
 StartChar: W
@@ -2706,7 +2638,6 @@ SplineSet
  63.4023 633 69.4023 660 71.4023 662 c 1
  113.402 660 129 657 172 657 c 0
 EndSplineSet
-Substitution2: "Ordinals-1" W.ordn
 EndChar
 
 StartChar: X
@@ -2756,7 +2687,6 @@ SplineSet
  98.3555 633 103.355 657 109.355 662 c 1
  154.355 660 178.355 657 224.355 657 c 0
 EndSplineSet
-Substitution2: "Ordinals-1" X.ordn
 EndChar
 
 StartChar: Y
@@ -2800,7 +2730,6 @@ SplineSet
  136.047 26 187.047 31 192.047 42 c 0
  200.047 58 205.047 86 211.047 116 c 2
 EndSplineSet
-Substitution2: "Ordinals-1" Y.ordn
 EndChar
 
 StartChar: Z
@@ -2832,7 +2761,6 @@ SplineSet
  508.425 630 l 1
  279.425 629 l 2xc0
 EndSplineSet
-Substitution2: "Ordinals-1" Z.ordn
 EndChar
 
 StartChar: bracketleft
@@ -2860,7 +2788,6 @@ SplineSet
  10.2617 -102 5.87402 -98.1465 7.26172 -91 c 0
  61.2617 187 161.263 717 161.263 717 c 2
 EndSplineSet
-Substitution2: "Ordinals-1" bracketleft.ordn
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" bracketleft.sc
 EndChar
 
@@ -2880,7 +2807,6 @@ SplineSet
  150 762 164 735 166 725 c 2
  290 -4 l 2
 EndSplineSet
-Substitution2: "Ordinals-1" backslash.ordn
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" backslash.sc
 EndChar
 
@@ -2918,7 +2844,6 @@ SplineSet
  111 708 101 713 101 728 c 0
  101 737 104 749 109 749 c 0
 EndSplineSet
-Substitution2: "Ordinals-1" bracketright.ordn
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" bracketright.sc
 EndChar
 
@@ -3011,7 +2936,6 @@ SplineSet
  305 380 l 1
  296 390 272 395 259 395 c 0
 EndSplineSet
-Substitution2: "Ordinals-1" a.ordn
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" a.sc
 EndChar
 
@@ -3044,7 +2968,6 @@ SplineSet
  218 658 210 616 205 591 c 2
  143 285 l 1
 EndSplineSet
-Substitution2: "Ordinals-1" b.ordn
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" b.sc
 EndChar
 
@@ -3071,7 +2994,6 @@ SplineSet
  64 -6 24 47 24 140 c 0
  24 300 172 435 275 435 c 0
 EndSplineSet
-Substitution2: "Ordinals-1" c.ordn
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" c.sc
 EndChar
 
@@ -3112,7 +3034,6 @@ SplineSet
  328 435 310 435 316 435 c 1
  339 559 l 2
 EndSplineSet
-Substitution2: "Ordinals-1" d.ordn
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" d.sc
 EndChar
 
@@ -3140,7 +3061,6 @@ SplineSet
  266 381 243 394 224 394 c 0
  155 394 110 269 105 218 c 1
 EndSplineSet
-Substitution2: "Ordinals-1" e.ordn
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" e.sc
 EndChar
 
@@ -3179,7 +3099,6 @@ SplineSet
  129 413 l 1
  161 577 256 685 336 685 c 0
 EndSplineSet
-Substitution2: "Ordinals-1" f.ordn
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" f.sc
 EndChar
 
@@ -3221,7 +3140,6 @@ SplineSet
  418 387 414 380 406 380 c 0
  392 380 346 382 333 381 c 1
 EndSplineSet
-Substitution2: "Ordinals-1" g.ordn
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" g.sc
 EndChar
 
@@ -3263,7 +3181,6 @@ SplineSet
  219 682 220 672 220 666 c 0
  220 658 212 616 207 591 c 2xfa
 EndSplineSet
-Substitution2: "Ordinals-1" h.ordn
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" h.sc
 EndChar
 
@@ -3299,7 +3216,6 @@ SplineSet
  128 546 116 567 116 589 c 0xe4
  116 619 138 646 168 646 c 0
 EndSplineSet
-Substitution2: "Ordinals-1" i.ordn
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" i.sc
 EndChar
 
@@ -3332,7 +3248,6 @@ SplineSet
  145 546 133 567 133 589 c 0xd0
  133 619 155 646 185 646 c 0
 EndSplineSet
-Substitution2: "Ordinals-1" j.ordn
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" j.sc
 EndChar
 
@@ -3370,7 +3285,6 @@ SplineSet
  205 230 322 271 322 354 c 0
  322 372 317 388 289 388 c 0
 EndSplineSet
-Substitution2: "Ordinals-1" k.ordn
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" k.sc
 EndChar
 
@@ -3400,7 +3314,6 @@ SplineSet
  37 54 40 78 44 99 c 2
  134 559 l 2
 EndSplineSet
-Substitution2: "Ordinals-1" l.ordn
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" l.sc
 EndChar
 
@@ -3452,7 +3365,6 @@ SplineSet
  523 -6 510 16 510 46 c 0
  510 54 513 78 517 99 c 2xdc
 EndSplineSet
-Substitution2: "Ordinals-1" m.ordn
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" m.sc
 EndChar
 
@@ -3494,7 +3406,6 @@ SplineSet
  169 435 187 413 187 383 c 0
  187 375 184 351 179 330 c 2xb4
 EndSplineSet
-Substitution2: "Ordinals-1" n.ordn
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" n.sc
 EndChar
 
@@ -3518,7 +3429,6 @@ SplineSet
  60 -5 24 52 24 138 c 0
  24 278 136 435 251 435 c 0
 EndSplineSet
-Substitution2: "Ordinals-1" o.ordn
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" o.sc
 EndChar
 
@@ -3562,7 +3472,6 @@ SplineSet
  184.287 411 173.287 353 172.287 346 c 1
  199.287 371 269.287 435 320.287 435 c 0
 EndSplineSet
-Substitution2: "Ordinals-1" p.ordn
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" p.sc
 EndChar
 
@@ -3597,7 +3506,6 @@ SplineSet
  195 53 265 179 284 276 c 1
  296 341 l 2
 EndSplineSet
-Substitution2: "Ordinals-1" q.ordn
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" q.sc
 EndChar
 
@@ -3631,7 +3539,6 @@ SplineSet
  172 297 168 279 161 246 c 1
  189 313 260 435 307 435 c 0xd0
 EndSplineSet
-Substitution2: "Ordinals-1" r.ordn
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" r.sc
 EndChar
 
@@ -3664,7 +3571,6 @@ SplineSet
  97 215 60 255 60 312 c 0
  60 368 115 438 199 438 c 0
 EndSplineSet
-Substitution2: "Ordinals-1" s.ordn
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" s.sc
 EndChar
 
@@ -3700,7 +3606,6 @@ SplineSet
  41 389 64 413 87 413 c 2
  117 413 l 1
 EndSplineSet
-Substitution2: "Ordinals-1" t.ordn
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" t.sc
 EndChar
 
@@ -3742,7 +3647,6 @@ SplineSet
  298 -6 285 16 285 46 c 0
  285 54 288 78 292 99 c 0x74
 EndSplineSet
-Substitution2: "Ordinals-1" u.ordn
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" u.sc
 EndChar
 
@@ -3773,7 +3677,6 @@ SplineSet
  182 176 l 2
  182 133 183 86 186 65 c 1
 EndSplineSet
-Substitution2: "Ordinals-1" v.ordn
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" v.sc
 EndChar
 
@@ -3812,7 +3715,6 @@ SplineSet
  323 299 333 326 342 347 c 1
  350 357 372 372 385 375 c 1
 EndSplineSet
-Substitution2: "Ordinals-1" w.ordn
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" w.sc
 EndChar
 
@@ -3854,7 +3756,6 @@ SplineSet
  299.782 311.485 283.49 282.455 263.414 243.949 c 1
  295 89 l 2x20
 EndSplineSet
-Substitution2: "Ordinals-1" x.ordn
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" x.sc
 EndChar
 
@@ -3884,7 +3785,6 @@ SplineSet
  13 322 6 335 6 341 c 1
  17 360 85 435 132 435 c 0
 EndSplineSet
-Substitution2: "Ordinals-1" y.ordn
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" y.sc
 EndChar
 
@@ -3921,7 +3821,6 @@ SplineSet
  48 298 44 305 43 314 c 1
  49 334 99 435 145 435 c 0x18
 EndSplineSet
-Substitution2: "Ordinals-1" z.ordn
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" z.sc
 EndChar
 
@@ -3954,7 +3853,6 @@ SplineSet
  38.4316 311 39.4316 316 41.4316 318 c 1
  79.4316 328 118.432 349 128.432 402 c 0
 EndSplineSet
-Substitution2: "Ordinals-1" braceleft.ordn
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" braceleft.sc
 EndChar
 
@@ -3974,7 +3872,6 @@ SplineSet
  8.07715 -123 -0.922852 -120 0.0771484 -115 c 2
  169.075 757 l 1
 EndSplineSet
-Substitution2: "Ordinals-1" bar.ordn
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" bar.sc
 EndChar
 
@@ -4007,7 +3904,6 @@ SplineSet
  187.39 659 148.39 707 125.39 720 c 1
  127.39 729 136.39 739 143.39 739 c 1
 EndSplineSet
-Substitution2: "Ordinals-1" braceright.ordn
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" braceright.sc
 EndChar
 
@@ -4029,7 +3925,6 @@ SplineSet
  63 261 59 263 59 269 c 0
  59 308 142 354 197 354 c 0
 EndSplineSet
-Substitution2: "Ordinals-1" asciitilde.ordn
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" asciitilde.sc
 EndChar
 
@@ -4095,7 +3990,6 @@ SplineSet
  101 -45 77 -43 78 -36 c 9
  254 474 l 17
 EndSplineSet
-Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" cent.sc
 EndChar
 
 StartChar: sterling
@@ -4132,7 +4026,6 @@ SplineSet
  231.179 593 207.21 517.96 194 450 c 0
  182.532 391 181.33 296 172 248 c 0
 EndSplineSet
-Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" sterling.sc
 EndChar
 
 StartChar: currency
@@ -4232,7 +4125,6 @@ SplineSet
  162.265 25 210.265 29 215.265 40 c 0
  223.265 55 227.265 82 233.265 111 c 2
 EndSplineSet
-Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" yen.sc
 EndChar
 
 StartChar: brokenbar
@@ -4259,8 +4151,6 @@ SplineSet
  10.0771 -123 1.07715 -120 2.07715 -115 c 2
  72.0762 248 l 1
 EndSplineSet
-Substitution2: "Ordinals-1" brokenbar.ordn
-Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" brokenbar.sc
 EndChar
 
 StartChar: section
@@ -4304,8 +4194,6 @@ SplineSet
  214.584 598 214.584 589 206.584 578 c 24
  193.584 561 168.584 542 168.584 542 c 0
 EndSplineSet
-Substitution2: "Ordinals-1" section.ordn
-Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" section.sc
 EndChar
 
 StartChar: dieresis
@@ -4367,7 +4255,6 @@ SplineSet
  408 100 546 238 546 391 c 0
  546 501 471 584 363 584 c 0
 EndSplineSet
-Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" copyright.sc
 EndChar
 
 StartChar: ordfeminine
@@ -4401,7 +4288,6 @@ SplineSet
  279 519 l 1
  272 526 254 529 244 529 c 0
 EndSplineSet
-Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" ordfeminine.sc
 EndChar
 
 StartChar: guillemotleft
@@ -4432,7 +4318,6 @@ SplineSet
  279 396 116 249 116 249 c 1
  116 249 220 99 220 91 c 1
 EndSplineSet
-Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" guillemotleft.sc
 EndChar
 
 StartChar: logicalnot
@@ -4513,7 +4398,6 @@ SplineSet
  406.433 165 528.433 274 554.433 407 c 0
  580.433 540 500.433 648 376.433 648 c 0
 EndSplineSet
-Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" registered.sc
 EndChar
 
 StartChar: macron
@@ -4556,7 +4440,6 @@ SplineSet
  277 493 220 437 165 437 c 0
  121 437 90 472 90 517 c 0
 EndSplineSet
-Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" degree.sc
 EndChar
 
 StartChar: plusminus
@@ -4719,8 +4602,6 @@ SplineSet
  107.888 273 64 369 64 440 c 0
  64 584 213.888 659 298.888 659 c 0xd0
 EndSplineSet
-Substitution2: "Ordinals-1" paragraph.ordn
-Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" paragraph.sc
 EndChar
 
 StartChar: periodcentered
@@ -4821,7 +4702,6 @@ SplineSet
  90 247 63 287 63 347 c 0
  63 445 149 554 237 554 c 0
 EndSplineSet
-Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" ordmasculine.sc
 EndChar
 
 StartChar: guillemotright
@@ -4852,7 +4732,6 @@ SplineSet
  18 100 181 247 181 247 c 1
  181 247 77 397 77 405 c 1
 EndSplineSet
-Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" guillemotright.sc
 EndChar
 
 StartChar: onequarter
@@ -5224,7 +5103,6 @@ LayerCount: 2
 Fore
 Refer: 284 63632 N 1 0 0 1 78.6316 16 2
 Refer: 36 69 N 1 0 0 1 -0.000637056 0 3
-Substitution2: "Ordinals-1" Egrave.ordn
 EndChar
 
 StartChar: Eacute
@@ -5763,7 +5641,6 @@ LayerCount: 2
 Fore
 Refer: 68 101 N 1 0 0 1 0 0 3
 Refer: 229 768 N 1 0 0 1 -29 -45 2
-Substitution2: "Ordinals-1" egrave.ordn
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" egrave.sc
 EndChar
 
@@ -6199,7 +6076,6 @@ SplineSet
  66 492.378 90 518 110 518 c 1xd8
  124 499 148 486 179 486 c 8xb8
 EndSplineSet
-Substitution2: "Ordinals-1" dagger.ordn
 EndChar
 
 StartChar: daggerdbl
@@ -6252,7 +6128,6 @@ SplineSet
  228.814 343 227.814 342 213.814 327 c 1
  220.814 314 223.814 309 234.814 289 c 1x94
 EndSplineSet
-Substitution2: "Ordinals-1" daggerdbl.ordn
 EndChar
 
 StartChar: bullet
