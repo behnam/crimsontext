@@ -11317,6 +11317,7 @@ SplineSet
  350.386 466 l 2
  350.386 486 359.386 535 365.386 555 c 0
 EndSplineSet
+LCarets2: 1 265 
 Ligature2: "'liga' Standard Ligatures lookup 0-1" f f
 EndChar
 
@@ -11373,6 +11374,7 @@ SplineSet
  173.386 419 l 1
  288.386 419 l 0xdc
 EndSplineSet
+LCarets2: 1 275 
 Ligature2: "'liga' Standard Ligatures lookup 0-1" f i
 EndChar
 
@@ -11381,7 +11383,7 @@ Encoding: 65538 -1 461
 Width: 815
 Flags: W
 HStem: -3 29<26.0058 82.5618 188.596 242.593 305.006 361.562 467.596 521.593 577.188 635.285 738.966 796.593> 372 47<41.4277 98.9985 175 377.999 454 638.947> 416 20G<724.5 728> 642 39<234.782 338.805> 656 39<507.175 596.922>
-VStem: 99 76<36.9151 371.997 419 542.338> 378 76<36.9151 371.997 419 540.856> 648 77<36.4871 363.179>
+VStem: 99 76<36.9151 372 419 542.338> 378 76<36.9151 372 419 540.856> 648 77<36.4871 363.179>
 LayerCount: 2
 Fore
 SplineSet
@@ -11460,6 +11462,7 @@ SplineSet
  392 545 389 555 388 558 c 0
  382 567 359 642 274 642 c 0
 EndSplineSet
+LCarets2: 2 275 550 
 Ligature2: "'liga' Standard Ligatures lookup 0-1" f f i
 EndChar
 
@@ -11468,7 +11471,7 @@ Encoding: 65539 -1 462
 Width: 554
 Flags: W
 HStem: -3 29<25.9375 84.0349 187.716 245.343 316.938 375.035 478.716 536.343> 372 47<40.1777 97.7485 173.75 291.375> 656 39<229.077 320.542>
-VStem: 97.75 76<36.4871 371.997 419.002 548.692> 387.75 77<36.4871 595.367>
+VStem: 97.75 76<36.4871 372 419 548.692> 387.75 77<36.4871 595.366>
 LayerCount: 2
 Fore
 SplineSet
@@ -11517,6 +11520,7 @@ SplineSet
  40.75 26 86.75 35 89.75 46 c 0
  95.75 71 96.75 102 96.75 116 c 2
 EndSplineSet
+LCarets2: 1 280 
 Ligature2: "'liga' Standard Ligatures lookup 0-1" f l
 EndChar
 
@@ -11525,7 +11529,7 @@ Encoding: 65540 -1 463
 Width: 833
 Flags: W
 HStem: -3 29<27.0058 83.5618 189.596 243.593 306.006 362.562 468.596 522.593 596.188 654.285 757.966 815.593> 372 47<40.4277 98 176.119 377 453.002 570.625> 642 39<233.782 337.805> 656 39<505.227 599.792>
-VStem: 98 76<36.9151 371.997 419 542.338> 377 76<36.9151 371.997> 391 62<419 588.994> 667 77<36.4871 595.367>
+VStem: 98 76<36.9151 372 419 542.338> 377 76<36.9151 372> 391 62<419 588.994> 667 77<36.4871 595.366>
 LayerCount: 2
 Fore
 SplineSet
@@ -11601,6 +11605,7 @@ SplineSet
  391 531 391 538 391 541 c 0
  391 545 388 555 387 558 c 0
 EndSplineSet
+LCarets2: 2 280 560 
 Ligature2: "'liga' Standard Ligatures lookup 0-1" f f l
 EndChar
 
@@ -11666,7 +11671,7 @@ SplineSet
  631 27 692 113 692 194 c 0
  692 310 634 379 545 379 c 0xbe
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 340 
 Ligature2: "'liga' Standard Ligatures lookup 0-1" f b
 EndChar
 
@@ -11758,7 +11763,7 @@ SplineSet
  391 531 391 538 391 541 c 0
  391 545 388 555 387 558 c 0
 EndSplineSet
-LCarets2: 2 0 0 
+LCarets2: 2 280 600 
 Ligature2: "'liga' Standard Ligatures lookup 0-1" f f b
 EndChar
 
@@ -11834,7 +11839,7 @@ SplineSet
  388 58 388 86 388 116 c 2
  388 500 l 2xbc
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 300 
 Ligature2: "'liga' Standard Ligatures lookup 0-1" f k
 EndChar
 
@@ -11936,7 +11941,7 @@ SplineSet
  390 531 390 538 390 541 c 0
  390 545 387 555 386 558 c 0
 EndSplineSet
-LCarets2: 2 0 0 
+LCarets2: 2 275 580 
 Ligature2: "'liga' Standard Ligatures lookup 0-1" f f k
 EndChar
 
@@ -12012,7 +12017,7 @@ SplineSet
  387 58 387 86 387 116 c 2
  387 498 l 2xbe
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 300 
 Ligature2: "'liga' Standard Ligatures lookup 0-1" f h
 EndChar
 
@@ -12114,7 +12119,7 @@ SplineSet
  390 531 390 538 390 541 c 0
  390 545 387 555 386 558 c 0
 EndSplineSet
-LCarets2: 2 0 0 
+LCarets2: 2 275 590 
 Ligature2: "'liga' Standard Ligatures lookup 0-1" f f h
 EndChar
 
@@ -12171,7 +12176,7 @@ SplineSet
  315 -168 367 -121 367 45 c 2
  367 310 l 2xbc
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 285 
 Ligature2: "'liga' Standard Ligatures lookup 0-1" f j
 EndChar
 
@@ -12255,7 +12260,7 @@ SplineSet
  391 531 391 538 391 541 c 0
  391 545 388 555 387 558 c 0
 EndSplineSet
-LCarets2: 2 0 0 
+LCarets2: 2 275 565 
 Ligature2: "'liga' Standard Ligatures lookup 0-1" f f j
 EndChar
 
@@ -12325,7 +12330,7 @@ SplineSet
  610 58 610 86 610 116 c 2
  610 530 l 2xef80
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 490 
 Ligature2: "'liga' Standard Ligatures lookup 0-1" T h
 EndChar
 
