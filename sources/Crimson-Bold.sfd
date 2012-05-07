@@ -5687,6 +5687,7 @@ EndChar
 
 StartChar: uni2010
 Encoding: 8208 8208 197
+AltUni2: 0000ad.ffffffff.0
 Width: 374
 Flags: W
 HStem: 193 74<60.0093 213.957> 204 75<167.043 313.537>
