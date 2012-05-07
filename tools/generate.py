@@ -5,12 +5,8 @@
 
 import fontforge
 import os
+import sys
 from fontTools.ttLib import TTFont
-
-name = 'Crimson'
-styles = ['Roman', 'Semibold', 'Bold', 'Italic', 'SemiboldItalic', 'BoldItalic']
-source = 'sources'
-build = 'builds'
 
 def getHeights(font):
     # ymax + ymin, using the later as an overshoot
@@ -19,17 +15,18 @@ def getHeights(font):
 
     return int(xHeight), int(cHeight)
 
-def generate(font, extension):
+def generate(font, path):
+    extension = os.path.splitext(outfilepath)[1]
+
     font.selection.all()
     font.autoHint()
 
-    if extension == 'ttf':
+    if extension == '.ttf':
         font.em = 2048
         font.round()
         font.autoInstr()
 
-    path = '%s/%s.%s' %(build, font.fontname, extension)
-    tmp_path = '%s.tmp.%s' %(font.fontname, extension)
+    tmp_path = '%s.tmp%s' %(path, extension)
 
     font.generate(tmp_path)
 
@@ -39,8 +36,12 @@ def generate(font, extension):
     tmp_font.close()
     os.remove(tmp_path)
 
-for style in styles:
-    f = fontforge.open('%s/%s-%s.sfd' %(source, name, style))
+if len(sys.argv) > 3:
+    infilepath = sys.argv[1]
+    outfilepath = sys.argv[2]
+    version = sys.argv[3]
 
-    generate(f, 'otf')
-    generate(f, 'ttf')
+    font = fontforge.open(infilepath)
+    font.version = version
+
+    generate(font, outfilepath)
