@@ -25,19 +25,19 @@ TTFWeight: 600
 TTFWidth: 5
 LineGap: 92
 VLineGap: 0
-OS2TypoAscent: 0
-OS2TypoAOffset: 1
-OS2TypoDescent: 0
-OS2TypoDOffset: 1
+OS2TypoAscent: 717
+OS2TypoAOffset: 0
+OS2TypoDescent: -307
+OS2TypoDOffset: 0
 OS2TypoLinegap: 92
 OS2WinAscent: 0
 OS2WinAOffset: 1
 OS2WinDescent: 0
 OS2WinDOffset: 1
-HheadAscent: -198
-HheadAOffset: 1
-HheadDescent: -67
-HheadDOffset: 1
+HheadAscent: 717
+HheadAOffset: 0
+HheadDescent: -307
+HheadDOffset: 0
 OS2SubXSize: 665
 OS2SubYSize: 716
 OS2SubXOff: 27
@@ -853,7 +853,7 @@ SplineSet
  79 458 77 457 71 456 c 0
  63 455 54 460 50 463 c 1
  69 507 115 602 127 635 c 1
- 135 635 404 635 404 635 c 2
+ 404 635 l 2
  432 635 471 638 477 638 c 0
  483 638 482 631 481 626 c 0
  479 615 463 592 443 562 c 2
