@@ -24,7 +24,6 @@ TTFWeight: 400
 TTFWidth: 5
 LineGap: 92
 VLineGap: 0
-Panose: 2 0 5 3 0 0 0 0 0 0
 OS2TypoAscent: 207
 OS2TypoAOffset: 1
 OS2TypoDescent: -66
@@ -50,8 +49,6 @@ OS2StrikeYSize: 50
 OS2StrikeYPos: 264
 OS2FamilyClass: 258
 OS2Vendor: 'PfEd'
-OS2CodePages: 20000001.00000000
-OS2UnicodeRanges: 80000043.40000062.00000000.00000000
 Lookup: 1 0 0 "'c2sc' Capitals to Small Capitals in Latin lookup 0"  {"'c2sc' Capitals to Small Capitals in Latin lookup 0 subtable"  } ['c2sc' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 1 0 0 "'smcp' Lowercase to Small Capitals lookup 2"  {"'smcp' Lowercase to Small Capitals lookup 2-1" ("sc" ) } ['smcp' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 4 0 1 "'liga' Standard Ligatures lookup 0"  {"'liga' Standard Ligatures lookup 0-1"  } ['liga' ('DFLT' <'dflt' > 'cyrl' <'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <' CRT' ' DEU' ' FRA' ' ITA' ' MOL' ' ROM' ' TRK' 'AZE ' 'CRT ' 'DEU ' 'FRA ' 'ITA ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
