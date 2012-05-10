@@ -737,7 +737,7 @@ StartChar: four
 Encoding: 52 52 20
 Width: 545
 Flags: W
-HStem: -6 21G<359.5 394> 174 62<125.946 327 429 493.769> 624 20G<404 412>
+HStem: -6 21G<359.5 394> 174 62<126 327 429 493.769> 624 20G<404 412>
 VStem: 327 102<-3.81396 174 236 495>
 LayerCount: 2
 Fore
@@ -758,8 +758,8 @@ SplineSet
  109 270 331 558 384 624 c 1
  390 632 400 644 408 644 c 0
 327 495 m 17
- 309 473 136 246 126 236 c 1
- 122 236 302 236 327 236 c 1
+ 126 236 l 1
+ 327 236 l 1
  327 495 l 17
 EndSplineSet
 Substitution2: "'pnum' Proportional Numbers lookup 12-1" four.prop
@@ -9584,7 +9584,7 @@ StartChar: four.prop
 Encoding: 65553 -1 420
 Width: 498
 Flags: W
-HStem: -6 21<321.5 356> 174 62<87.946 289 391 455.769> 624 20<366 374>
+HStem: -6 21<321.5 356> 174 62<88 289 391 455.769> 624 20<366 374>
 VStem: 289 102<-3.81396 174 236 495>
 LayerCount: 2
 Fore
