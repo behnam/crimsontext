@@ -24,7 +24,7 @@ def generate(font, path):
     if extension == '.ttf':
         font.em = 2048
         font.round()
-        font.autoInstr()
+#       font.autoInstr()
 
     tmp_path = '%s.tmp%s' %(path, extension)
 

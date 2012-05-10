@@ -20,12 +20,15 @@ otf: $(OTF)
 ttf: $(TTF)
 
 $(BLD)/%.otf: $(SRC)/%.sfd Makefile $(SCRIPT)
-	@echo "Generating	 $@"
+	@echo "Generating	$@"
 	@$(PY) $(SCRIPT) $< $@ $(VERSION)
 
 $(BLD)/%.ttf: $(SRC)/%.sfd Makefile $(SCRIPT)
-	@echo "Generating	 $@"
+	@echo "Generating	$@"
 	@$(PY) $(SCRIPT) $< $@ $(VERSION)
+	@echo "Autohinting	$@"
+	@ttfautohint $@ $@.tmp
+	@mv $@.tmp $@
 
 dist: $(OTF) $(TTF)
 	@echo "Making dist tarball"
