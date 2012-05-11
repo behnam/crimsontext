@@ -22,6 +22,7 @@ def generate(font, path):
     font.autoHint()
 
     if extension == '.ttf':
+        font.correctReferences()
         font.em = 2048
         font.round()
 #       font.autoInstr()
