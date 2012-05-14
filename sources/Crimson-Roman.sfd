@@ -5107,12 +5107,12 @@ EndChar
 StartChar: Aring
 Encoding: 197 197 130
 Width: 627
-Flags: W
+Flags: HW
 HStem: -3 29<-13.6875 43.2822 129.835 192.446 403.025 461.809 582.411 631.812> 253 39<199.25 379.249> 643 20<321.75 327.75> 662 34<283.584 360.223> 807 34<282.145 360.675>
 VStem: 233.25 33<713.312 790.353> 376.25 33<712.832 790.822>
 LayerCount: 2
 Fore
-Refer: 32 65 N 1 0 0 1 -0 0 2
+Refer: 32 65 N 1 0 0 1 -0 0 3
 Refer: 490 -1 N 1 0 0 1 134.25 160 2
 EndChar
 
@@ -5250,12 +5250,12 @@ EndChar
 StartChar: Igrave
 Encoding: 204 204 137
 Width: 324
-Flags: W
+Flags: HW
 HStem: -3 29<40.7888 111.637 210.134 280.982> 633 29<40.7888 111.637 210.134 280.982> 728 133
 VStem: 37.384 185 117.385 87<32.7426 626.257>
 LayerCount: 2
 Fore
-Refer: 40 73 N 1 0 0 1 -2.00059 0 3
+Refer: 40 73 N 1 0 0 1 0 0 3
 Refer: 487 -1 N 1 0 0 1 12.384 19 2
 EndChar
 
@@ -5298,7 +5298,7 @@ EndChar
 StartChar: Eth
 Encoding: 208 208 141
 Width: 710
-Flags: W
+Flags: HW
 HStem: -3 32<43.4717 115.056 213.782 390.759> 311 37<47.3379 366.829> 626 32<45.3855 116.036 211.098 377.064>
 VStem: 119.386 87.9997<43.3146 622.145> 560.386 99<197.497 448.749>
 LayerCount: 2
@@ -5310,7 +5310,7 @@ SplineSet
  79.001 348 351.001 348 365.001 348 c 1
  369.001 348 369.001 320 365.001 311 c 1
 EndSplineSet
-Refer: 35 68 N 1 0 0 1 -0.000190735 0 2
+Refer: 35 68 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Ntilde
@@ -5417,7 +5417,7 @@ EndChar
 StartChar: Oslash
 Encoding: 216 216 149
 Width: 748
-Flags: W
+Flags: HW
 HStem: -10 34<312.807 466.307> 633 34<280.332 437.715> 647 20G<552.276 569.5>
 VStem: 49 99<213.913 447.61> 600 99<209.584 443.622>
 LayerCount: 2
@@ -5429,7 +5429,7 @@ SplineSet
  167 -10 143 4 147 10 c 9
  565 667 l 17xb8
 EndSplineSet
-Refer: 46 79 N 1 0 0 1 0 0 2
+Refer: 46 79 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Ugrave
@@ -5778,51 +5778,51 @@ EndChar
 StartChar: igrave
 Encoding: 236 236 169
 Width: 270
-Flags: W
+Flags: HW
 HStem: -3 29<35.7133 100.599 189.02 253.906> 372 26<34.4908 95.7581> 420 20<159.31 181.81> 494 160
 VStem: 20.3096 160 106.31 77<32.4189 365.708>
 LayerCount: 2
 Fore
 Refer: 332 768 N 1 0 0 1 370.31 -30 2
-Refer: 238 305 N 1 0 0 1 2 0 3
+Refer: 238 305 N 1 0 0 1 0 0 3
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" igrave.sc
 EndChar
 
 StartChar: iacute
 Encoding: 237 237 170
 Width: 270
-Flags: W
+Flags: HW
 HStem: -3 29<41.0227 105.909 194.329 259.215> 372 26<39.8002 101.067> 420 20<164.619 187.119> 494 160
 VStem: 83.6191 160 111.619 77<32.4189 365.708>
 LayerCount: 2
 Fore
 Refer: 333 769 N 1 0 0 1 403.619 -30 2
-Refer: 238 305 N 1 0 0 1 7.3094 0 3
+Refer: 238 305 N 1 0 0 1 0 0 3
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" iacute.sc
 EndChar
 
 StartChar: icircumflex
 Encoding: 238 238 171
 Width: 270
-Flags: W
+Flags: HW
 HStem: -3 29<41.0227 105.909 194.329 259.215> 372 26<39.8002 101.067> 420 20<164.619 187.119> 492 154
 VStem: 50.6191 210 111.619 77<32.4189 365.708>
 LayerCount: 2
 Fore
 Refer: 334 770 N 1 0 0 1 415.619 3 2
-Refer: 238 305 N 1 0 0 1 7.3094 0 3
+Refer: 238 305 N 1 0 0 1 0 0 3
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" icircumflex.sc
 EndChar
 
 StartChar: idieresis
 Encoding: 239 239 172
 Width: 272
-Flags: W
+Flags: HW
 HStem: -3 29<41.7133 106.599 195.02 259.906> 372 26<40.4908 101.758> 420 20<165.31 187.81> 497 98<17.0176 99.299 177.018 259.299>
 VStem: 8 100<505.719 585.943> 112.31 77<32.4189 365.708> 168 100<505.719 585.943>
 LayerCount: 2
 Fore
-Refer: 238 305 N 1 0 0 1 8 0 2
+Refer: 238 305 N 1 0 0 1 0 0 2
 Refer: 500 -1 N 1 0 0 1 -15 29 2
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" idieresis.sc
 EndChar
@@ -5963,13 +5963,11 @@ EndChar
 
 StartChar: oslash
 Encoding: 248 248 181
-Width: 581
-Flags: W
+Width: 509
+Flags: HW
 HStem: -8 21G<125 141.706> -7 33<214.699 321.24> 406 33<190.214 296.584> 417 20G<359.264 375.5>
 VStem: 42 86<120.834 313.837> 383 86<116.337 309.213>
 LayerCount: 2
-Back
-Refer: 813 -1 N 1 0 0 1 22 0 3
 Fore
 SplineSet
 129 -8 m 17x9c
@@ -5978,7 +5976,7 @@ SplineSet
  379 434 402 423 399 417 c 9
  129 -8 l 17x9c
 EndSplineSet
-Refer: 78 111 N 1 0 0 1 1 0 2
+Refer: 78 111 N 1 0 0 1 1 0 3
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" oslash.sc
 EndChar
 
@@ -6391,13 +6389,13 @@ HStem: -3 32<43.4715 115.056 213.781 390.759> 311 37<47.3377 366.829> 626 32<45.
 VStem: 119.386 87.9997<43.3146 622.145> 560.386 99<197.497 448.749>
 LayerCount: 2
 Fore
-Refer: 141 208 N 1 0 0 1 -0.000190735 0 2
+Refer: 141 208 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: dcroat
 Encoding: 273 273 206
 Width: 515
-Flags: W
+Flags: HW
 HStem: -8 62<192.397 289.897> 20 27<438.72 496.784> 396 42<196.789 327.598> 525 35<213.529 489.01> 628 26<283.899 341.828> 674 20<407 430.5>
 VStem: 39 84<130.201 291.813> 351 77<70.6579 374.572 428.007 621.593>
 LayerCount: 2
@@ -6411,20 +6409,20 @@ SplineSet
  214 525 213 533 213 537 c 3
  213 542 215 553 219 560 c 1x3f
 EndSplineSet
-Refer: 67 100 N 1 0 0 1 0 0 2
+Refer: 67 100 N 1 0 0 1 0 0 3
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" dcroat.sc
 EndChar
 
 StartChar: Emacron
 Encoding: 274 274 207
-Width: 586
+Width: 587
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -3 29<41.7892 112.638> 0 34<211.997 434.992> 312 37<205.386 382.837> 408 20<422.886 429.886> 624 33<209.098 433.16> 633 29<41.9342 112.638> 756 42<141.537 391.52>
 VStem: 118.386 86.9997<44.2663 310.528 349.429 620.395> 411.386 32<230.002 289.298 372.014 427.976> 481.386 32<523.07 571.016>
 LayerCount: 2
 Fore
-Refer: 36 69 N 1 0 0 1 -1.00019 0 2
+Refer: 36 69 N 1 0 0 1 0 0 3
 Refer: 492 -1 N 1 0 0 1 72.9994 194 2
 EndChar
 
@@ -6432,13 +6430,13 @@ StartChar: emacron
 Encoding: 275 275 208
 Width: 430
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -8 64<192.798 321.098> 248 37<116 301.487> 402 36<172.002 264.878> 525 42<101.538 329.521>
 VStem: 40 71<142.672 248> 302 85<285.847 368.285>
 LayerCount: 2
 Fore
 Refer: 336 772 N 1 0 0 1 476 -37 2
-Refer: 68 101 N 1 0 0 1 0 0 2
+Refer: 68 101 N 1 0 0 1 0 0 3
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" emacron.sc
 EndChar
 
@@ -6743,7 +6741,7 @@ EndChar
 StartChar: Hbar
 Encoding: 294 294 227
 Width: 726
-Flags: W
+Flags: HW
 HStem: -3 32<42.8892 114.385 211.387 282.882 443.89 515.385 612.387 683.882> 325 34<207.582 520.386> 470 38<81.157 643.843> 630 32<42.8892 114.385 211.387 282.882 443.89 515.385 612.387 683.882>
 VStem: 119.386 87<35.7426 318.953 362.001 623.257> 520.386 87<35.7426 320.999 362.001 623.257>
 LayerCount: 2
@@ -6757,13 +6755,13 @@ SplineSet
  644 489 644 479 638 470 c 1
  609 470 100 470 86 470 c 0
 EndSplineSet
-Refer: 39 72 N 1 0 0 1 0 0 2
+Refer: 39 72 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: hbar
 Encoding: 295 295 228
 Width: 516
-Flags: W
+Flags: HW
 HStem: -3 29<18.7892 83.6753 172.096 236.982 288.789 353.676 442.096 506.982> 380 58<241.147 327.57> 525 35<23.5298 299.011> 628 26<22.2841 80.2137> 674 20<145.386 168.886>
 VStem: 89.3855 77.0003<32.4189 347.537 363.001 621.593> 359.386 77<32.4189 346.845>
 LayerCount: 2
@@ -6777,7 +6775,7 @@ SplineSet
  24.001 525 23.001 533 23.001 537 c 3
  23.001 542 25.001 553 29.001 560 c 1
 EndSplineSet
-Refer: 71 104 N 1 0 0 1 -0.000190735 0 2
+Refer: 71 104 N 1 0 0 1 0 0 3
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" hbar.sc
 EndChar
 
@@ -6902,15 +6900,15 @@ EndChar
 
 StartChar: iogonek
 Encoding: 303 303 236
-Width: 274
+Width: 268
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -224 59<116.505 189.975> -3 29<35.1875 93.2849 217.428 254.593> 414 20<182.5 186> 543 100<98.4375 181.562>
 VStem: 58 54<-161.236 -87.4154> 90 100<551.438 634.562> 106 77<36.4871 366.601>
 LayerCount: 2
 Fore
 Refer: 339 775 N 1 0 0 1 395 48 2
-Refer: 486 -1 N 1 0 0 1 6 0 2
+Refer: 486 -1 N 1 0 0 1 0 0 3
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" iogonek.sc
 EndChar
 
@@ -7134,13 +7132,13 @@ StartChar: Lcaron
 Encoding: 317 317 250
 Width: 582
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -3 29<42.789 113.638> 0 34<212.997 437.778> 454 213 633 29<42.789 113.638 212.134 282.982>
 VStem: 119.386 86.9997<44.2685 626.257> 488.886 58<522.479 621.5>
 LayerCount: 2
 Fore
 Refer: 346 789 N 1 0 0 1 733.886 -7 2
-Refer: 43 76 N 1 0 0 1 -0.000389099 0 2
+Refer: 43 76 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: lcaron
@@ -7185,8 +7183,8 @@ EndChar
 
 StartChar: Lslash
 Encoding: 321 321 254
-Width: 568
-Flags: W
+Width: 564
+Flags: HW
 HStem: -3 29<46.4578 117.306> 0 34<216.666 441.447> 633 29<46.4578 117.306 215.803 286.651>
 VStem: 123.054 86.9997<44.2685 626.257>
 LayerCount: 2
@@ -7198,13 +7196,13 @@ SplineSet
  44.6689 184 29.6689 204 33.6689 207 c 9
  383.669 447 l 1x30
 EndSplineSet
-Refer: 43 76 N 1 0 0 1 3.66844 0 2
+Refer: 43 76 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: lslash
 Encoding: 322 322 255
-Width: 257
-Flags: W
+Width: 255
+Flags: HW
 HStem: -3 29<20.5394 85.4256 173.846 238.732> 628 26<24.0343 81.964> 674 20<147.136 170.636>
 VStem: 91.1358 77.0003<32.4189 621.593>
 LayerCount: 2
@@ -7216,7 +7214,7 @@ SplineSet
  221.751 418 236.751 400 232.751 396 c 9
  34.751 260 l 1
 EndSplineSet
-Refer: 75 108 N 1 0 0 1 1.75006 0 2
+Refer: 75 108 N 1 0 0 1 0 0 3
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" lslash.sc
 EndChar
 
@@ -7426,13 +7424,13 @@ StartChar: obreve
 Encoding: 335 335 267
 Width: 509
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -7 33<213.699 320.24> 406 33<189.214 295.584> 497 46<194.068 309.932> 598 20<158 162 342 346>
 VStem: 41 86<120.834 313.837> 143 22<598.095 615.805> 339 22<597.096 615.805> 382 86<116.337 309.213>
 LayerCount: 2
 Fore
 Refer: 338 774 N 1 0 0 1 511 -23 2
-Refer: 78 111 N 1 0 0 1 0 0 2
+Refer: 78 111 N 1 0 0 1 0 0 3
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" obreve.sc
 EndChar
 
@@ -7730,13 +7728,13 @@ StartChar: scaron
 Encoding: 353 353 285
 Width: 369
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -11 32<127.723 223.223> 406 31<147.772 235.89> 498 154
 VStem: 41 27<85.9752 117.421> 50 77<291.129 381.207> 92 210 248 81<55.287 144.678> 282 27<309.164 347.416>
 LayerCount: 2
 Fore
 Refer: 344 780 N 1 0 0 1 457 6 2
-Refer: 82 115 N 1 0 0 1 0 0 2
+Refer: 82 115 N 1 0 0 1 0 0 3
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" scaron.sc
 EndChar
 
@@ -7779,22 +7777,22 @@ EndChar
 
 StartChar: tcaron
 Encoding: 357 357 289
-Width: 308
+Width: 311
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -7 54<176.456 252.292> 391 41<27.9629 83 160 292.375> 471 213
 VStem: 83 77<62.1149 391 432 519.684> 315.19 58<539.479 638.5>
 LayerCount: 2
 Fore
 Refer: 346 789 N 1 0 0 1 560.19 10 2
-Refer: 83 116 N 1 0 0 1 0 0 2
+Refer: 83 116 N 1 0 0 1 0 0 3
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" tcaron.sc
 EndChar
 
 StartChar: Tbar
 Encoding: 358 358 290
 Width: 626
-Flags: W
+Flags: HW
 HStem: -3 29<193.404 264.252 362.748 433.596> 311 37<155.337 474.828> 626 35<95.8184 270 357 528.71>
 VStem: 12 33<499.771 557.091> 270 87<32.7426 626> 580 33<499.771 557.091>
 LayerCount: 2
@@ -7806,7 +7804,7 @@ SplineSet
  187 348 459 348 473 348 c 1
  477 348 477 320 473 311 c 1
 EndSplineSet
-Refer: 51 84 N 1 0 0 1 0 0 2
+Refer: 51 84 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: tbar
@@ -8072,13 +8070,13 @@ StartChar: wcircumflex
 Encoding: 373 373 305
 Width: 721
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -11 21<225.25 232.75 480.25 486.25> 401 29<0.494385 51.1544 152.036 201.966 267.324 310.307 419.603 466.557 538.479 593.604 668.728 720.507> 492 154
 VStem: 295 210 338.25 76<305.432 379.109>
 LayerCount: 2
 Fore
 Refer: 334 770 N 1 0 0 1 660 3 2
-Refer: 86 119 N 1 0 0 1 -0 0 2
+Refer: 86 119 N 1 0 0 1 0 0 3
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" wcircumflex.sc
 EndChar
 
@@ -13518,7 +13516,7 @@ EndChar
 StartChar: Aringacute
 Encoding: 506 506 526
 Width: 627
-Flags: W
+Flags: HW
 HStem: -3 29<-13.6875 43.2822 129.835 192.446 403.025 461.809 582.411 631.812> 253 39<199.25 379.249> 643 20<321.75 327.75> 662 34<283.584 360.223> 807 34<282.145 360.675> 870 133
 VStem: 233.25 33<713.312 790.353> 344.25 185 376.25 33<712.832 790.822>
 LayerCount: 2
@@ -13568,7 +13566,7 @@ EndChar
 StartChar: Oslashacute
 Encoding: 510 510 530
 Width: 748
-Flags: W
+Flags: HW
 HStem: -10 34<312.807 466.307> 633 34<280.332 437.715> 647 20<552.276 569.5> 728 133
 VStem: 49 99<213.913 447.61> 324 185 600 99<209.584 443.622>
 LayerCount: 2
@@ -13579,8 +13577,8 @@ EndChar
 
 StartChar: oslashacute
 Encoding: 511 511 531
-Width: 581
-Flags: W
+Width: 509
+Flags: HW
 HStem: -8 21<125 141.706> -7 33<214.699 321.24> 406 33<190.214 296.584> 417 20<359.264 375.5> 494 160
 VStem: 42 86<120.834 313.837> 216 160 383 86<116.337 309.213>
 LayerCount: 2
@@ -14616,9 +14614,9 @@ EndChar
 
 StartChar: uni1E14
 Encoding: 7700 7700 576
-Width: 586
+Width: 587
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -3 29<42.789 113.638> 0 34<212.997 435.992> 312 37<206.386 383.837> 408 20<423.886 430.886> 624 33<210.098 434.16> 633 29<42.934 113.638> 756 42<142.537 392.52> 823 133
 VStem: 119.386 86.9997<44.2663 310.528 349.429 620.395> 153.999 185 412.386 32<230.002 289.298 372.014 427.976> 482.386 32<523.07 571.016>
 LayerCount: 2
@@ -14631,7 +14629,7 @@ StartChar: uni1E15
 Encoding: 7701 7701 577
 Width: 430
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -8 64<192.798 321.098> 248 37<116 301.487> 402 36<172.002 264.878> 525 42<101.538 329.521> 587 160
 VStem: 40 71<142.672 248> 120 160 302 85<285.847 368.285>
 LayerCount: 2
@@ -14642,9 +14640,9 @@ EndChar
 
 StartChar: uni1E16
 Encoding: 7702 7702 578
-Width: 586
+Width: 587
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -3 29<42.789 113.638> 0 34<212.997 435.992> 312 37<206.386 383.837> 408 20<423.886 430.886> 624 33<210.098 434.16> 633 29<42.934 113.638> 756 42<142.537 392.52> 823 133
 VStem: 119.386 86.9997<44.2663 310.528 349.429 620.395> 204.999 185 412.386 32<230.002 289.298 372.014 427.976> 482.386 32<523.07 571.016>
 LayerCount: 2
@@ -14657,7 +14655,7 @@ StartChar: uni1E17
 Encoding: 7703 7703 579
 Width: 430
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -8 64<192.798 321.098> 248 37<116 301.487> 402 36<172.002 264.878> 525 42<101.538 329.521> 587 160
 VStem: 40 71<142.672 248> 155 160 302 85<285.847 368.285>
 LayerCount: 2
@@ -14875,7 +14873,7 @@ EndChar
 StartChar: uni1E2F
 Encoding: 7727 7727 597
 Width: 272
-Flags: W
+Flags: HW
 HStem: -3 29<41.7133 106.599 195.02 259.906> 372 26<40.4908 101.758> 420 20<165.31 187.81> 497 98<17.0176 99.299 177.018 259.299> 621 160
 VStem: 8 100<505.719 585.943> 109 160 112.31 77<32.4189 365.708> 168 100<505.719 585.943>
 LayerCount: 2
@@ -15476,7 +15474,7 @@ StartChar: uni1E67
 Encoding: 7783 7783 647
 Width: 369
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -11 32<127.723 223.223> 406 31<147.772 235.89> 498 154 650 100<152.438 235.562>
 VStem: 41 27<85.9752 117.421> 50 77<291.129 381.207> 92 210 144 100<658.438 741.562> 248 81<55.287 144.678> 282 27<309.164 347.416>
 LayerCount: 2
@@ -19222,15 +19220,10 @@ EndChar
 StartChar: oslash.sc
 Encoding: 65653 -1 859
 Width: 581
-Flags: W
+Flags: HW
 HStem: -10.7949 21G<134.587 150.375> -9 33<237.164 362.391> 422 33<218.155 343.363>
 VStem: 48 86<134.092 318.661> 447 86<127.501 312.271>
 LayerCount: 2
-Back
-Refer: 813 -1 N 1 0 0 1 0 0 3
-Refer: 181 248 N 1 0 0 1 0 0 2
-Refer: 181 248 N 1 0 0 1 0 0 2
-Refer: 181 248 N 1 0 0 1 0 0 2
 Fore
 SplineSet
 404.135 455.005 m 17xb8
@@ -20488,7 +20481,7 @@ EndChar
 StartChar: oslashacute.sc
 Encoding: 65737 -1 943
 Width: 581
-Flags: W
+Flags: HW
 HStem: -10.7949 21<134.587 150.375> -9 33<237.164 362.391> 422 33<218.155 343.363> 518 160
 VStem: 48 86<134.092 318.661> 257 160 447 86<127.501 312.271>
 LayerCount: 2
@@ -26738,7 +26731,7 @@ EndChar
 StartChar: afii10104
 Encoding: 1111 1111 1144
 Width: 270
-Flags: W
+Flags: HW
 HStem: -3 29<28.7133 93.5994 182.02 246.906> 372 26<27.4908 88.7581> 420 20<152.31 174.81> 497 98<4.0176 86.299 164.018 246.299>
 VStem: -5 100<505.719 585.943> 99.31 77<32.4189 365.708> 155 100<505.719 585.943>
 LayerCount: 2
