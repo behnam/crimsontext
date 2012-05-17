@@ -49,8 +49,9 @@ OS2SupYOff: 491
 OS2StrikeYSize: 51
 OS2StrikeYPos: 265
 OS2Vendor: 'PfEd'
-Lookup: 1 0 0 "'pnum' Proportional Numbers lookup 12"  {"'pnum' Proportional Numbers lookup 12-1" ("prop" ) } ['pnum' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'FRA ' 'ITA ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
-Lookup: 258 0 0 "'kern' Horizontal Kerning in Latin lookup 0"  {"'kern' Horizontal Kerning in Latin lookup 0 kerning class 1" [153,0,0] } ['kern' ('latn' <'dflt' > ) ]
+Lookup: 1 0 0 "'ccmp' Turkish i"  {"'ccmp' Turkish i-1"  } ['ccmp' ('latn' <'TRK ' > ) ]
+Lookup: 1 0 0 "'pnum' Proportional Numbers lookup 12"  {"'pnum' Proportional Numbers lookup 12-1" ("prop" ) } ['pnum' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'TRK ' 'dflt' > ) ]
+Lookup: 258 0 0 "'kern' Horizontal Kerning in Latin lookup 0"  {"'kern' Horizontal Kerning in Latin lookup 0 kerning class 1" [153,0,0] } ['kern' ('latn' <'TRK ' 'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
 KernClass2: 75+ 56 "'kern' Horizontal Kerning in Latin lookup 0 kerning class 1" 
@@ -202,7 +203,7 @@ StemSnapV 16 [55 104 114 130]
 ForceBold 4 true
 ExpansionFactor 4 0.06
 EndPrivate
-BeginChars: 65559 428
+BeginChars: 65560 429
 
 StartChar: space
 Encoding: 32 32 0
@@ -2596,6 +2597,7 @@ SplineSet
  207.31 570 179.31 544 145.31 544 c 0
  111.31 544 84.3096 570 84.3096 604 c 0xf8
 EndSplineSet
+Substitution2: "'ccmp' Turkish i-1" i.TRK
 EndChar
 
 StartChar: j
@@ -9666,6 +9668,17 @@ SplineSet
  445 723 452 731 458 731 c 0
  474 731 489 724 493 721 c 1
 EndSplineSet
+EndChar
+
+StartChar: i.TRK
+Encoding: 65559 -1 428
+Width: 294
+Flags: W
+HStem: -4 33<30.0596 95.0909 212.527 274.56> 368 28<29.6177 90.5498> 424 20<180.81 203.31> 544 122<99.0801 192.11>
+VStem: 84.3096 123<558.34 650.8> 102.31 104<36.3778 359.638>
+LayerCount: 2
+Fore
+Refer: 73 105 N 1 0 0 1 0 0 3
 EndChar
 EndChars
 EndSplineFont

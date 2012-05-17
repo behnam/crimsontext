@@ -49,14 +49,15 @@ OS2StrikeYSize: 50
 OS2StrikeYPos: 264
 OS2FamilyClass: 258
 OS2Vendor: 'PfEd'
-Lookup: 1 0 0 "'c2sc' Capitals to Small Capitals in Latin lookup 0"  {"'c2sc' Capitals to Small Capitals in Latin lookup 0 subtable"  } ['c2sc' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 1 0 0 "'smcp' Lowercase to Small Capitals lookup 2"  {"'smcp' Lowercase to Small Capitals lookup 2-1" ("sc" ) } ['smcp' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 4 0 1 "'liga' Standard Ligatures lookup 0"  {"'liga' Standard Ligatures lookup 0-1"  } ['liga' ('DFLT' <'dflt' > 'cyrl' <'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <' CRT' ' DEU' ' FRA' ' ITA' ' MOL' ' ROM' ' TRK' 'AZE ' 'CRT ' 'DEU ' 'FRA ' 'ITA ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
-Lookup: 1 0 0 "'pnum' Proportional Numbers lookup 12"  {"'pnum' Proportional Numbers lookup 12-1" ("prop" ) } ['pnum' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'FRA ' 'ITA ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
-Lookup: 1 0 0 "'zero' Slashed Zero lookup 11"  {"'zero' Slashed Zero lookup 11-1"  } ['zero' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'FRA ' 'ITA ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
-Lookup: 1 0 0 "'onum' Oldstyle Figures lookup 3"  {"'onum' Oldstyle Figures lookup 3-1" ("onum" ) } ['onum' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 1 0 0 "'ordn' Ordinals lookup 0"  {"'ordn' Ordinals lookup 0-1" ("ordn" ) } ['ordn' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 258 0 0 "'kern' Horizontal Kerning in Latin lookup 0"  {"'kern' Horizontal Kerning in Latin lookup 0 kerning class 1" [78,0,0] "'kern' Horizontal Kerning in Latin lookup 0 kerning class 2" [78,0,0] "'kern' Horizontal Kerning in Latin lookup 0 kerning class 3" [78,0,0] "'kern' Horizontal Kerning in Latin lookup 0 kerning class 4"  "'kern' Horizontal Kerning in Latin lookup 0 kerning class 5"  "'kern' Horizontal Kerning in Latin lookup 0 kerning class 6"  "'kern' Horizontal Kerning in Latin lookup 0 kerning class 7"  "'kern' Horizontal Kerning in Latin lookup 0 kerning class 8"  "'kern' Horizontal Kerning in Latin lookup 0 kerning class 9"  "'kern' Horizontal Kerning in Latin lookup 0 kerning class 10"  "'kern' Horizontal Kerning in Latin lookup 0 kerning class 11"  "'kern' Horizontal Kerning in Latin lookup 0 kerning class 12"  } ['kern' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <' CRT' ' DEU' ' FRA' ' ITA' ' MOL' ' ROM' ' TRK' 'AZE ' > 'latn' <'dflt' > ) ]
+Lookup: 1 0 0 "'ccmp' Turkish i"  {"'ccmp' Turkish i-1"  } ['ccmp' ('latn' <'TRK ' > ) ]
+Lookup: 1 0 0 "'c2sc' Capitals to Small Capitals in Latin lookup 0"  {"'c2sc' Capitals to Small Capitals in Latin lookup 0 subtable"  } ['c2sc' ('DFLT' <'dflt' > 'latn' <'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'smcp' Lowercase to Small Capitals lookup 2"  {"'smcp' Lowercase to Small Capitals lookup 2-1" ("sc" ) } ['smcp' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'TRK ' 'dflt' > ) ]
+Lookup: 4 0 1 "'liga' Standard Ligatures lookup 0"  {"'liga' Standard Ligatures lookup 0-1"  } ['liga' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'pnum' Proportional Numbers lookup 12"  {"'pnum' Proportional Numbers lookup 12-1" ("prop" ) } ['pnum' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'zero' Slashed Zero lookup 11"  {"'zero' Slashed Zero lookup 11-1"  } ['zero' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'onum' Oldstyle Figures lookup 3"  {"'onum' Oldstyle Figures lookup 3-1" ("onum" ) } ['onum' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'ordn' Ordinals lookup 0"  {"'ordn' Ordinals lookup 0-1" ("ordn" ) } ['ordn' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'TRK ' 'dflt' > ) ]
+Lookup: 258 0 0 "'kern' Horizontal Kerning in Latin lookup 0"  {"'kern' Horizontal Kerning in Latin lookup 0 kerning class 1" [78,0,0] "'kern' Horizontal Kerning in Latin lookup 0 kerning class 2" [78,0,0] "'kern' Horizontal Kerning in Latin lookup 0 kerning class 3" [78,0,0] "'kern' Horizontal Kerning in Latin lookup 0 kerning class 4"  "'kern' Horizontal Kerning in Latin lookup 0 kerning class 5"  "'kern' Horizontal Kerning in Latin lookup 0 kerning class 6"  "'kern' Horizontal Kerning in Latin lookup 0 kerning class 7"  "'kern' Horizontal Kerning in Latin lookup 0 kerning class 8"  "'kern' Horizontal Kerning in Latin lookup 0 kerning class 9"  "'kern' Horizontal Kerning in Latin lookup 0 kerning class 10"  "'kern' Horizontal Kerning in Latin lookup 0 kerning class 11"  "'kern' Horizontal Kerning in Latin lookup 0 kerning class 12"  } ['kern' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'TRK ' 'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
 KernClass2: 7+ 9 "'kern' Horizontal Kerning in Latin lookup 0 kerning class 12" 
@@ -895,7 +896,7 @@ Grid
   Named: "ssups_nums" 
 EndSplineSet
 TeXData: 1 0 0 204800 102400 68266 442368 1048576 68266 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 65770 1416
+BeginChars: 65772 1418
 
 StartChar: space
 Encoding: 32 32 0
@@ -3303,6 +3304,7 @@ LayerCount: 2
 Fore
 Refer: 339 775 N 1 0 0 1 390.31 48 2
 Refer: 238 305 N 1 0 0 1 0 0 2
+Substitution2: "'ccmp' Turkish i-1" i.TRK
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" i.sc
 EndChar
 
@@ -30746,6 +30748,29 @@ SplineSet
  304 491 296 484 288 484 c 0
  279 484 179 541 179 635 c 0
 EndSplineSet
+EndChar
+
+StartChar: i.TRK
+Encoding: 65770 -1 1416
+Width: 270
+Flags: W
+HStem: -3 29<33.7133 98.5994 187.02 251.906> 372 26<32.4908 93.7581> 420 20<157.31 179.81> 543 100<93.7471 176.872>
+VStem: 85.3096 100<551.438 634.562> 104.31 77<32.4189 365.708>
+LayerCount: 2
+Fore
+Refer: 72 105 N 1 0 0 1 0 0 3
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 2-1" i.TRK.sc
+EndChar
+
+StartChar: i.TRK.sc
+Encoding: 65771 -1 1417
+Width: 290
+Flags: W
+HStem: -3 29<46.4951 102.876 187.124 243.505> 422 29<46.4951 102.876 187.124 243.505> 535 100<105.438 188.562>
+VStem: 97 100<543.438 626.562> 106 78<37.5207 410.479>
+LayerCount: 2
+Fore
+Refer: 892 -1 N 1 0 0 1 0 0 3
 EndChar
 EndChars
 EndSplineFont

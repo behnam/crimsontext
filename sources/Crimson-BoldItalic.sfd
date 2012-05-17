@@ -49,10 +49,11 @@ OS2SupYOff: 491
 OS2StrikeYSize: 51
 OS2StrikeYPos: 265
 OS2Vendor: 'PfEd'
-Lookup: 1 0 0 "'onum' Oldstyle Figures lookup 3"  {"'onum' Oldstyle Figures lookup 3-1" ("onum" ) } ['onum' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 1 0 0 "'pnum' Proportional Numbers lookup 12"  {"'pnum' Proportional Numbers lookup 12-1" ("prop" ) } ['pnum' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'FRA ' 'ITA ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
-Lookup: 4 0 1 "'liga' Standard Ligatures lookup 0"  {"'liga' Standard Ligatures lookup 0-1"  } ['liga' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 258 0 0 "'kern' Horizontal Kerning in Latin lookup 0"  {"'kern' Horizontal Kerning in Latin lookup 0 kerning class 1" [153,0,0] } ['kern' ('latn' <'dflt' > ) ]
+Lookup: 1 0 0 "'ccmp' Turkish i"  {"'ccmp' Turkish i-1"  } ['ccmp' ('latn' <'TRK ' > ) ]
+Lookup: 1 0 0 "'onum' Oldstyle Figures lookup 3"  {"'onum' Oldstyle Figures lookup 3-1" ("onum" ) } ['onum' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'pnum' Proportional Numbers lookup 12"  {"'pnum' Proportional Numbers lookup 12-1" ("prop" ) } ['pnum' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'TRK ' 'dflt' > ) ]
+Lookup: 4 0 1 "'liga' Standard Ligatures lookup 0"  {"'liga' Standard Ligatures lookup 0-1"  } ['liga' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'TRK ' 'dflt' > ) ]
+Lookup: 258 0 0 "'kern' Horizontal Kerning in Latin lookup 0"  {"'kern' Horizontal Kerning in Latin lookup 0 kerning class 1" [153,0,0] } ['kern' ('latn' <'TRK ' 'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
 KernClass2: 75+ 59 "'kern' Horizontal Kerning in Latin lookup 0 kerning class 1" 
@@ -232,7 +233,7 @@ Grid
  -6 449 l 25
  560 449 l 25
 EndSplineSet
-BeginChars: 65586 480
+BeginChars: 65587 481
 
 StartChar: space
 Encoding: 32 32 0
@@ -2887,6 +2888,7 @@ SplineSet
  159 540 135 568 135 603 c 0xe4
  135 647 171 687 213 687 c 0
 EndSplineSet
+Substitution2: "'ccmp' Turkish i-1" i.TRK
 EndChar
 
 StartChar: j
@@ -11733,6 +11735,18 @@ SplineSet
  445 723 452 731 458 731 c 0
  474 731 489 724 493 721 c 1
 EndSplineSet
+EndChar
+
+StartChar: i.TRK
+Encoding: 65586 -1 480
+Width: 310
+VWidth: 0
+Flags: W
+HStem: -8 86<106.5 208> 363 86<85 186> 540 147<162.393 243.607>
+VStem: 60 123<34.1714 189.984> 111 122<251.016 405.986> 135 136<567.686 659.998>
+LayerCount: 2
+Fore
+Refer: 73 105 N 1 0 0 1 0 0 3
 EndChar
 EndChars
 EndSplineFont

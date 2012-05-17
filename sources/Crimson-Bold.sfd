@@ -49,10 +49,11 @@ OS2SupYOff: 491
 OS2StrikeYSize: 51
 OS2StrikeYPos: 265
 OS2Vendor: 'PfEd'
-Lookup: 1 0 0 "'smcp' Lowercase to Small Capitals in Latin lookup 0"  {"'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" ("sc" ) } ['smcp' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 1 0 0 "'c2sc' Capitals to Small Capitals in Latin lookup 0"  {"'c2sc' Capitals to Small Capitals in Latin lookup 0 subtable"  } ['c2sc' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 4 0 1 "'liga' Standard Ligatures lookup 0"  {"'liga' Standard Ligatures lookup 0-1"  } ['liga' ('DFLT' <'dflt' > 'cyrl' <'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <' CRT' ' DEU' ' FRA' ' ITA' ' MOL' ' ROM' ' TRK' 'AZE ' 'CRT ' 'DEU ' 'FRA ' 'ITA ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
-Lookup: 258 0 0 "'kern' Horizontal Kerning in Latin lookup 0"  {"'kern' Horizontal Kerning in Latin lookup 0 kerning class 1" [153,0,0] } ['kern' ('latn' <'dflt' > ) ]
+Lookup: 1 0 0 "'ccmp' Turkish i"  {"'ccmp' Turkish i-1"  } ['ccmp' ('latn' <'TRK ' > ) ]
+Lookup: 1 0 0 "'smcp' Lowercase to Small Capitals in Latin lookup 0"  {"'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" ("sc" ) } ['smcp' ('DFLT' <'dflt' > 'latn' <'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'c2sc' Capitals to Small Capitals in Latin lookup 0"  {"'c2sc' Capitals to Small Capitals in Latin lookup 0 subtable"  } ['c2sc' ('DFLT' <'dflt' > 'latn' <'TRK ' 'dflt' > ) ]
+Lookup: 4 0 1 "'liga' Standard Ligatures lookup 0"  {"'liga' Standard Ligatures lookup 0-1"  } ['liga' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'TRK ' 'dflt' > ) ]
+Lookup: 258 0 0 "'kern' Horizontal Kerning in Latin lookup 0"  {"'kern' Horizontal Kerning in Latin lookup 0 kerning class 1" [153,0,0] } ['kern' ('latn' <'TRK ' 'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
 KernClass2: 118+ 89 "'kern' Horizontal Kerning in Latin lookup 0 kerning class 1" 
@@ -305,7 +306,7 @@ Grid
  -6.14355 449 l 25
  560 449 l 25
 EndSplineSet
-BeginChars: 65721 942
+BeginChars: 65723 944
 
 StartChar: space
 Encoding: 32 32 0
@@ -2735,6 +2736,7 @@ SplineSet
  229.386 576 196.386 544 156.386 544 c 0
  116.386 544 84.3857 576 84.3857 616 c 0xf8
 EndSplineSet
+Substitution2: "'ccmp' Turkish i-1" i.TRK
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" i.sc
 EndChar
 
@@ -19380,6 +19382,29 @@ SplineSet
  445 723 452 731 458 731 c 0
  474 731 489 724 493 721 c 1
 EndSplineSet
+EndChar
+
+StartChar: i.TRK
+Encoding: 65721 -1 942
+Width: 315
+Flags: W
+HStem: -4 37<27.1062 93.3842 239.387 298.665> 362 31<27.418 87.5734> 426 20<206.386 228.886> 544 144<104.182 209.113>
+VStem: 84.3857 145<565 667> 101.386 130<41.2661 351.93>
+LayerCount: 2
+Fore
+Refer: 73 105 N 1 0 0 1 0 0 2
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" i.TRK.sc
+EndChar
+
+StartChar: i.TRK.sc
+Encoding: 65722 -1 943
+Width: 342
+Flags: W
+HStem: -4 37<37.0058 93.9926 249.868 304> 425 37<37.0058 93.9926 249.868 304> 507 136<124.406 223.594>
+VStem: 107 130<46.0558 411.944> 107 134<524.86 625.14>
+LayerCount: 2
+Fore
+Refer: 565 -1 N 1 0 0 1 0 0 2
 EndChar
 EndChars
 EndSplineFont

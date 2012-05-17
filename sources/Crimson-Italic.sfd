@@ -49,11 +49,12 @@ OS2SupYOff: 491
 OS2StrikeYSize: 51
 OS2StrikeYPos: 265
 OS2Vendor: 'PfEd'
-Lookup: 1 0 0 "'onum' Oldstyle Figures in Latin lookup 5"  {"'onum' Oldstyle Figures in Latin lookup 5-1" ("onum" ) } ['onum' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 1 0 0 "'pnum' Proportional Numbers lookup 12"  {"'pnum' Proportional Numbers lookup 12-1" ("prop" ) } ['pnum' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'FRA ' 'ITA ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
-Lookup: 1 0 0 "'smcp' Lowercase to Small Capitals in Latin lookup 3"  {"'smcp' Lowercase to Small Capitals in Latin lookup 3-1" ("sc" ) } ['smcp' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 4 0 1 "'liga' Standard Ligatures lookup 0"  {"'liga' Standard Ligatures lookup 0-1"  } ['liga' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 258 0 0 "Crimson-Italic-'kern' Horizontal Kerning in Latin lookup 0"  {"Crimson-Italic-'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" [153,15,0] "Crimson-Italic-'kern' Horizontal Kerning in Latin lookup 0 kerning class 1" [153,0,0] "Crimson-Italic-'kern' Horizontal Kerning in Latin lookup 0 kerning class 2"  "Crimson-Italic-'kern' Horizontal Kerning in Latin lookup 0 kerning class 3"  "Crimson-Italic-'kern' Horizontal Kerning in Latin lookup 0 kerning class 4"  "Crimson-Italic-'kern' Horizontal Kerning in Latin lookup 0 kerning class 5"  "Crimson-Italic-'kern' Horizontal Kerning in Latin lookup 0 kerning class 6"  "Crimson-Italic-'kern' Horizontal Kerning in Latin lookup 0 kerning class 7"  "Crimson-Italic-'kern' Horizontal Kerning in Latin lookup 0 kerning class 8"  "Crimson-Italic-'kern' Horizontal Kerning in Latin lookup 0 kerning class 9"  "Crimson-Italic-'kern' Horizontal Kerning in Latin lookup 0 kerning class 10"  "Crimson-Italic-'kern' Horizontal Kerning in Latin lookup 0 kerning class 11"  } ['kern' ('latn' <'dflt' > ) ]
+Lookup: 1 0 0 "'ccmp' Turkish i"  {"'ccmp' Turkish i-1"  } ['ccmp' ('latn' <'TRK ' > ) ]
+Lookup: 1 0 0 "'onum' Oldstyle Figures in Latin lookup 5"  {"'onum' Oldstyle Figures in Latin lookup 5-1" ("onum" ) } ['onum' ('DFLT' <'dflt' > 'latn' <'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'pnum' Proportional Numbers lookup 12"  {"'pnum' Proportional Numbers lookup 12-1" ("prop" ) } ['pnum' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'smcp' Lowercase to Small Capitals in Latin lookup 3"  {"'smcp' Lowercase to Small Capitals in Latin lookup 3-1" ("sc" ) } ['smcp' ('DFLT' <'dflt' > 'latn' <'TRK ' 'dflt' > ) ]
+Lookup: 4 0 1 "'liga' Standard Ligatures lookup 0"  {"'liga' Standard Ligatures lookup 0-1"  } ['liga' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'TRK ' 'dflt' > ) ]
+Lookup: 258 0 0 "Crimson-Italic-'kern' Horizontal Kerning in Latin lookup 0"  {"Crimson-Italic-'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" [153,15,0] "Crimson-Italic-'kern' Horizontal Kerning in Latin lookup 0 kerning class 1" [153,0,0] "Crimson-Italic-'kern' Horizontal Kerning in Latin lookup 0 kerning class 2"  "Crimson-Italic-'kern' Horizontal Kerning in Latin lookup 0 kerning class 3"  "Crimson-Italic-'kern' Horizontal Kerning in Latin lookup 0 kerning class 4"  "Crimson-Italic-'kern' Horizontal Kerning in Latin lookup 0 kerning class 5"  "Crimson-Italic-'kern' Horizontal Kerning in Latin lookup 0 kerning class 6"  "Crimson-Italic-'kern' Horizontal Kerning in Latin lookup 0 kerning class 7"  "Crimson-Italic-'kern' Horizontal Kerning in Latin lookup 0 kerning class 8"  "Crimson-Italic-'kern' Horizontal Kerning in Latin lookup 0 kerning class 9"  "Crimson-Italic-'kern' Horizontal Kerning in Latin lookup 0 kerning class 10"  "Crimson-Italic-'kern' Horizontal Kerning in Latin lookup 0 kerning class 11"  } ['kern' ('latn' <'TRK ' 'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
 KernClass2: 26+ 35 "Crimson-Italic-'kern' Horizontal Kerning in Latin lookup 0 kerning class 11" 
@@ -799,7 +800,7 @@ Grid
 28 435 m 17
  542 435 l 9
 EndSplineSet
-BeginChars: 65755 1083
+BeginChars: 65757 1085
 
 StartChar: exclam
 Encoding: 33 33 0
@@ -3229,6 +3230,7 @@ SplineSet
  128 546 116 567 116 589 c 0xe4
  116 619 138 646 168 646 c 0
 EndSplineSet
+Substitution2: "'ccmp' Turkish i-1" i.TRK
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" i.sc
 EndChar
 
@@ -24554,6 +24556,30 @@ SplineSet
  445 723 452 731 458 731 c 0
  474 731 489 724 493 721 c 1
 EndSplineSet
+EndChar
+
+StartChar: i.TRK
+Encoding: 65755 -1 1083
+Width: 262
+Flags: W
+HStem: -6 55<76.5 140.107> 380 55<97.7782 161.5> 546 100<127.035 191.228>
+VStem: 53 75<46 126.683> 115 75<302.317 383> 116 88<557.783 635.875>
+LayerCount: 2
+Fore
+Refer: 72 105 N 1 0 0 1 0 0 3
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 3-1" i.TRK.sc
+EndChar
+
+StartChar: i.TRK.sc
+Encoding: 65756 -1 1084
+Width: 270
+VWidth: 0
+Flags: W
+HStem: -3 29<3.03706 53.8336 128.301 168.923> 422 29<85.0999 125.973 201.166 251.78> 521 100<162.289 228.851>
+VStem: 0.000299454 255 148.912 93<533.854 607.333>
+LayerCount: 2
+Fore
+Refer: 537 -1 N 1 0 0 1 0 0 3
 EndChar
 EndChars
 EndSplineFont
