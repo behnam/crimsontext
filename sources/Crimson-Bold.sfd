@@ -306,7 +306,7 @@ Grid
  -6.14355 449 l 25
  560 449 l 25
 EndSplineSet
-BeginChars: 65723 944
+BeginChars: 65723 945
 
 StartChar: space
 Encoding: 32 32 0
@@ -19405,6 +19405,19 @@ VStem: 107 130<46.0558 411.944> 107 134<524.86 625.14>
 LayerCount: 2
 Fore
 Refer: 565 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: napostrophe
+Encoding: 329 329 944
+Width: 596
+VWidth: 0
+Flags: W
+HStem: -4 37<29.1062 95.3842 241.387 300.665 326.107 380.384 526.388 592.665> 362 31<29.418 89.5734> 365 1<235.386 321.386> 419 241 426 20<208.386 230.386>
+VStem: -24 79<512.648 608.5> 103.386 130<41.2661 338.951> 388.386 130<41.2661 334.749>
+LayerCount: 2
+Fore
+Refer: 78 110 N 1 0 0 1 2 0 3
+Refer: 274 789 N 1 0 0 1 -118 0 2
 EndChar
 EndChars
 EndSplineFont
