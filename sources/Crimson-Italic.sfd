@@ -7051,6 +7051,7 @@ StartChar: gravecomb
 Encoding: 768 768 229
 Width: 0
 VWidth: 967
+GlyphClass: 4
 Flags: W
 HStem: 490 131
 VStem: -355 171
@@ -7070,6 +7071,7 @@ StartChar: acutecomb
 Encoding: 769 769 230
 Width: 0
 VWidth: 967
+GlyphClass: 4
 Flags: W
 HStem: 490 131
 VStem: -333 171
@@ -7089,6 +7091,7 @@ StartChar: uni0302
 Encoding: 770 770 231
 Width: 0
 VWidth: 960
+GlyphClass: 4
 Flags: W
 HStem: 490 135
 VStem: -367.871 205
@@ -7111,6 +7114,7 @@ StartChar: tildecomb
 Encoding: 771 771 232
 Width: 0
 VWidth: 940
+GlyphClass: 4
 Flags: W
 HStem: 490 42<-236.089 -139.913> 526 42<-361.648 -261.305>
 VStem: -395.804 291
@@ -8321,6 +8325,7 @@ StartChar: uni0304
 Encoding: 772 772 261
 Width: 0
 VWidth: 957
+GlyphClass: 4
 Flags: W
 HStem: 490 39<-368.044 -148.604>
 VStem: -370 223<490.428 529>
@@ -8340,6 +8345,7 @@ EndChar
 StartChar: uni0305
 Encoding: 773 773 262
 Width: 0
+GlyphClass: 4
 Flags: W
 HStem: 739 63<138.455 681.265>
 LayerCount: 2
@@ -8360,6 +8366,7 @@ StartChar: uni0306
 Encoding: 774 774 263
 Width: 0
 VWidth: 994
+GlyphClass: 4
 Flags: W
 HStem: 490 46<-294.141 -192.562>
 VStem: -334.816 23<567.811 605.105> -149.816 17.8164<590.732 607.038>
@@ -8382,6 +8389,7 @@ StartChar: uni0307
 Encoding: 775 775 264
 Width: 0
 VWidth: 1019
+GlyphClass: 4
 Flags: W
 HStem: 490 100<-284.711 -218.148>
 VStem: -298.088 93<502.854 576.333>
@@ -8400,6 +8408,7 @@ StartChar: uni0308
 Encoding: 776 776 265
 Width: 0
 VWidth: 1043
+GlyphClass: 4
 Flags: W
 HStem: 490 92<-370.376 -306.202 -200.376 -136.202>
 VStem: -382.123 87<500.924 569.908> -212.123 87<500.924 569.455>
@@ -8422,6 +8431,7 @@ EndChar
 StartChar: hookabovecomb
 Encoding: 777 777 266
 Width: 0
+GlyphClass: 4
 Flags: W
 HStem: 487 58<-308.433 -278.013> 607 35<-306.016 -243.858>
 VStem: -310 32<491.611 527.486> -241 45<551.173 604.214>
@@ -8448,6 +8458,7 @@ StartChar: uni030A
 Encoding: 778 778 267
 Width: 0
 VWidth: 1012
+GlyphClass: 4
 Flags: W
 HStem: 490 34<-293.006 -221.229> 635 34<-278.167 -205.294>
 VStem: -331.073 163
@@ -8470,6 +8481,7 @@ EndChar
 StartChar: uni030B
 Encoding: 779 779 268
 Width: 0
+GlyphClass: 4
 Flags: W
 HStem: 490 131
 VStem: -380 171 -254 171
@@ -8482,6 +8494,7 @@ EndChar
 StartChar: uni030C
 Encoding: 780 780 269
 Width: 0
+GlyphClass: 4
 Flags: W
 HStem: 493 135
 VStem: -347 205
@@ -8503,6 +8516,7 @@ EndChar
 StartChar: uni0312
 Encoding: 786 786 270
 Width: 0
+GlyphClass: 4
 Flags: W
 HStem: 458 180
 VStem: 111 99<477.748 543.702>
@@ -8523,6 +8537,7 @@ EndChar
 StartChar: uni0315
 Encoding: 789 789 271
 Width: 0
+GlyphClass: 4
 Flags: W
 HStem: 465 187
 VStem: 173 68<546.578 633.614>
@@ -8544,6 +8559,7 @@ EndChar
 StartChar: dotbelowcomb
 Encoding: 803 803 272
 Width: 0
+GlyphClass: 4
 Flags: W
 HStem: -132 100<-291.939 -225.377>
 VStem: -305 93<-118.333 -44.854>
@@ -8561,6 +8577,7 @@ EndChar
 StartChar: uni0326
 Encoding: 806 806 273
 Width: 0
+GlyphClass: 4
 Flags: W
 HStem: -193 180
 VStem: -302 99<-98.7024 -32.7479>
@@ -8581,6 +8598,7 @@ EndChar
 StartChar: uni0327
 Encoding: 807 807 274
 Width: 0
+GlyphClass: 4
 Flags: W
 HStem: -152 24<-303.269 -242.392> -61 34<-246.556 -229.571> -24 20G<-249.556 -225.556>
 VStem: -323.556 132
@@ -8608,6 +8626,7 @@ EndChar
 StartChar: uni0328
 Encoding: 808 808 275
 Width: 0
+GlyphClass: 4
 Flags: W
 HStem: -218 59<-226.391 -140.308>
 LayerCount: 2
@@ -24433,6 +24452,7 @@ EndChar
 StartChar: uni032D
 Encoding: 813 813 1085
 Width: 0
+GlyphClass: 4
 Flags: W
 HStem: -198 135
 VStem: -367.871 205
@@ -24444,6 +24464,7 @@ EndChar
 StartChar: uni0330
 Encoding: 816 816 1086
 Width: 0
+GlyphClass: 4
 Flags: W
 HStem: -156 42<-236.089 -139.913> -120 42<-361.648 -261.305>
 VStem: -395.804 291
@@ -24455,6 +24476,7 @@ EndChar
 StartChar: uni0331
 Encoding: 817 817 1087
 Width: 0
+GlyphClass: 4
 Flags: W
 HStem: -106 39<-368.044 -148.604>
 VStem: -370 223<-105.572 -67>
@@ -24466,6 +24488,7 @@ EndChar
 StartChar: uni032E
 Encoding: 814 814 1088
 Width: 0
+GlyphClass: 4
 Flags: W
 HStem: -188 46<-294.141 -192.562>
 VStem: -334.816 23<-110.189 -72.895> -149.816 17.8164<-87.2683 -70.9624>
@@ -24477,6 +24500,7 @@ EndChar
 StartChar: uni0324
 Encoding: 804 804 1089
 Width: 0
+GlyphClass: 4
 Flags: W
 HStem: -163 92<-370.376 -306.202 -200.376 -136.202>
 VStem: -382.123 87<-152.076 -83.0918> -212.123 87<-152.076 -83.545>
@@ -24488,6 +24512,7 @@ EndChar
 StartChar: uni0325
 Encoding: 805 805 1090
 Width: 0
+GlyphClass: 4
 Flags: W
 HStem: -243 34<-293.006 -221.229> -98 34<-278.167 -205.294>
 VStem: -331.073 163
