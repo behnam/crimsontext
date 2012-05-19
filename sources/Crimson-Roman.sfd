@@ -12837,6 +12837,7 @@ EndChar
 StartChar: gravecomb.cap
 Encoding: 65564 -1 487
 Width: 240
+GlyphClass: 4
 Flags: W
 HStem: 709 133
 VStem: 25 185
@@ -12855,6 +12856,7 @@ EndChar
 StartChar: acutecomb.cap
 Encoding: 65565 -1 488
 Width: 240
+GlyphClass: 4
 Flags: W
 HStem: 709 133
 VStem: 25 185
@@ -12873,6 +12875,7 @@ EndChar
 StartChar: uni0302.cap
 Encoding: 65566 -1 489
 Width: 262
+GlyphClass: 4
 Flags: W
 HStem: 727.192 132.089
 VStem: 22 228.825
@@ -12894,6 +12897,7 @@ EndChar
 StartChar: uni030A.cap
 Encoding: 65567 -1 490
 Width: 448
+GlyphClass: 4
 Flags: W
 HStem: 502 34<149.334 225.973> 647 34<147.895 226.425>
 VStem: 99 33<553.312 630.353> 242 33<552.832 630.822>
@@ -12916,6 +12920,7 @@ EndChar
 StartChar: tildecomb.cap
 Encoding: 65568 -1 491
 Width: 675
+GlyphClass: 4
 Flags: W
 HStem: 728.22 44.46<224.676 325.668> 774.162 43.72<99.9125 198.953>
 VStem: 72 281.58
@@ -12941,6 +12946,7 @@ EndChar
 StartChar: uni0304.cap
 Encoding: 65569 -1 492
 Width: 399
+GlyphClass: 4
 Flags: W
 HStem: 562 42<68.5379 318.521>
 LayerCount: 2
@@ -12957,6 +12963,7 @@ EndChar
 StartChar: uni0306.cap
 Encoding: 65570 -1 493
 Width: 253
+GlyphClass: 4
 Flags: W
 HStem: 525 46<63.5389 186.461>
 VStem: 16 22<610.001 626.806> 212 22<610.001 626.806>
@@ -12978,6 +12985,7 @@ EndChar
 StartChar: uni0327.cap
 Encoding: 65571 -1 494
 Width: 471
+GlyphClass: 4
 Flags: W
 HStem: -174 28<170.7 246.28> -67 40<220 252.877>
 VStem: 258 44<-139.27 -70.5635>
@@ -13005,6 +13013,7 @@ EndChar
 StartChar: uni0307.cap
 Encoding: 65572 -1 495
 Width: 277
+GlyphClass: 4
 Flags: W
 HStem: 711 100<105.438 188.562>
 VStem: 97 100<719.438 802.562>
@@ -13016,6 +13025,7 @@ EndChar
 StartChar: uni0323.cap
 Encoding: 65573 -1 496
 Width: 277
+GlyphClass: 4
 Flags: W
 HStem: -136 100<105.438 188.562>
 VStem: 97 100<-127.562 -44.4375>
@@ -13027,6 +13037,7 @@ EndChar
 StartChar: uni0305.cap
 Encoding: 65574 -1 497
 Width: 560
+GlyphClass: 4
 Flags: W
 HStem: 739 63<-11.4404 578.903>
 LayerCount: 2
@@ -13037,6 +13048,7 @@ EndChar
 StartChar: hookabovecomb.cap
 Encoding: 65575 -1 498
 Width: 161
+GlyphClass: 4
 Flags: W
 HStem: 507 58<209.359 254.375> 630 21<230.809 268.772>
 VStem: 207 48<513.208 555.301> 275 52<570.087 629.367>
@@ -13064,6 +13076,7 @@ EndChar
 StartChar: uni030B.cap
 Encoding: 65576 -1 499
 Width: 392
+GlyphClass: 4
 Flags: W
 HStem: 709 133<180 200>
 VStem: 25 337
@@ -13088,6 +13101,7 @@ EndChar
 StartChar: uni0308.narrow
 Encoding: 65577 -1 500
 Width: 308
+GlyphClass: 4
 Flags: W
 HStem: 468 98<32.0176 114.299 192.018 274.299>
 VStem: 23 100<476.719 556.942> 183 100<476.719 556.942>
@@ -13110,6 +13124,7 @@ EndChar
 StartChar: uni0308.cap
 Encoding: 65578 -1 501
 Width: 341
+GlyphClass: 4
 Flags: W
 HStem: 712 100<37.4375 120.562 218.438 301.562>
 VStem: 29 100<720.438 803.562> 210 100<720.438 803.562>
@@ -13122,6 +13137,7 @@ EndChar
 StartChar: uni030C.cap
 Encoding: 65579 -1 502
 Width: 262
+GlyphClass: 4
 Flags: W
 HStem: 727.192 132.089
 VStem: 22 228.825
