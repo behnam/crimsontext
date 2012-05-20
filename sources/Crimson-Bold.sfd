@@ -131,15 +131,15 @@ KernClass2: 118+ 89 "'kern' Horizontal Kerning in Latin lookup 0 kerning class 1
  29 guillemotright guilsinglright
  9 parenleft
  25 zero zero.slash zero.prop
- 12 one one.prop
- 12 two two.prop
- 16 three three.prop
- 14 four four.prop
- 14 five five.prop
- 12 six six.prop
- 16 seven seven.prop
- 16 eight eight.prop
- 14 nine nine.prop
+ 8 one.prop
+ 8 two.prop
+ 10 three.prop
+ 9 four.prop
+ 9 five.prop
+ 8 six.prop
+ 10 seven.prop
+ 10 eight.prop
+ 9 nine.prop
  11 bracketleft
  9 braceleft
  7 uni2206
@@ -195,12 +195,12 @@ KernClass2: 118+ 89 "'kern' Horizontal Kerning in Latin lookup 0 kerning class 1
  8 asterisk
  30 hyphen endash emdash afii00208
  25 zero zero.slash zero.prop
- 12 two two.prop
- 14 four four.prop
- 12 six six.prop
- 16 seven seven.prop
- 16 eight eight.prop
- 14 nine nine.prop
+ 8 two.prop
+ 9 four.prop
+ 8 six.prop
+ 10 seven.prop
+ 10 eight.prop
+ 9 nine.prop
  348 C G O Q Ccedilla Ograve Oacute Ocircumflex Otilde Odieresis Oslash Cacute Ccircumflex Cdotaccent Ccaron Gcircumflex Gbreve Gdotaccent Gcommaaccent Omacron Obreve Ohungarumlaut OE Ohorn uni01D1 Oslashacute uni1E08 uni1E20 uni1E4C uni1E4E uni1E50 uni1E52 uni1ECC uni1ECE uni1ED0 uni1ED2 uni1ED4 uni1ED6 uni1ED8 uni1EDA uni1EDC uni1EDE uni1EE0 uni1EE2
  89 S Sacute Scircumflex Scedilla Scaron Scommaaccent uni1E60 uni1E62 uni1E64 uni1E66 uni1E68
  9 backslash
