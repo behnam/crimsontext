@@ -61,56 +61,56 @@ KernClass2: 75+ 59 "'kern' Horizontal Kerning in Latin lookup 0 kerning class 1"
  10 exclamdown
  10 registered
  12 questiondown
- 73 A Agrave Aacute Acircumflex Atilde Adieresis Aring Amacron Abreve Aogonek
- 1 B
- 47 C Ccedilla Cacute Ccircumflex Cdotaccent Ccaron
- 19 D Eth Dcaron Dcroat
- 84 E AE Egrave Eacute Ecircumflex Edieresis Emacron Ebreve Edotaccent Eogonek Ecaron OE
- 1 F
- 44 G Gcircumflex Gbreve Gdotaccent Gcommaaccent
- 97 H I Igrave Iacute Icircumflex Idieresis Hcircumflex Hbar Itilde Imacron Ibreve Iogonek Idotaccent
+ 180 A Agrave Aacute Acircumflex Atilde Adieresis Aring Amacron Abreve Aogonek uni1E00 uni1EA0 Ahookabove uni1EA4 uni1EA6 uni1EA9 uni1EAB uni1EAD uni1EAF uni1EB1 uni1EB3 uni1EB5 uni1EB7
+ 25 B uni1E02 uni1E04 uni1E06
+ 55 C Ccedilla Cacute Ccircumflex Cdotaccent Ccaron uni1E08
+ 59 D Eth Dcaron Dcroat uni1E0A uni1E0C uni1E0E uni1E10 uni1E12
+ 182 E AE Egrave Eacute Ecircumflex Edieresis Emacron Ebreve Edotaccent Eogonek Ecaron OE uni1E14 uni1E16 uni1E18 uni1E1A Edotbelow uni1EBA uni1EBC uni1EBE uni1EC0 uni1EC2 uni1EC4 uni1EC6
+ 9 F uni1E1E
+ 52 G Gcircumflex Gbreve Gdotaccent Gcommaaccent uni1E20
+ 161 H I Igrave Iacute Icircumflex Idieresis Hcircumflex Hbar Itilde Imacron Ibreve Iogonek Idotaccent uni1E22 uni1E26 uni1E28 uni1E2A uni1E2C uni1E2E uni1EC8 uni1ECA
  16 J IJ Jcircumflex
- 14 K Kcommaaccent
- 40 L Lacute Lcommaaccent Lcaron Ldot Lslash
- 1 M
- 39 N Ntilde Nacute Ncommaaccent Ncaron Eng
- 80 O Ograve Oacute Ocircumflex Otilde Odieresis Oslash Omacron Obreve Ohungarumlaut
- 1 P
+ 38 K Kcommaaccent uni1E30 uni1E32 uni1E34
+ 72 L Lacute Lcommaaccent Lcaron Ldot Lslash uni1E36 uni1E38 uni1E3A uni1E3C
+ 25 M uni1E3E uni1E40 uni1E42
+ 71 N Ntilde Nacute Ncommaaccent Ncaron Eng uni1E44 uni1E46 uni1E48 uni1E4A
+ 182 O Ograve Oacute Ocircumflex Otilde Odieresis Oslash Omacron Obreve Ohungarumlaut Ohorn uni1ECC uni1ECE uni1ED0 uni1ED2 uni1ED4 uni1ED6 uni1ED8 uni1EDA uni1EDC uni1EDE uni1EE0 uni1EE2
+ 17 P uni1E54 uni1E56
  1 Q
- 28 R Racute Rcommaaccent Rcaron
- 49 S Sacute Scircumflex Scedilla Scaron Scommaaccent
- 34 T Tcommaaccent Tcaron Tbar uni021A
- 87 U Ugrave Uacute Ucircumflex Udieresis Utilde Umacron Ubreve Uring Uhungarumlaut Uogonek
- 1 V
- 13 W Wcircumflex
- 1 X
- 30 Y Yacute Ycircumflex Ydieresis
- 26 Z Zacute Zdotaccent Zcaron
+ 60 R Racute Rcommaaccent Rcaron uni1E58 uni1E5A uni1E5C uni1E5E
+ 89 S Sacute Scircumflex Scedilla Scaron Scommaaccent uni1E60 uni1E62 uni1E64 uni1E66 uni1E68
+ 66 T Tcommaaccent Tcaron Tbar uni021A uni1E6A uni1E6C uni1E6E uni1E70
+ 189 U Ugrave Uacute Ucircumflex Udieresis Utilde Umacron Ubreve Uring Uhungarumlaut Uogonek Uhorn uni1E72 uni1E74 uni1E76 uni1E78 uni1E7A uni1EE4 uni1EE6 uni1EE8 uni1EEA uni1EEC uni1EEE uni1EF0
+ 17 V uni1E7C uni1E7E
+ 53 W Wcircumflex Wgrave Wacute Wdieresis uni1E86 uni1E88
+ 17 X uni1E8A uni1E8C
+ 69 Y Yacute Ycircumflex Ydieresis uni1E8E Ygrave uni1EF4 uni1EF6 uni1EF8
+ 50 Z Zacute Zdotaccent Zcaron uni1E90 uni1E92 uni1E94
  5 Thorn
- 73 a agrave aacute acircumflex atilde adieresis aring amacron abreve aogonek
- 11 b f_b f_f_b
- 47 c ccedilla cacute ccircumflex cdotaccent ccaron
- 15 d dcaron dcroat
- 84 e ae egrave eacute ecircumflex edieresis emacron ebreve edotaccent eogonek ecaron oe
- 5 f f_f
- 44 g gcircumflex gbreve gdotaccent gcommaaccent
- 86 i igrave iacute icircumflex idieresis itilde imacron ibreve iogonek dotlessi f_i f_f_i
+ 113 a agrave aacute acircumflex atilde adieresis aring amacron abreve aogonek uni1E01 uni1EA1 uni1EA3 uni1EA5 uni1EA7
+ 35 b uni1E03 uni1E05 uni1E07 f_b f_f_b
+ 55 c ccedilla cacute ccircumflex cdotaccent ccaron uni1E09
+ 55 d dcaron dcroat uni1E0B uni1E0D uni1E0F uni1E11 uni1E13
+ 180 e ae egrave eacute ecircumflex edieresis emacron ebreve edotaccent eogonek ecaron oe uni1E15 uni1E17 uni1E19 uni1E1B uni1EB9 uni1EBB uni1EBD uni1EBF uni1EC1 uni1EC3 uni1EC5 uni1EC7
+ 19 f longs uni1E1F f_f
+ 52 g gcircumflex gbreve gdotaccent gcommaaccent uni1E21
+ 124 i igrave iacute icircumflex idieresis itilde imacron ibreve iogonek dotlessi uni1E2D uni1E2F uni1EC9 uni1ECB f_i f_f_i i.TRK
  34 j ij jcircumflex uni0237 f_j f_f_j
- 37 k kcommaaccent kgreenlandic f_k f_f_k
- 45 l lacute lcommaaccent lcaron lslash f_l f_f_l
- 60 h m n ntilde hcircumflex hbar nacute ncommaaccent ncaron T_h
- 80 o ograve oacute ocircumflex otilde odieresis oslash omacron obreve ohungarumlaut
- 7 p thorn
+ 61 k kcommaaccent kgreenlandic uni1E31 uni1E33 uni1E35 f_k f_f_k
+ 77 l lacute lcommaaccent lcaron lslash uni1E37 uni1E39 uni1E3B uni1E3D f_l f_f_l
+ 186 h m n ntilde hcircumflex hbar nacute ncommaaccent ncaron napostrophe uni1E23 uni1E25 uni1E27 uni1E29 uni1E2B uni1E3F uni1E41 uni1E43 uni1E45 uni1E47 uni1E49 uni1E4B uni1E96 f_h f_f_h T_h
+ 208 o ograve oacute ocircumflex otilde odieresis oslash omacron obreve ohungarumlaut uni1E4D uni1E4F uni1E51 uni1E53 uni1ECD uni1ECF uni1ED1 uni1ED3 uni1ED5 uni1ED7 uni1ED9 uni1EDB uni1EDD uni1EDF uni1EE1 uni1EE3
+ 23 p thorn uni1E55 uni1E57
  1 q
- 28 r racute rcommaaccent rcaron
- 49 s sacute scircumflex scedilla scaron scommaaccent
- 34 t tcommaaccent tcaron tbar uni021B
- 87 u ugrave uacute ucircumflex udieresis utilde umacron ubreve uring uhungarumlaut uogonek
- 1 v
- 13 w wcircumflex
- 1 x
- 30 y yacute ydieresis ycircumflex
- 26 z zacute zdotaccent zcaron
+ 60 r racute rcommaaccent rcaron uni1E59 uni1E5B uni1E5D uni1E5F
+ 89 s sacute scircumflex scedilla scaron scommaaccent uni1E61 uni1E63 uni1E65 uni1E67 uni1E69
+ 74 t tcommaaccent tcaron tbar uni021B uni1E6B uni1E6D uni1E6F uni1E71 uni1E97
+ 183 u ugrave uacute ucircumflex udieresis utilde umacron ubreve uring uhungarumlaut uogonek uni1E73 uni1E75 uni1E77 uni1E79 uni1E7B uni1EE5 uni1EE7 uni1EE9 uni1EEB uni1EED uni1EEF uni1EF1
+ 17 v uni1E7D uni1E7F
+ 61 w wcircumflex wgrave wacute wdieresis uni1E87 uni1E89 uni1E98
+ 17 x uni1E8B uni1E8D
+ 77 y yacute ydieresis ycircumflex uni1E8F uni1E99 ygrave uni1EF5 uni1EF7 uni1EF9
+ 50 z zacute zdotaccent zcaron uni1E91 uni1E93 uni1E95
  10 germandbls
  4 ldot
  3 eng
@@ -132,60 +132,60 @@ KernClass2: 75+ 59 "'kern' Horizontal Kerning in Latin lookup 0 kerning class 1"
  9 braceleft
  7 uni2206
  2 mu
- 73 A Agrave Aacute Acircumflex Atilde Adieresis Aring Amacron Abreve Aogonek
- 296 B D E F H I K L P R Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Thorn Dcaron Dcroat Emacron Ebreve Edotaccent Eogonek Ecaron Hcircumflex Hbar Itilde Imacron Ibreve Iogonek Idotaccent IJ Kcommaaccent Lacute Lcommaaccent Lcaron Ldot Lslash Racute Rcommaaccent Rcaron
+ 116 A Agrave Aacute Acircumflex Atilde Adieresis Aring Amacron Abreve Aogonek uni1E00 uni1EA0 Ahookabove uni1EA4 uni1EA6
+ 626 B D E F H I K L P R Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Thorn Dcaron Dcroat Emacron Ebreve Edotaccent Eogonek Ecaron Hcircumflex Hbar Itilde Imacron Ibreve Iogonek Idotaccent IJ Kcommaaccent Lacute Lcommaaccent Lcaron Ldot Lslash Racute Rcommaaccent Rcaron uni1E02 uni1E04 uni1E06 uni1E0A uni1E0C uni1E0E uni1E10 uni1E12 uni1E14 uni1E16 uni1E18 uni1E1A uni1E1E uni1E22 uni1E26 uni1E28 uni1E2A uni1E2C uni1E2E uni1E32 uni1E34 uni1E36 uni1E38 uni1E3A uni1E3C uni1E54 uni1E56 uni1E58 uni1E5A uni1E5C uni1E5E Edotbelow uni1EBA uni1EBC uni1EBE uni1EC0 uni1EC2 uni1EC4 uni1EC6 uni1EC8 uni1ECA
  13 J Jcircumflex
- 39 N Ntilde Nacute Ncommaaccent Ncaron Eng
- 13 W Wcircumflex
- 30 Y Yacute Ycircumflex Ydieresis
- 38 T Tcommaaccent Tcaron Tbar uni021A T_h
- 87 U Ugrave Uacute Ucircumflex Udieresis Utilde Umacron Ubreve Uring Uhungarumlaut Uogonek
- 76 f germandbls f_f f_i f_f_i f_l f_f_l f_b f_f_b f_k f_f_k f_h f_f_h f_j f_f_j
+ 71 N Ntilde Nacute Ncommaaccent Ncaron Eng uni1E44 uni1E46 uni1E48 uni1E4A
+ 53 W Wcircumflex Wgrave Wacute Wdieresis uni1E86 uni1E88
+ 69 Y Yacute Ycircumflex Ydieresis uni1E8E Ygrave uni1EF4 uni1EF6 uni1EF8
+ 70 T Tcommaaccent Tcaron Tbar uni021A uni1E6A uni1E6C uni1E6E uni1E70 T_h
+ 189 U Ugrave Uacute Ucircumflex Udieresis Utilde Umacron Ubreve Uring Uhungarumlaut Uogonek Uhorn uni1E72 uni1E74 uni1E76 uni1E78 uni1E7A uni1EE4 uni1EE6 uni1EE8 uni1EEA uni1EEC uni1EEE uni1EF0
+ 90 f germandbls longs uni1E1F f_f f_i f_f_i f_l f_f_l f_b f_f_b f_k f_f_k f_h f_f_h f_j f_f_j
  20 quotedbl quotesingle
  8 asterisk
  30 hyphen endash emdash afii00208
  5 slash
- 176 C G O Ccedilla Ograve Oacute Ocircumflex Otilde Odieresis Oslash Cacute Ccircumflex Cdotaccent Ccaron Gcircumflex Gbreve Gdotaccent Gcommaaccent Omacron Obreve Ohungarumlaut OE
+ 294 C G O Ccedilla Ograve Oacute Ocircumflex Otilde Odieresis Oslash Cacute Ccircumflex Cdotaccent Ccaron Gcircumflex Gbreve Gdotaccent Gcommaaccent Omacron Obreve Ohungarumlaut OE Ohorn uni1E08 uni1E20 uni1ECC uni1ECE uni1ED0 uni1ED2 uni1ED4 uni1ED6 uni1ED8 uni1EDA uni1EDC uni1EDE uni1EE0 uni1EE2
  1 Q
- 1 V
+ 17 V uni1E7C uni1E7E
  9 backslash
  12 bracketright
- 1 b
- 47 c ccedilla cacute ccircumflex cdotaccent ccaron
- 44 g gcircumflex gbreve gdotaccent gcommaaccent
- 79 i igrave iacute icircumflex idieresis itilde imacron ibreve iogonek dotlessi ij
+ 25 b uni1E03 uni1E05 uni1E07
+ 55 c ccedilla cacute ccircumflex cdotaccent ccaron uni1E09
+ 52 g gcircumflex gbreve gdotaccent gcommaaccent uni1E21
+ 111 i igrave iacute icircumflex idieresis itilde imacron ibreve iogonek dotlessi ij uni1E2D uni1E2F uni1EC9 uni1ECB
  21 j jcircumflex uni0237
- 40 l lacute lcommaaccent lcaron ldot lslash
- 83 m n r ntilde kgreenlandic nacute ncommaaccent ncaron eng racute rcommaaccent rcaron
- 162 e o egrave eacute ecircumflex edieresis ograve oacute ocircumflex otilde odieresis oslash emacron ebreve edotaccent eogonek ecaron omacron obreve ohungarumlaut oe
- 1 p
- 34 t tcommaaccent tcaron tbar uni021B
- 87 u ugrave uacute ucircumflex udieresis utilde umacron ubreve uring uhungarumlaut uogonek
- 15 v w wcircumflex
- 30 y yacute ydieresis ycircumflex
+ 72 l lacute lcommaaccent lcaron ldot lslash uni1E37 uni1E39 uni1E3B uni1E3D
+ 183 m n r ntilde kgreenlandic nacute ncommaaccent ncaron napostrophe eng racute rcommaaccent rcaron uni1E3F uni1E41 uni1E43 uni1E45 uni1E47 uni1E49 uni1E4B uni1E59 uni1E5B uni1E5D uni1E5F
+ 360 e o egrave eacute ecircumflex edieresis ograve oacute ocircumflex otilde odieresis oslash emacron ebreve edotaccent eogonek ecaron omacron obreve ohungarumlaut oe ohorn uni1E15 uni1E17 uni1E19 uni1E1B uni1EB9 uni1EBB uni1EBD uni1EBF uni1EC1 uni1EC3 uni1EC5 uni1EC7 uni1ECD uni1ECF uni1ED1 uni1ED3 uni1ED5 uni1ED7 uni1ED9 uni1EDB uni1EDD uni1EDF uni1EE1 uni1EE3
+ 17 p uni1E55 uni1E57
+ 74 t tcommaaccent tcaron tbar uni021B uni1E6B uni1E6D uni1E6F uni1E71 uni1E97
+ 183 u ugrave uacute ucircumflex udieresis utilde umacron ubreve uring uhungarumlaut uogonek uni1E73 uni1E75 uni1E77 uni1E79 uni1E7B uni1EE5 uni1EE7 uni1EE9 uni1EEB uni1EED uni1EEF uni1EF1
+ 79 v w wcircumflex uni1E7D uni1E7F wgrave wacute wdieresis uni1E87 uni1E89 uni1E98
+ 61 y yacute ydieresis ycircumflex uni1E8F ygrave uni1EF5 uni1EF7
  10 registered
  22 quoteleft quotedblleft
  24 quoteright quotedblright
  27 guillemotleft guilsinglleft
- 26 z zacute zdotaccent zcaron
- 1 x
+ 50 z zacute zdotaccent zcaron uni1E91 uni1E93 uni1E95
+ 17 x uni1E8B uni1E8D
  10 parenright
- 1 M
- 1 X
- 26 Z Zacute Zdotaccent Zcaron
+ 25 M uni1E3E uni1E40 uni1E42
+ 17 X uni1E8A uni1E8C
+ 50 Z Zacute Zdotaccent Zcaron uni1E90 uni1E92 uni1E94
  2 AE
  49 comma period quotesinglbase quotedblbase ellipsis
- 73 a agrave aacute acircumflex atilde adieresis aring amacron abreve aogonek
- 15 d dcaron dcroat
- 49 s sacute scircumflex scedilla scaron scommaaccent
+ 177 a agrave aacute acircumflex atilde adieresis aring amacron abreve aogonek uni1E01 uni1EA1 uni1EA3 uni1EA5 uni1EA7 uni1EA9 uni1EAB uni1EAD uni1EAF uni1EB1 uni1EB3 uni1EB5 uni1EB7
+ 55 d dcaron dcroat uni1E0B uni1E0D uni1E0F uni1E11 uni1E13
+ 89 s sacute scircumflex scedilla scaron scommaaccent uni1E61 uni1E63 uni1E65 uni1E67 uni1E69
  1 q
  2 ae
  3 eth
  9 ampersand
  15 colon semicolon
- 33 h k hcircumflex hbar kcommaaccent
+ 105 h k hcircumflex hbar kcommaaccent uni1E23 uni1E25 uni1E27 uni1E29 uni1E2B uni1E31 uni1E33 uni1E35 uni1E96
  29 guillemotright guilsinglright
- 49 S Sacute Scircumflex Scedilla Scaron Scommaaccent
+ 89 S Sacute Scircumflex Scedilla Scaron Scommaaccent uni1E60 uni1E62 uni1E64 uni1E66 uni1E68
  10 braceright
  9 four.prop
  2 at
@@ -10541,7 +10541,6 @@ LayerCount: 2
 Fore
 Refer: 249 776 N 1 0 0 1 450 113 2
 Refer: 84 116 N 1 0 0 1 0 0 3
-Colour: ff00
 EndChar
 
 StartChar: Ygrave
@@ -11781,7 +11780,6 @@ LayerCount: 2
 Fore
 Refer: 78 110 N 1 0 0 1 2 0 2
 Refer: 255 789 N 1 0 0 1 -118 0 2
-Colour: ff00
 EndChar
 
 StartChar: uni1E00
@@ -11794,7 +11792,6 @@ LayerCount: 2
 Fore
 Refer: 711 805 N 1 0 0 1 465 0 2
 Refer: 33 65 N 1 0 0 1 -1.00052 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1E01
@@ -11807,7 +11804,6 @@ LayerCount: 2
 Fore
 Refer: 711 805 N 1 0 0 1 407.611 -3 2
 Refer: 65 97 N 1 0 0 1 0 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1E02
@@ -11820,7 +11816,6 @@ LayerCount: 2
 Fore
 Refer: 34 66 N 1 0 0 1 -0.99913 0 3
 Refer: 267 -1 N 1 0 0 1 73.0018 15 2
-Colour: ff00
 EndChar
 
 StartChar: uni1E03
@@ -11833,7 +11828,6 @@ LayerCount: 2
 Fore
 Refer: 66 98 N 1 0 0 1 0 0 3
 Refer: 248 775 N 1 0 0 1 471 256 2
-Colour: ff00
 EndChar
 
 StartChar: uni1E04
@@ -11846,7 +11840,6 @@ LayerCount: 2
 Fore
 Refer: 34 66 N 1 0 0 1 -0.99913 0 3
 Refer: 268 -1 N 1 0 0 1 86.0018 -28 2
-Colour: ff00
 EndChar
 
 StartChar: uni1E05
@@ -11859,7 +11852,6 @@ LayerCount: 2
 Fore
 Refer: 258 803 N 1 0 0 1 387 -35 2
 Refer: 66 98 N 1 0 0 1 0 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1E06
@@ -11872,7 +11864,6 @@ LayerCount: 2
 Fore
 Refer: 479 817 N 1 0 0 1 447.002 3 2
 Refer: 34 66 N 1 0 0 1 -0.99913 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1E07
@@ -11885,7 +11876,6 @@ LayerCount: 2
 Fore
 Refer: 479 817 N 1 0 0 1 384 0 2
 Refer: 66 98 N 1 0 0 1 -21 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1E08
@@ -11898,7 +11888,6 @@ LayerCount: 2
 Fore
 Refer: 133 199 N 1 0 0 1 0 0 3
 Refer: 260 -1 N 1 0 0 1 257 17 2
-Colour: ff00
 EndChar
 
 StartChar: uni1E09
@@ -11911,7 +11900,6 @@ LayerCount: 2
 Fore
 Refer: 165 231 N 1 0 0 1 0 0 3
 Refer: 191 769 N 1 0 0 1 561 12 2
-Colour: ff00
 EndChar
 
 StartChar: uni1E0A
@@ -11924,7 +11912,6 @@ LayerCount: 2
 Fore
 Refer: 36 68 N 1 0 0 1 -0.99913 0 3
 Refer: 267 -1 N 1 0 0 1 101.002 15 2
-Colour: ff00
 EndChar
 
 StartChar: uni1E0B
@@ -11937,7 +11924,6 @@ LayerCount: 2
 Fore
 Refer: 68 100 N 1 0 0 1 0 0 3
 Refer: 248 775 N 1 0 0 1 665 256 2
-Colour: ff00
 EndChar
 
 StartChar: uni1E12
@@ -11950,7 +11936,6 @@ LayerCount: 2
 Fore
 Refer: 477 813 N 1 0 0 1 486 0 2
 Refer: 36 68 N 1 0 0 1 -0.99913 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1E13
@@ -11963,7 +11948,6 @@ LayerCount: 2
 Fore
 Refer: 477 813 N 1 0 0 1 403.998 -3 2
 Refer: 68 100 N 1 0 0 1 0 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1E14
@@ -11976,7 +11960,6 @@ LayerCount: 2
 Fore
 Refer: 289 274 N 1 0 0 1 -0.000318528 0 3
 Refer: 259 -1 N 1 0 0 1 48 73 2
-Colour: ff00
 EndChar
 
 StartChar: uni1E15
@@ -11989,7 +11972,6 @@ LayerCount: 2
 Fore
 Refer: 190 768 N 1 0 0 1 513 105 2
 Refer: 290 275 N 1 0 0 1 0 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1E16
@@ -12002,7 +11984,6 @@ LayerCount: 2
 Fore
 Refer: 289 274 N 1 0 0 1 -0.000318528 0 3
 Refer: 260 -1 N 1 0 0 1 142 73 2
-Colour: ff00
 EndChar
 
 StartChar: uni1E17
@@ -12015,7 +11996,6 @@ LayerCount: 2
 Fore
 Refer: 290 275 N 1 0 0 1 0 0 3
 Refer: 191 769 N 1 0 0 1 522 108 2
-Colour: ff00
 EndChar
 
 StartChar: uni1E18
@@ -12028,7 +12008,6 @@ LayerCount: 2
 Fore
 Refer: 477 813 N 1 0 0 1 465.998 -1 2
 Refer: 37 69 N 1 0 0 1 -0.000159264 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1E19
@@ -12041,7 +12020,6 @@ LayerCount: 2
 Fore
 Refer: 477 813 N 1 0 0 1 372.998 -3 2
 Refer: 69 101 N 1 0 0 1 1.9998 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1E1A
@@ -12054,7 +12032,6 @@ LayerCount: 2
 Fore
 Refer: 478 816 N 1 0 0 1 453.001 -1 2
 Refer: 37 69 N 1 0 0 1 -0.000159264 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1E1B
@@ -12067,7 +12044,6 @@ LayerCount: 2
 Fore
 Refer: 478 816 N 1 0 0 1 355 -3 2
 Refer: 69 101 N 1 0 0 1 0.998886 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1E1E
@@ -12080,7 +12056,6 @@ LayerCount: 2
 Fore
 Refer: 267 -1 N 1 0 0 1 82.9997 15 2
 Refer: 38 70 N 1 0 0 1 -0.000159264 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1E1F
@@ -12093,7 +12068,6 @@ LayerCount: 2
 Fore
 Refer: 70 102 N 1 0 0 1 0 0 3
 Refer: 248 775 N 1 0 0 1 595 256 2
-Colour: ff00
 EndChar
 
 StartChar: uni1E20
@@ -12106,7 +12080,6 @@ LayerCount: 2
 Fore
 Refer: 39 71 N 1 0 0 1 0 0 3
 Refer: 264 -1 N 1 0 0 1 159 170 2
-Colour: ff00
 EndChar
 
 StartChar: uni1E21
@@ -12119,7 +12092,6 @@ LayerCount: 2
 Fore
 Refer: 71 103 N 1 0 0 1 0 0 3
 Refer: 245 772 N 1 0 0 1 495 17 2
-Colour: ff00
 EndChar
 
 StartChar: uni1E22
@@ -12132,7 +12104,6 @@ LayerCount: 2
 Fore
 Refer: 267 -1 N 1 0 0 1 169 15 2
 Refer: 40 72 N 1 0 0 1 -0.000159264 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1E23
@@ -12145,7 +12116,6 @@ LayerCount: 2
 Fore
 Refer: 72 104 N 1 0 0 1 0 0 3
 Refer: 248 775 N 1 0 0 1 455 256 2
-Colour: ff00
 EndChar
 
 StartChar: uni1E26
@@ -12158,7 +12128,6 @@ LayerCount: 2
 Fore
 Refer: 40 72 N 1 0 0 1 -0.000159264 0 3
 Refer: 272 -1 N 1 0 0 1 139 14 2
-Colour: ff00
 EndChar
 
 StartChar: uni1E27
@@ -12171,7 +12140,6 @@ LayerCount: 2
 Fore
 Refer: 249 776 N 1 0 0 1 445 260 2
 Refer: 72 104 N 1 0 0 1 0 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1E2C
@@ -12184,7 +12152,6 @@ LayerCount: 2
 Fore
 Refer: 478 816 N 1 0 0 1 324 0 2
 Refer: 41 73 N 1 0 0 1 0.998886 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1E2D
@@ -12197,7 +12164,6 @@ LayerCount: 2
 Fore
 Refer: 478 816 N 1 0 0 1 315 -3 2
 Refer: 73 105 N 1 0 0 1 0.998886 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1E2E
@@ -12210,7 +12176,6 @@ LayerCount: 2
 Fore
 Refer: 141 207 N 1 0 0 1 -0.000318528 0 3
 Refer: 260 -1 N 1 0 0 1 82.999 164 2
-Colour: ff00
 EndChar
 
 StartChar: uni1E2F
@@ -12223,7 +12188,6 @@ LayerCount: 2
 Fore
 Refer: 173 239 N 1 0 0 1 -3 0 3
 Refer: 191 769 N 1 0 0 1 494 146 2
-Colour: ff00
 EndChar
 
 StartChar: uni1E30
@@ -12236,7 +12200,6 @@ LayerCount: 2
 Fore
 Refer: 260 -1 N 1 0 0 1 245 12 2
 Refer: 43 75 N 1 0 0 1 -0.000159264 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1E31
@@ -12249,7 +12212,6 @@ LayerCount: 2
 Fore
 Refer: 75 107 N 1 0 0 1 0 0 3
 Refer: 191 769 N 1 0 0 1 518 262 2
-Colour: ff00
 EndChar
 
 StartChar: uni1E32
@@ -12262,7 +12224,6 @@ LayerCount: 2
 Fore
 Refer: 268 -1 N 1 0 0 1 144 -28 2
 Refer: 43 75 N 1 0 0 1 -0.000159264 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1E33
@@ -12275,7 +12236,6 @@ LayerCount: 2
 Fore
 Refer: 258 803 N 1 0 0 1 410 -34 2
 Refer: 75 107 N 1 0 0 1 0 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1E34
@@ -12288,7 +12248,6 @@ LayerCount: 2
 Fore
 Refer: 479 817 N 1 0 0 1 518 3 2
 Refer: 43 75 N 1 0 0 1 -0.000159264 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1E35
@@ -12301,7 +12260,6 @@ LayerCount: 2
 Fore
 Refer: 479 817 N 1 0 0 1 422 1 2
 Refer: 75 107 N 1 0 0 1 0 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1E36
@@ -12314,7 +12272,6 @@ LayerCount: 2
 Fore
 Refer: 268 -1 N 1 0 0 1 104.001 -29 2
 Refer: 44 76 N 1 0 0 1 -0.999565 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1E37
@@ -12327,7 +12284,6 @@ LayerCount: 2
 Fore
 Refer: 258 803 N 1 0 0 1 306 -35 2
 Refer: 76 108 N 1 0 0 1 -1.00019 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1E38
@@ -12340,7 +12296,6 @@ LayerCount: 2
 Fore
 Refer: 529 7734 N 1 0 0 1 0.000434875 0 3
 Refer: 264 -1 N 1 0 0 1 -30.9987 169 2
-Colour: ff00
 EndChar
 
 StartChar: uni1E39
@@ -12353,7 +12308,6 @@ LayerCount: 2
 Fore
 Refer: 530 7735 N 1 0 0 1 0 0 3
 Refer: 245 772 N 1 0 0 1 474 256 2
-Colour: ff00
 EndChar
 
 StartChar: uni1E3A
@@ -12366,7 +12320,6 @@ LayerCount: 2
 Fore
 Refer: 479 817 N 1 0 0 1 466.001 2 2
 Refer: 44 76 N 1 0 0 1 0.000434875 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1E3B
@@ -12379,7 +12332,6 @@ LayerCount: 2
 Fore
 Refer: 479 817 N 1 0 0 1 328 0 2
 Refer: 76 108 N 1 0 0 1 -1 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1E3C
@@ -12392,7 +12344,6 @@ LayerCount: 2
 Fore
 Refer: 477 813 N 1 0 0 1 461.999 -1 2
 Refer: 44 76 N 1 0 0 1 0.000434875 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1E3D
@@ -12405,7 +12356,6 @@ LayerCount: 2
 Fore
 Refer: 477 813 N 1 0 0 1 302.998 -3 2
 Refer: 76 108 N 1 0 0 1 -20.0002 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1E3E
@@ -12418,7 +12368,6 @@ LayerCount: 2
 Fore
 Refer: 260 -1 N 1 0 0 1 336 32 2
 Refer: 45 77 N 1 0 0 1 0 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1E3F
@@ -12431,7 +12380,6 @@ LayerCount: 2
 Fore
 Refer: 77 109 N 1 0 0 1 0 0 3
 Refer: 191 769 N 1 0 0 1 699 12 2
-Colour: ff00
 EndChar
 
 StartChar: uni1E40
@@ -12444,7 +12392,6 @@ LayerCount: 2
 Fore
 Refer: 267 -1 N 1 0 0 1 248 15 2
 Refer: 45 77 N 1 0 0 1 0 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1E41
@@ -12457,7 +12404,6 @@ LayerCount: 2
 Fore
 Refer: 77 109 N 1 0 0 1 0 0 3
 Refer: 248 775 N 1 0 0 1 640 6 2
-Colour: ff00
 EndChar
 
 StartChar: uni1E42
@@ -12470,7 +12416,6 @@ LayerCount: 2
 Fore
 Refer: 268 -1 N 1 0 0 1 233 -28 2
 Refer: 45 77 N 1 0 0 1 0 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1E43
@@ -12483,7 +12428,6 @@ LayerCount: 2
 Fore
 Refer: 258 803 N 1 0 0 1 556 -35 2
 Refer: 77 109 N 1 0 0 1 0 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1E44
@@ -12496,7 +12440,6 @@ LayerCount: 2
 Fore
 Refer: 267 -1 N 1 0 0 1 174 15 2
 Refer: 46 78 N 1 0 0 1 -0.000211716 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1E45
@@ -12509,7 +12452,6 @@ LayerCount: 2
 Fore
 Refer: 78 110 N 1 0 0 1 0 0 3
 Refer: 248 775 N 1 0 0 1 538 6 2
-Colour: ff00
 EndChar
 
 StartChar: uni1E46
@@ -12522,7 +12464,6 @@ LayerCount: 2
 Fore
 Refer: 268 -1 N 1 0 0 1 194 -30 2
 Refer: 46 78 N 1 0 0 1 -0.000211716 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1E47
@@ -12535,7 +12476,6 @@ LayerCount: 2
 Fore
 Refer: 258 803 N 1 0 0 1 463 -35 2
 Refer: 78 110 N 1 0 0 1 0 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1E48
@@ -12548,7 +12488,6 @@ LayerCount: 2
 Fore
 Refer: 479 817 N 1 0 0 1 556 1 2
 Refer: 46 78 N 1 0 0 1 -0.000423432 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1E49
@@ -12561,7 +12500,6 @@ LayerCount: 2
 Fore
 Refer: 479 817 N 1 0 0 1 457 0 2
 Refer: 78 110 N 1 0 0 1 0 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1E4A
@@ -12574,7 +12512,6 @@ LayerCount: 2
 Fore
 Refer: 477 813 N 1 0 0 1 553.998 -2 2
 Refer: 46 78 N 1 0 0 1 -0.000423432 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1E4B
@@ -12587,7 +12524,6 @@ LayerCount: 2
 Fore
 Refer: 477 813 N 1 0 0 1 442.998 -3 2
 Refer: 78 110 N 1 0 0 1 0 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1E4C
@@ -12600,7 +12536,6 @@ LayerCount: 2
 Fore
 Refer: 147 213 N 1 0 0 1 0 0 3
 Refer: 260 -1 N 1 0 0 1 226 155 2
-Colour: ff00
 EndChar
 
 StartChar: uni1E4D
@@ -12613,7 +12548,6 @@ LayerCount: 2
 Fore
 Refer: 179 245 N 1 0 0 1 0 0 3
 Refer: 191 769 N 1 0 0 1 559 125 2
-Colour: ff00
 EndChar
 
 StartChar: uni1E4E
@@ -12626,7 +12560,6 @@ LayerCount: 2
 Fore
 Refer: 272 -1 N 1 0 0 1 155 145 2
 Refer: 147 213 N 1 0 0 1 0 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1E4F
@@ -12639,7 +12572,6 @@ LayerCount: 2
 Fore
 Refer: 249 776 N 1 0 0 1 553 151 2
 Refer: 179 245 N 1 0 0 1 0 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1E50
@@ -12652,7 +12584,6 @@ LayerCount: 2
 Fore
 Refer: 259 -1 N 1 0 0 1 138 73 2
 Refer: 332 332 N 1 0 0 1 0 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1E51
@@ -12665,7 +12596,6 @@ LayerCount: 2
 Fore
 Refer: 190 768 N 1 0 0 1 536 105 2
 Refer: 333 333 N 1 0 0 1 0 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1E52
@@ -12678,7 +12608,6 @@ LayerCount: 2
 Fore
 Refer: 260 -1 N 1 0 0 1 192 73 2
 Refer: 332 332 N 1 0 0 1 0 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1E53
@@ -12691,7 +12620,6 @@ LayerCount: 2
 Fore
 Refer: 191 769 N 1 0 0 1 546 108 2
 Refer: 333 333 N 1 0 0 1 0 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1E54
@@ -12704,7 +12632,6 @@ LayerCount: 2
 Fore
 Refer: 48 80 N 1 0 0 1 -0.000318528 0 3
 Refer: 260 -1 N 1 0 0 1 122 32 2
-Colour: ff00
 EndChar
 
 StartChar: uni1E55
@@ -12717,7 +12644,6 @@ LayerCount: 2
 Fore
 Refer: 80 112 N 1 0 0 1 0.000144958 0 3
 Refer: 191 769 N 1 0 0 1 572 14 2
-Colour: ff00
 EndChar
 
 StartChar: uni1E56
@@ -12730,7 +12656,6 @@ LayerCount: 2
 Fore
 Refer: 267 -1 N 1 0 0 1 60.9997 15 2
 Refer: 48 80 N 1 0 0 1 -0.000159264 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1E57
@@ -12743,7 +12668,6 @@ LayerCount: 2
 Fore
 Refer: 80 112 N 1 0 0 1 0.000144958 0 3
 Refer: 248 775 N 1 0 0 1 544 8 2
-Colour: ff00
 EndChar
 
 StartChar: uni1E58
@@ -12756,7 +12680,6 @@ LayerCount: 2
 Fore
 Refer: 267 -1 N 1 0 0 1 68.9997 15 2
 Refer: 50 82 N 1 0 0 1 -0.000159264 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1E59
@@ -12769,7 +12692,6 @@ LayerCount: 2
 Fore
 Refer: 82 114 N 1 0 0 1 0 0 3
 Refer: 248 775 N 1 0 0 1 480 6 2
-Colour: ff00
 EndChar
 
 StartChar: uni1E5A
@@ -12782,7 +12704,6 @@ LayerCount: 2
 Fore
 Refer: 268 -1 N 1 0 0 1 131 -28 2
 Refer: 50 82 N 1 0 0 1 -0.000159264 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1E5B
@@ -12795,7 +12716,6 @@ LayerCount: 2
 Fore
 Refer: 258 803 N 1 0 0 1 320 -32 2
 Refer: 82 114 N 1 0 0 1 -0.000190735 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1E5C
@@ -12808,7 +12728,6 @@ LayerCount: 2
 Fore
 Refer: 565 7770 N 1 0 0 1 -0.000159264 0 3
 Refer: 264 -1 N 1 0 0 1 55.9995 169 2
-Colour: ff00
 EndChar
 
 StartChar: uni1E5D
@@ -12821,7 +12740,6 @@ LayerCount: 2
 Fore
 Refer: 566 7771 N 1 0 0 1 -0.000190735 0 3
 Refer: 245 772 N 1 0 0 1 502 6 2
-Colour: ff00
 EndChar
 
 StartChar: uni1E5E
@@ -12834,7 +12752,6 @@ LayerCount: 2
 Fore
 Refer: 479 817 N 1 0 0 1 510 3 2
 Refer: 50 82 N 1 0 0 1 -0.000159264 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1E5F
@@ -12847,7 +12764,6 @@ LayerCount: 2
 Fore
 Refer: 479 817 N 1 0 0 1 384 3 2
 Refer: 82 114 N 1 0 0 1 0 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1E60
@@ -12860,7 +12776,6 @@ LayerCount: 2
 Fore
 Refer: 267 -1 N 1 0 0 1 50.9991 16 2
 Refer: 51 83 N 1 0 0 1 -0.000415802 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1E61
@@ -12873,7 +12788,6 @@ LayerCount: 2
 Fore
 Refer: 83 115 N 1 0 0 1 0 0 3
 Refer: 248 775 N 1 0 0 1 472 9 2
-Colour: ff00
 EndChar
 
 StartChar: uni1E64
@@ -12886,7 +12800,6 @@ LayerCount: 2
 Fore
 Refer: 344 346 N 1 0 0 1 -0.000831604 0 3
 Refer: 267 -1 N 1 0 0 1 30.9994 77 2
-Colour: ff00
 EndChar
 
 StartChar: uni1E65
@@ -12899,7 +12812,6 @@ LayerCount: 2
 Fore
 Refer: 345 347 N 1 0 0 1 0 0 3
 Refer: 248 775 N 1 0 0 1 431 107 2
-Colour: ff00
 EndChar
 
 StartChar: uni1E66
@@ -12912,7 +12824,6 @@ LayerCount: 2
 Fore
 Refer: 350 352 N 1 0 0 1 -0.000831604 0 3
 Refer: 267 -1 N 1 0 0 1 64 135 2
-Colour: ff00
 EndChar
 
 StartChar: uni1E67
@@ -12925,7 +12836,6 @@ LayerCount: 2
 Fore
 Refer: 351 353 N 1 0 0 1 8.74996e-05 0 3
 Refer: 248 775 N 1 0 0 1 503.023 172 2
-Colour: ff00
 EndChar
 
 StartChar: uni1E68
@@ -12938,7 +12848,6 @@ LayerCount: 2
 Fore
 Refer: 267 -1 N 1 0 0 1 50.9987 16 2
 Refer: 434 7778 N 1 0 0 1 -0.000415802 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1E69
@@ -12951,7 +12860,6 @@ LayerCount: 2
 Fore
 Refer: 435 7779 N 1 0 0 1 0 0 3
 Refer: 248 775 N 1 0 0 1 472 9 2
-Colour: ff00
 EndChar
 
 StartChar: uni1E6A
@@ -12964,7 +12872,6 @@ LayerCount: 2
 Fore
 Refer: 267 -1 N 1 0 0 1 108 30 2
 Refer: 52 84 N 1 0 0 1 0 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1E6B
@@ -12977,7 +12884,6 @@ LayerCount: 2
 Fore
 Refer: 84 116 N 1 0 0 1 0 0 3
 Refer: 248 775 N 1 0 0 1 469 109 2
-Colour: ff00
 EndChar
 
 StartChar: uni1E70
@@ -12990,7 +12896,6 @@ LayerCount: 2
 Fore
 Refer: 477 813 N 1 0 0 1 467.998 0 2
 Refer: 52 84 N 1 0 0 1 0 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1E71
@@ -13003,7 +12908,6 @@ LayerCount: 2
 Fore
 Refer: 477 813 N 1 0 0 1 329.998 -3 2
 Refer: 84 116 N 1 0 0 1 2.9998 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1E72
@@ -13016,7 +12920,6 @@ LayerCount: 2
 Fore
 Refer: 710 804 N 1 0 0 1 527 2 2
 Refer: 53 85 N 1 0 0 1 -0.000350952 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1E73
@@ -13029,7 +12932,6 @@ LayerCount: 2
 Fore
 Refer: 710 804 N 1 0 0 1 460 0 2
 Refer: 85 117 N 1 0 0 1 -1 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1E74
@@ -13042,7 +12944,6 @@ LayerCount: 2
 Fore
 Refer: 478 816 N 1 0 0 1 498.001 -1 2
 Refer: 53 85 N 1 0 0 1 -0.000350952 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1E75
@@ -13055,7 +12956,6 @@ LayerCount: 2
 Fore
 Refer: 478 816 N 1 0 0 1 442.001 -3 2
 Refer: 85 117 N 1 0 0 1 -1 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1E76
@@ -13068,7 +12968,6 @@ LayerCount: 2
 Fore
 Refer: 477 813 N 1 0 0 1 522.998 -1 2
 Refer: 53 85 N 1 0 0 1 -0.000350952 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1E77
@@ -13081,7 +12980,6 @@ LayerCount: 2
 Fore
 Refer: 477 813 N 1 0 0 1 442.998 -3 2
 Refer: 85 117 N 1 0 0 1 -1 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1E78
@@ -13094,7 +12992,6 @@ LayerCount: 2
 Fore
 Refer: 356 360 N 1 0 0 1 -0.000701904 0 3
 Refer: 260 -1 N 1 0 0 1 224.998 123.807 2
-Colour: ff00
 EndChar
 
 StartChar: uni1E79
@@ -13107,7 +13004,6 @@ LayerCount: 2
 Fore
 Refer: 357 361 N 1 0 0 1 0 0 3
 Refer: 191 769 N 1 0 0 1 584.634 151 2
-Colour: ff00
 EndChar
 
 StartChar: uni1E7A
@@ -13120,7 +13016,6 @@ LayerCount: 2
 Fore
 Refer: 272 -1 N 1 0 0 1 150.998 110 2
 Refer: 358 362 N 1 0 0 1 -0.000701904 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1E7B
@@ -13133,7 +13028,6 @@ LayerCount: 2
 Fore
 Refer: 249 776 N 1 0 0 1 543 96 2
 Refer: 359 363 N 1 0 0 1 0 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1E7C
@@ -13146,7 +13040,6 @@ LayerCount: 2
 Fore
 Refer: 263 -1 N 1 0 0 1 67.0004 1 2
 Refer: 54 86 N 1 0 0 1 0.00018692 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1E7D
@@ -13159,7 +13052,6 @@ LayerCount: 2
 Fore
 Refer: 243 771 N 1 0 0 1 503.001 6 2
 Refer: 86 118 N 1 0 0 1 0 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1E7E
@@ -13172,7 +13064,6 @@ LayerCount: 2
 Fore
 Refer: 268 -1 N 1 0 0 1 93.0004 -27 2
 Refer: 54 86 N 1 0 0 1 2.00019 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1E7F
@@ -13185,7 +13076,6 @@ LayerCount: 2
 Fore
 Refer: 258 803 N 1 0 0 1 371 -35 2
 Refer: 86 118 N 1 0 0 1 0 0 3
-Colour: ff00
 EndChar
 
 StartChar: Wgrave
@@ -13198,7 +13088,6 @@ LayerCount: 2
 Fore
 Refer: 55 87 N 1 0 0 1 0.00038147 0 3
 Refer: 259 -1 N 1 0 0 1 214 32 2
-Colour: ff00
 EndChar
 
 StartChar: wgrave
@@ -13211,7 +13100,6 @@ LayerCount: 2
 Fore
 Refer: 87 119 N 1 0 0 1 0 0 3
 Refer: 190 768 N 1 0 0 1 584.552 -27 2
-Colour: ff00
 EndChar
 
 StartChar: Wacute
@@ -13224,7 +13112,6 @@ LayerCount: 2
 Fore
 Refer: 55 87 N 1 0 0 1 0.00038147 0 3
 Refer: 260 -1 N 1 0 0 1 343.037 32 2
-Colour: ff00
 EndChar
 
 StartChar: wacute
@@ -13237,7 +13124,6 @@ LayerCount: 2
 Fore
 Refer: 87 119 N 1 0 0 1 0 0 3
 Refer: 191 769 N 1 0 0 1 673.552 6 2
-Colour: ff00
 EndChar
 
 StartChar: Wdieresis
@@ -13250,7 +13136,6 @@ LayerCount: 2
 Fore
 Refer: 272 -1 N 1 0 0 1 229 14 2
 Refer: 55 87 N 1 0 0 1 0.00038147 0 3
-Colour: ff00
 EndChar
 
 StartChar: wdieresis
@@ -13263,7 +13148,6 @@ LayerCount: 2
 Fore
 Refer: 249 776 N 1 0 0 1 654 10 2
 Refer: 87 119 N 1 0 0 1 0 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1E86
@@ -13276,7 +13160,6 @@ LayerCount: 2
 Fore
 Refer: 55 87 N 1 0 0 1 0.00038147 0 3
 Refer: 267 -1 N 1 0 0 1 243 15 2
-Colour: ff00
 EndChar
 
 StartChar: uni1E87
@@ -13289,7 +13172,6 @@ LayerCount: 2
 Fore
 Refer: 87 119 N 1 0 0 1 0 0 3
 Refer: 248 775 N 1 0 0 1 660 6 2
-Colour: ff00
 EndChar
 
 StartChar: uni1E88
@@ -13302,7 +13184,6 @@ LayerCount: 2
 Fore
 Refer: 55 87 N 1 0 0 1 1.00038 0 3
 Refer: 268 -1 N 1 0 0 1 246 -27 2
-Colour: ff00
 EndChar
 
 StartChar: uni1E89
@@ -13315,7 +13196,6 @@ LayerCount: 2
 Fore
 Refer: 258 803 N 1 0 0 1 502 -35 2
 Refer: 87 119 N 1 0 0 1 0 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1E8A
@@ -13328,7 +13208,6 @@ LayerCount: 2
 Fore
 Refer: 267 -1 N 1 0 0 1 156 15 2
 Refer: 56 88 N 1 0 0 1 9.91821e-05 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1E8B
@@ -13341,7 +13220,6 @@ LayerCount: 2
 Fore
 Refer: 88 120 N 1 0 0 1 0 0 3
 Refer: 248 775 N 1 0 0 1 548 6 2
-Colour: ff00
 EndChar
 
 StartChar: uni1E8C
@@ -13354,7 +13232,6 @@ LayerCount: 2
 Fore
 Refer: 56 88 N 1 0 0 1 9.91821e-05 0 3
 Refer: 272 -1 N 1 0 0 1 129 14 2
-Colour: ff00
 EndChar
 
 StartChar: uni1E8D
@@ -13367,7 +13244,6 @@ LayerCount: 2
 Fore
 Refer: 249 776 N 1 0 0 1 531 10 2
 Refer: 88 120 N 1 0 0 1 0 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1E8E
@@ -13380,7 +13256,6 @@ LayerCount: 2
 Fore
 Refer: 267 -1 N 1 0 0 1 117 15 2
 Refer: 57 89 N 1 0 0 1 -0.00018692 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1E8F
@@ -13393,7 +13268,6 @@ LayerCount: 2
 Fore
 Refer: 89 121 N 1 0 0 1 0 0 3
 Refer: 248 775 N 1 0 0 1 520 6 2
-Colour: ff00
 EndChar
 
 StartChar: uni1E90
@@ -13406,7 +13280,6 @@ LayerCount: 2
 Fore
 Refer: 261 -1 N 1 0 0 1 98.9992 4 2
 Refer: 58 90 N 1 0 0 1 -0.000383377 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1E91
@@ -13419,7 +13292,6 @@ LayerCount: 2
 Fore
 Refer: 242 770 N 1 0 0 1 494 3 2
 Refer: 90 122 N 1 0 0 1 0 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1E94
@@ -13432,7 +13304,6 @@ LayerCount: 2
 Fore
 Refer: 479 817 N 1 0 0 1 493.999 6 2
 Refer: 58 90 N 1 0 0 1 -0.000383377 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1E95
@@ -13445,7 +13316,6 @@ LayerCount: 2
 Fore
 Refer: 479 817 N 1 0 0 1 385 6 2
 Refer: 90 122 N 1 0 0 1 0 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1E98
@@ -13458,7 +13328,6 @@ LayerCount: 2
 Fore
 Refer: 251 778 N 1 0 0 1 667 6 2
 Refer: 87 119 N 1 0 0 1 0 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1E99
@@ -13471,7 +13340,6 @@ LayerCount: 2
 Fore
 Refer: 251 778 N 1 0 0 1 516 6 2
 Refer: 89 121 N 1 0 0 1 0 0 3
-Colour: ff00
 EndChar
 
 StartChar: Ahookabove
@@ -13484,7 +13352,6 @@ LayerCount: 2
 Fore
 Refer: 270 -1 N 1 0 0 1 223.916 215 2
 Refer: 33 65 N 1 0 0 1 0 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1EA3
@@ -13497,7 +13364,6 @@ LayerCount: 2
 Fore
 Refer: 250 777 N 1 0 0 1 575.052 9 2
 Refer: 65 97 N 1 0 0 1 0 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1EA4
@@ -13511,7 +13377,6 @@ Fore
 Refer: 260 -1 N 0.786834 0 0 0.981481 358.558 81.8518 2
 Refer: 261 -1 N 1 0 0 1 94.531 -17 2
 Refer: 33 65 N 1 0 0 1 0.729004 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1EA5
@@ -13525,7 +13390,6 @@ Fore
 Refer: 65 97 N 1 0 0 1 -0.0090332 0 3
 Refer: 242 770 N 1 0 0 1 527 4 2
 Refer: 191 769 N 0.876136 0 0 0.870229 642 161 2
-Colour: ff00
 EndChar
 
 StartChar: uni1EA6
@@ -13539,7 +13403,6 @@ Fore
 Refer: 33 65 N 1 0 0 1 0.729004 0 3
 Refer: 261 -1 N 1 0 0 1 94.531 -17 2
 Refer: 259 -1 N 0.781309 0 0 0.981481 40.448 61.8518 2
-Colour: ff00
 EndChar
 
 StartChar: uni1EA7
@@ -13553,7 +13416,6 @@ Fore
 Refer: 242 770 N 1 0 0 1 527 4 2
 Refer: 65 97 N 1 0 0 1 0 0 3
 Refer: 190 768 N 0.872402 0 0 0.870229 342 128 2
-Colour: ff00
 EndChar
 
 StartChar: uni1EA9
@@ -13567,7 +13429,6 @@ Fore
 Refer: 250 777 N 1 0 0 1 675.181 45 2
 Refer: 242 770 N 1 0 0 1 527 4 2
 Refer: 65 97 N 1 0 0 1 0 0 3
-Colour: ff00
 EndChar
 
 StartChar: Acircumflextilde
@@ -13581,7 +13442,6 @@ Fore
 Refer: 263 -1 N 0.97057 0 0 0.8375 105.949 223.813 2
 Refer: 261 -1 N 1 0 0 1 94.531 -17 2
 Refer: 33 65 N 1 0 0 1 0 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1EAB
@@ -13595,7 +13455,6 @@ Fore
 Refer: 243 771 N 0.936452 0 0 0.884615 544 237 2
 Refer: 242 770 N 0.994497 0 0 0.896296 534.333 77 2
 Refer: 65 97 N 1 0 0 1 0 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1EAC
@@ -13608,7 +13467,6 @@ LayerCount: 2
 Fore
 Refer: 268 -1 N 1 0 0 1 109.472 -28 2
 Refer: 128 194 N 1 0 0 1 0 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1EAD
@@ -13621,7 +13479,6 @@ LayerCount: 2
 Fore
 Refer: 258 803 N 1 0 0 1 417.162 -35 2
 Refer: 160 226 N 1 0 0 1 0 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1EAE
@@ -13635,7 +13492,6 @@ Fore
 Refer: 33 65 N 1 0 0 1 0 0 3
 Refer: 260 -1 N 0.78453 0 0 0.981481 259.32 72.852 2
 Refer: 247 774 N 1 0 0 0.878918 648 270 2
-Colour: ff00
 EndChar
 
 StartChar: uni1EAF
@@ -13649,7 +13505,6 @@ Fore
 Refer: 191 769 N 0.876136 0 0 0.870229 538 161 2
 Refer: 247 774 N 0.962702 0 0 0.878918 519 69 2
 Refer: 65 97 N 1 0 0 1 0 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1EB0
@@ -13663,7 +13518,6 @@ Fore
 Refer: 33 65 N 1 0 0 1 0 0 3
 Refer: 259 -1 N 0.783554 0 0 0.977177 131.497 76.3039 2
 Refer: 247 774 N 1 0 0 0.878918 648 270 2
-Colour: ff00
 EndChar
 
 StartChar: uni1EB1
@@ -13677,7 +13531,6 @@ Fore
 Refer: 190 768 N 0.872402 0 0 0.870229 490 168 2
 Refer: 247 774 N 0.962702 0 0 0.878918 519 69 2
 Refer: 65 97 N 1 0 0 1 0 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1EB2
@@ -13691,7 +13544,6 @@ Fore
 Refer: 33 65 N 1 0 0 1 0 0 3
 Refer: 270 -1 N 0.944516 0 0 0.910829 248.37 317.356 2
 Refer: 247 774 N 1 0 0 0.878918 648 270 2
-Colour: ff00
 EndChar
 
 StartChar: uni1EB3
@@ -13705,7 +13557,6 @@ Fore
 Refer: 65 97 N 1 0 0 1 0 0 3
 Refer: 250 777 N 1 0 0 1 568.29 79.4648 2
 Refer: 247 774 N 0.962702 0 0 0.878918 519 69 2
-Colour: ff00
 EndChar
 
 StartChar: uni1EB4
@@ -13719,7 +13570,6 @@ Fore
 Refer: 33 65 N 1 0 0 1 0 0 3
 Refer: 263 -1 N 0.969772 0 0 0.831689 110.328 227.49 2
 Refer: 247 774 N 1 0 0 0.878918 648 270 2
-Colour: ff00
 EndChar
 
 StartChar: uni1EB5
@@ -13733,7 +13583,6 @@ Fore
 Refer: 65 97 N 1 0 0 1 0 0 3
 Refer: 247 774 N 0.962702 0 0 0.878918 519 69 2
 Refer: 243 771 N 0.936452 0 0 0.884615 535 238 2
-Colour: ff00
 EndChar
 
 StartChar: uni1EB6
@@ -13746,7 +13595,6 @@ LayerCount: 2
 Fore
 Refer: 268 -1 N 1 0 0 1 109.472 -28 2
 Refer: 277 258 N 1 0 0 1 0 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1EB7
@@ -13759,7 +13607,6 @@ LayerCount: 2
 Fore
 Refer: 258 803 N 1 0 0 1 417.044 -35 2
 Refer: 278 259 N 1 0 0 1 0 0 3
-Colour: ff00
 EndChar
 
 StartChar: Edotbelow
@@ -13772,7 +13619,6 @@ LayerCount: 2
 Fore
 Refer: 268 -1 N 1 0 0 1 116 -28 2
 Refer: 37 69 N 1 0 0 1 0 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1EB9
@@ -13785,7 +13631,6 @@ LayerCount: 2
 Fore
 Refer: 69 101 N 1 0 0 1 0 0 3
 Refer: 258 803 N 1 0 0 1 369.162 -35 2
-Colour: ff00
 EndChar
 
 StartChar: uni1EBA
@@ -13798,7 +13643,6 @@ LayerCount: 2
 Fore
 Refer: 270 -1 N 1 0 0 1 192.246 245 2
 Refer: 37 69 N 1 0 0 1 0 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1EBB
@@ -13811,7 +13655,6 @@ LayerCount: 2
 Fore
 Refer: 250 777 N 1 0 0 1 552.052 9 2
 Refer: 69 101 N 1 0 0 1 0 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1EBC
@@ -13824,7 +13667,6 @@ LayerCount: 2
 Fore
 Refer: 263 -1 N 1 0 0 1 33.5212 1 2
 Refer: 37 69 N 1 0 0 1 0 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1EBD
@@ -13837,7 +13679,6 @@ LayerCount: 2
 Fore
 Refer: 243 771 N 1 0 0 1 518.033 6 2
 Refer: 69 101 N 1 0 0 1 0 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1EBE
@@ -13851,7 +13692,6 @@ Fore
 Refer: 37 69 N 1 0 0 1 0 0 3
 Refer: 260 -1 N 0.786834 0 0 0.981481 322.558 81.8518 2
 Refer: 261 -1 N 1 0 0 1 58.531 -17 2
-Colour: ff00
 EndChar
 
 StartChar: uni1EBF
@@ -13865,7 +13705,6 @@ Fore
 Refer: 69 101 N 1 0 0 1 0 0 3
 Refer: 242 770 N 1 0 0 1 504 4 2
 Refer: 191 769 N 0.876136 0 0 0.870229 619 161 2
-Colour: ff00
 EndChar
 
 StartChar: uni1EC0
@@ -13879,7 +13718,6 @@ Fore
 Refer: 261 -1 N 1 0 0 1 58.531 -17 2
 Refer: 37 69 N 1 0 0 1 0 0 3
 Refer: 259 -1 N 0.781309 0 0 0.981481 4.448 61.8518 2
-Colour: ff00
 EndChar
 
 StartChar: uni1EC1
@@ -13893,7 +13731,6 @@ Fore
 Refer: 242 770 N 1 0 0 1 504 4 2
 Refer: 69 101 N 1 0 0 1 0 0 3
 Refer: 190 768 N 0.872402 0 0 0.870229 319 128 2
-Colour: ff00
 EndChar
 
 StartChar: uni1EC2
@@ -13907,7 +13744,6 @@ Fore
 Refer: 37 69 N 1 0 0 1 0 0 3
 Refer: 270 -1 N 1 0 0 1 315.583 261 2
 Refer: 261 -1 N 1 0 0 1 58.531 -17 2
-Colour: ff00
 EndChar
 
 StartChar: uni1EC3
@@ -13921,7 +13757,6 @@ Fore
 Refer: 250 777 N 1 0 0 1 652.181 45 2
 Refer: 242 770 N 1 0 0 1 504 4 2
 Refer: 69 101 N 1 0 0 1 0 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1EC4
@@ -13935,7 +13770,6 @@ Fore
 Refer: 37 69 N 1 0 0 1 0 0 3
 Refer: 263 -1 N 0.97057 0 0 0.8375 84.9494 223.813 2
 Refer: 261 -1 N 1 0 0 1 73.531 -17 2
-Colour: ff00
 EndChar
 
 StartChar: uni1EC5
@@ -13949,7 +13783,6 @@ Fore
 Refer: 243 771 N 0.936452 0 0 0.884615 519 237 2
 Refer: 242 770 N 0.994497 0 0 0.896296 509.333 77 2
 Refer: 69 101 N 1 0 0 1 0 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1EC6
@@ -13962,7 +13795,6 @@ LayerCount: 2
 Fore
 Refer: 268 -1 N 1 0 0 1 116 -28 2
 Refer: 136 202 N 1 0 0 1 0 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1EC7
@@ -13975,7 +13807,6 @@ LayerCount: 2
 Fore
 Refer: 258 803 N 1 0 0 1 369.162 -35 2
 Refer: 168 234 N 1 0 0 1 0 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1EC8
@@ -13988,7 +13819,6 @@ LayerCount: 2
 Fore
 Refer: 270 -1 N 1 0 0 1 84.7675 245 2
 Refer: 41 73 N 1 0 0 1 0 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1EC9
@@ -14001,7 +13831,6 @@ LayerCount: 2
 Fore
 Refer: 250 777 N 1 0 0 1 456.052 9 2
 Refer: 244 305 N 1 0 0 1 0 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1ECA
@@ -14014,7 +13843,6 @@ LayerCount: 2
 Fore
 Refer: 268 -1 N 1 0 0 1 -33.1611 -28 2
 Refer: 41 73 N 1 0 0 1 0 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1ECB
@@ -14027,7 +13855,6 @@ LayerCount: 2
 Fore
 Refer: 258 803 N 1 0 0 1 324.162 -35 2
 Refer: 73 105 N 1 0 0 1 0 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1ECC
@@ -14040,7 +13867,6 @@ LayerCount: 2
 Fore
 Refer: 268 -1 N 1 0 0 1 182.206 -36 2
 Refer: 47 79 N 1 0 0 1 0 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1ECD
@@ -14053,7 +13879,6 @@ LayerCount: 2
 Fore
 Refer: 258 803 N 1 0 0 1 377.162 -34 2
 Refer: 79 111 N 1 0 0 1 0 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1ECE
@@ -14066,7 +13891,6 @@ LayerCount: 2
 Fore
 Refer: 270 -1 N 1 0 0 1 266.052 245 2
 Refer: 47 79 N 1 0 0 1 0 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1ECF
@@ -14079,7 +13903,6 @@ LayerCount: 2
 Fore
 Refer: 250 777 N 1 0 0 1 555.052 9 2
 Refer: 79 111 N 1 0 0 1 0 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1ED0
@@ -14093,7 +13916,6 @@ Fore
 Refer: 260 -1 N 0.786834 0 0 0.981481 388 82 2
 Refer: 261 -1 N 1 0 0 1 124 -17 2
 Refer: 47 79 N 1 0 0 1 0 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1ED1
@@ -14107,7 +13929,6 @@ Fore
 Refer: 79 111 N 1 0 0 1 0 0 3
 Refer: 242 770 N 1 0 0 1 510 4 2
 Refer: 191 769 N 0.876136 0 0 0.870229 625 161 2
-Colour: ff00
 EndChar
 
 StartChar: uni1ED2
@@ -14121,7 +13942,6 @@ Fore
 Refer: 47 79 N 1 0 0 1 0 0 3
 Refer: 261 -1 N 1 0 0 1 124 -17 2
 Refer: 259 -1 N 0.781309 0 0 0.981481 70.448 61.8518 2
-Colour: ff00
 EndChar
 
 StartChar: uni1ED3
@@ -14135,7 +13955,6 @@ Fore
 Refer: 190 768 N 0.872402 0 0 0.870229 325 128 2
 Refer: 242 770 N 1 0 0 1 510 4 2
 Refer: 79 111 N 1 0 0 1 0 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1ED4
@@ -14149,7 +13968,6 @@ Fore
 Refer: 270 -1 N 1 0 0 1 381 261 2
 Refer: 261 -1 N 1 0 0 1 124 -17 2
 Refer: 47 79 N 1 0 0 1 -1 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1ED5
@@ -14163,7 +13981,6 @@ Fore
 Refer: 250 777 N 1 0 0 1 658.181 45 2
 Refer: 242 770 N 1 0 0 1 510 4 2
 Refer: 79 111 N 1 0 0 1 0 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1ED6
@@ -14177,7 +13994,6 @@ Fore
 Refer: 263 -1 N 0.97057 0 0 0.8375 105.949 223.813 2
 Refer: 261 -1 N 1 0 0 1 94.531 -17 2
 Refer: 47 79 N 1 0 0 1 0 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1ED7
@@ -14191,7 +14007,6 @@ Fore
 Refer: 243 771 N 0.936452 0 0 0.884615 523 237 2
 Refer: 242 770 N 0.994497 0 0 0.896296 513.333 77 2
 Refer: 79 111 N 1 0 0 1 0 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1EA0
@@ -14204,7 +14019,6 @@ LayerCount: 2
 Fore
 Refer: 268 -1 N 1 0 0 1 109.472 -28 2
 Refer: 33 65 N 1 0 0 1 0 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1EA1
@@ -14217,7 +14031,6 @@ LayerCount: 2
 Fore
 Refer: 258 803 N 1 0 0 1 429.162 -35 2
 Refer: 65 97 N 1 0 0 1 0 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1ED8
@@ -14231,7 +14044,6 @@ LayerCount: 2
 Fore
 Refer: 261 -1 N 1 0 0 1 138.995 15 2
 Refer: 660 7884 N 1 0 0 1 0 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1ED9
@@ -14245,7 +14057,6 @@ LayerCount: 2
 Fore
 Refer: 242 770 N 1 0 0 1 530.561 6 2
 Refer: 661 7885 N 1 0 0 1 0 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1EE4
@@ -14259,7 +14070,6 @@ LayerCount: 2
 Fore
 Refer: 268 -1 N 1 0 0 1 145.911 -29 2
 Refer: 53 85 N 1 0 0 1 0 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1EE5
@@ -14273,7 +14083,6 @@ LayerCount: 2
 Fore
 Refer: 258 803 N 1 0 0 1 451.162 -35 2
 Refer: 85 117 N 1 0 0 1 0 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1EE6
@@ -14287,7 +14096,6 @@ LayerCount: 2
 Fore
 Refer: 270 -1 N 1 0 0 1 251.44 245 2
 Refer: 53 85 N 1 0 0 1 0 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1EE7
@@ -14301,7 +14109,6 @@ LayerCount: 2
 Fore
 Refer: 250 777 N 1 0 0 1 556.052 9 2
 Refer: 85 117 N 1 0 0 1 0 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1EF4
@@ -14315,7 +14122,6 @@ LayerCount: 2
 Fore
 Refer: 268 -1 N 1 0 0 1 91.753 -28 2
 Refer: 57 89 N 1 0 0 1 0 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1EF5
@@ -14329,7 +14135,6 @@ LayerCount: 2
 Fore
 Refer: 258 803 N 1 0 0 1 514.162 -68 2
 Refer: 89 121 N 1 0 0 1 0 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1EF6
@@ -14343,7 +14148,6 @@ LayerCount: 2
 Fore
 Refer: 270 -1 N 1 0 0 1 202.182 245 2
 Refer: 57 89 N 1 0 0 1 0 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1EF7
@@ -14357,7 +14161,6 @@ LayerCount: 2
 Fore
 Refer: 250 777 N 1 0 0 1 544.552 9 2
 Refer: 89 121 N 1 0 0 1 0 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1EF8
@@ -14371,7 +14174,6 @@ LayerCount: 2
 Fore
 Refer: 263 -1 N 1 0 0 1 41.4568 1 2
 Refer: 57 89 N 1 0 0 1 0 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1EF9
@@ -14385,7 +14187,6 @@ LayerCount: 2
 Fore
 Refer: 243 771 N 1 0 0 1 504.533 6 2
 Refer: 89 121 N 1 0 0 1 0 0 3
-Colour: ff00
 EndChar
 
 StartChar: ohorn
@@ -14414,7 +14215,6 @@ SplineSet
  15 286 153 449 273 449 c 0
  325.587244116 449 370.948834525 435.752968204 397.131003122 395.779123692 c 1
 EndSplineSet
-Colour: ff00
 EndChar
 
 StartChar: Ohorn
@@ -14444,7 +14244,6 @@ SplineSet
  49 510 259 667 424 667 c 0
  483.186413235 667 532.865044631 648.114679908 572.189822544 617.911678288 c 1
 EndSplineSet
-Colour: ff00
 EndChar
 
 StartChar: Uhorn
@@ -14487,7 +14286,6 @@ SplineSet
  92.3671875 632 97.3671875 656 102.3671875 662 c 1
  137.3671875 658 195.3671875 655 234.3671875 655 c 0
 EndSplineSet
-Colour: ff00
 EndChar
 
 StartChar: uhorn
@@ -14533,7 +14331,6 @@ SplineSet
  312 -8 282 12 282 63 c 0
  282 70 285 91 289 113 c 0x74
 EndSplineSet
-Colour: ff00
 EndChar
 
 StartChar: uni1EDA
@@ -14546,7 +14343,6 @@ LayerCount: 2
 Fore
 Refer: 260 -1 N 1 0 0 1 203 17 2
 Refer: 687 416 N 1 0 0 1 0 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1EDB
@@ -14559,7 +14355,6 @@ LayerCount: 2
 Fore
 Refer: 686 417 N 1 0 0 1 0 0 3
 Refer: 191 769 N 1 0 0 1 534 12 2
-Colour: ff00
 EndChar
 
 StartChar: uni1EDC
@@ -14572,7 +14367,6 @@ LayerCount: 2
 Fore
 Refer: 259 -1 N 1 0 0 1 119 16 2
 Refer: 687 416 N 1 0 0 1 0 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1EDD
@@ -14585,7 +14379,6 @@ LayerCount: 2
 Fore
 Refer: 686 417 N 1 0 0 1 0 0 3
 Refer: 190 768 N 1 0 0 1 497 -21 2
-Colour: ff00
 EndChar
 
 StartChar: uni1EDE
@@ -14598,7 +14391,6 @@ LayerCount: 2
 Fore
 Refer: 270 -1 N 1 0 0 1 266.052 245 2
 Refer: 687 416 N 1 0 0 1 0 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1EDF
@@ -14611,7 +14403,6 @@ LayerCount: 2
 Fore
 Refer: 250 777 N 1 0 0 1 555.052 9 2
 Refer: 686 417 N 1 0 0 1 0 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1EE0
@@ -14624,7 +14415,6 @@ LayerCount: 2
 Fore
 Refer: 263 -1 N 1 0 0 1 102 14 2
 Refer: 687 416 N 1 0 0 1 0 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1EE1
@@ -14637,7 +14427,6 @@ LayerCount: 2
 Fore
 Refer: 243 771 N 1 0 0 1 510.001 16 2
 Refer: 686 417 N 1 0 0 1 0 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1EE2
@@ -14650,7 +14439,6 @@ LayerCount: 2
 Fore
 Refer: 268 -1 N 1 0 0 1 182.206 -36 2
 Refer: 687 416 N 1 0 0 1 0 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1EE3
@@ -14663,7 +14451,6 @@ LayerCount: 2
 Fore
 Refer: 258 803 N 1 0 0 1 377.162 -34 2
 Refer: 686 417 N 1 0 0 1 0 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1EE8
@@ -14676,7 +14463,6 @@ LayerCount: 2
 Fore
 Refer: 260 -1 N 1 0 0 1 253.706 17 2
 Refer: 688 431 N 1 0 0 1 0 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1EE9
@@ -14689,7 +14475,6 @@ LayerCount: 2
 Fore
 Refer: 689 432 N 1 0 0 1 0 0 3
 Refer: 191 769 N 1 0 0 1 549 12 2
-Colour: ff00
 EndChar
 
 StartChar: uni1EEA
@@ -14702,7 +14487,6 @@ LayerCount: 2
 Fore
 Refer: 259 -1 N 1 0 0 1 138.706 16 2
 Refer: 688 431 N 1 0 0 1 0 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1EEB
@@ -14715,7 +14499,6 @@ LayerCount: 2
 Fore
 Refer: 689 432 N 1 0 0 1 0 0 3
 Refer: 190 768 N 1 0 0 1 510 -21 2
-Colour: ff00
 EndChar
 
 StartChar: uni1EEC
@@ -14728,7 +14511,6 @@ LayerCount: 2
 Fore
 Refer: 270 -1 N 1 0 0 1 251.44 245 2
 Refer: 688 431 N 1 0 0 1 0 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1EED
@@ -14741,7 +14523,6 @@ LayerCount: 2
 Fore
 Refer: 250 777 N 1 0 0 1 556.052 9 2
 Refer: 689 432 N 1 0 0 1 0 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1EEE
@@ -14754,7 +14535,6 @@ LayerCount: 2
 Fore
 Refer: 263 -1 N 1 0 0 1 104.706 14 2
 Refer: 688 431 N 1 0 0 1 0 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1EEF
@@ -14767,7 +14547,6 @@ LayerCount: 2
 Fore
 Refer: 243 771 N 1 0 0 1 517.001 16 2
 Refer: 689 432 N 1 0 0 1 0 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1EF0
@@ -14780,7 +14559,6 @@ LayerCount: 2
 Fore
 Refer: 268 -1 N 1 0 0 1 145.911 -29 2
 Refer: 688 431 N 1 0 0 1 0 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni1EF1
@@ -14793,7 +14571,6 @@ LayerCount: 2
 Fore
 Refer: 258 803 N 1 0 0 1 451.162 -35 2
 Refer: 689 432 N 1 0 0 1 0 0 3
-Colour: ff00
 EndChar
 
 StartChar: uni0324
