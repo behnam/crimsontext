@@ -61,7 +61,7 @@ KernClass2: 75+ 59 "'kern' Horizontal Kerning in Latin lookup 0 kerning class 1"
  10 exclamdown
  10 registered
  12 questiondown
- 180 A Agrave Aacute Acircumflex Atilde Adieresis Aring Amacron Abreve Aogonek uni1E00 uni1EA0 Ahookabove uni1EA4 uni1EA6 uni1EA9 uni1EAB uni1EAD uni1EAF uni1EB1 uni1EB3 uni1EB5 uni1EB7
+ 189 A Agrave Aacute Acircumflex Atilde Adieresis Aring Amacron Abreve Aogonek uni1E00 uni1EA0 Ahookabove uni1EA4 uni1EA6 uni1EA8 Acircumflextilde uni1EAC uni1EAE uni1EB0 uni1EB2 uni1EB4 uni1EB6
  25 B uni1E02 uni1E04 uni1E06
  55 C Ccedilla Cacute Ccircumflex Cdotaccent Ccaron uni1E08
  59 D Eth Dcaron Dcroat uni1E0A uni1E0C uni1E0E uni1E10 uni1E12
@@ -87,7 +87,7 @@ KernClass2: 75+ 59 "'kern' Horizontal Kerning in Latin lookup 0 kerning class 1"
  69 Y Yacute Ycircumflex Ydieresis uni1E8E Ygrave uni1EF4 uni1EF6 uni1EF8
  50 Z Zacute Zdotaccent Zcaron uni1E90 uni1E92 uni1E94
  5 Thorn
- 113 a agrave aacute acircumflex atilde adieresis aring amacron abreve aogonek uni1E01 uni1EA1 uni1EA3 uni1EA5 uni1EA7
+ 177 a agrave aacute acircumflex atilde adieresis aring amacron abreve aogonek uni1E01 uni1EA1 uni1EA3 uni1EA5 uni1EA7 uni1EA9 uni1EAB uni1EAD uni1EAF uni1EB1 uni1EB3 uni1EB5 uni1EB7
  35 b uni1E03 uni1E05 uni1E07 f_b f_f_b
  55 c ccedilla cacute ccircumflex cdotaccent ccaron uni1E09
  55 d dcaron dcroat uni1E0B uni1E0D uni1E0F uni1E11 uni1E13
@@ -132,7 +132,7 @@ KernClass2: 75+ 59 "'kern' Horizontal Kerning in Latin lookup 0 kerning class 1"
  9 braceleft
  7 uni2206
  2 mu
- 116 A Agrave Aacute Acircumflex Atilde Adieresis Aring Amacron Abreve Aogonek uni1E00 uni1EA0 Ahookabove uni1EA4 uni1EA6
+ 189 A Agrave Aacute Acircumflex Atilde Adieresis Aring Amacron Abreve Aogonek uni1E00 uni1EA0 Ahookabove uni1EA4 uni1EA6 uni1EA8 Acircumflextilde uni1EAC uni1EAE uni1EB0 uni1EB2 uni1EB4 uni1EB6
  626 B D E F H I K L P R Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Thorn Dcaron Dcroat Emacron Ebreve Edotaccent Eogonek Ecaron Hcircumflex Hbar Itilde Imacron Ibreve Iogonek Idotaccent IJ Kcommaaccent Lacute Lcommaaccent Lcaron Ldot Lslash Racute Rcommaaccent Rcaron uni1E02 uni1E04 uni1E06 uni1E0A uni1E0C uni1E0E uni1E10 uni1E12 uni1E14 uni1E16 uni1E18 uni1E1A uni1E1E uni1E22 uni1E26 uni1E28 uni1E2A uni1E2C uni1E2E uni1E32 uni1E34 uni1E36 uni1E38 uni1E3A uni1E3C uni1E54 uni1E56 uni1E58 uni1E5A uni1E5C uni1E5E Edotbelow uni1EBA uni1EBC uni1EBE uni1EC0 uni1EC2 uni1EC4 uni1EC6 uni1EC8 uni1ECA
  13 J Jcircumflex
  71 N Ntilde Nacute Ncommaaccent Ncaron Eng uni1E44 uni1E46 uni1E48 uni1E4A
@@ -235,7 +235,7 @@ Grid
  -6 449 l 25
  560 449 l 25
 EndSplineSet
-BeginChars: 65587 713
+BeginChars: 65587 714
 
 StartChar: space
 Encoding: 32 32 0
@@ -14627,6 +14627,19 @@ SplineSet
  337 632 327 649 309 649 c 0
  274.349887488 649 255.15384993 570.895126867 222 378 c 2
 EndSplineSet
+EndChar
+
+StartChar: uni1EA8
+Encoding: 7848 7848 713
+Width: 620
+Flags: W
+HStem: -4 37<-57.4088 -0.936996 90.5556 144.667 317.465 379.31 534.74 582.337> 225 48<198.107 355.106> 642 20<392.107 401.107> 687 140 866.643 34.6115<542.681 588.645>
+VStem: 276.531 259 481.157 54.7819<816.384 863.273> 500.047 41.5587<742.708 756.347>
+LayerCount: 2
+Fore
+Refer: 261 -1 N 1 0 0 1 94.531 -17 2
+Refer: 33 65 N 1 0 0 1 0.729004 0 3
+Refer: 270 -1 N 0.944516 0 0 0.910829 358.37 287.356 2
 EndChar
 EndChars
 EndSplineFont
