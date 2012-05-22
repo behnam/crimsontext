@@ -26,9 +26,13 @@ $(BLD)/%.otf: $(SRC)/%.sfd Makefile $(SCRIPT)
 $(BLD)/%.ttf: $(SRC)/%.sfd Makefile $(SCRIPT)
 	@echo "Generating	$@"
 	@$(PY) $(SCRIPT) $< $@ $(VERSION)
+ifeq ($(shell which ttfautohint),)
+	@echo "‘ttfautohint’ not found, skipping autohining"
+else
 	@echo "Autohinting	$@"
 	@ttfautohint $@ $@.tmp
 	@mv $@.tmp $@
+endif
 
 dist: $(OTF) $(TTF)
 	@echo "Making dist tarball"
