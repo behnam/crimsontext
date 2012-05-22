@@ -206,7 +206,7 @@ ForceBold 4 true
 ExpansionFactor 4 0.06
 EndPrivate
 TeXData: 1 0 -1048566 229376 114688 76458 452608 1048576 76458 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 65563 412
+BeginChars: 65563 413
 
 StartChar: exclam
 Encoding: 33 33 0
@@ -5444,7 +5444,6 @@ EndChar
 
 StartChar: uni2010
 Encoding: 8208 8208 193
-AltUni2: 0000ad.ffffffff.0
 Width: 366
 VWidth: 512
 Flags: W
@@ -9359,6 +9358,16 @@ Fore
 Refer: 9 42 N 1 0 0 1 199.885 0 2
 Refer: 9 42 N 1 0 0 1 -23.1154 -402 2
 Refer: 9 42 N 1 0 0 1 422.885 -402 2
+EndChar
+
+StartChar: uni00AD
+Encoding: 173 173 412
+Width: 366
+VWidth: 0
+VStem: 50 255.5<207.969 264>
+LayerCount: 2
+Fore
+Refer: 193 8208 N 1 0 0 1 0 0 3
 EndChar
 EndChars
 EndSplineFont

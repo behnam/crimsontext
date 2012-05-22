@@ -798,7 +798,7 @@ Grid
 28 435 m 17
  542 435 l 9
 EndSplineSet
-BeginChars: 65757 1094
+BeginChars: 65757 1095
 
 StartChar: exclam
 Encoding: 33 33 0
@@ -6096,7 +6096,6 @@ EndChar
 
 StartChar: uni2010
 Encoding: 8208 8208 193
-AltUni2: 0000ad.ffffffff.0
 Width: 370
 VWidth: 0
 Flags: W
@@ -24589,6 +24588,16 @@ Fore
 Refer: 9 42 N 1 0 0 1 428.885 -402 2
 Refer: 9 42 N 1 0 0 1 -17.1154 -402 2
 Refer: 9 42 N 1 0 0 1 205.885 0 2
+EndChar
+
+StartChar: uni00AD
+Encoding: 173 173 1094
+Width: 370
+VWidth: 0
+VStem: 52 254<210.346 261>
+LayerCount: 2
+Fore
+Refer: 193 8208 N 1 0 0 1 0 0 3
 EndChar
 EndChars
 EndSplineFont

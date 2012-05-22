@@ -890,7 +890,7 @@ Grid
   Named: "ssups_nums" 
 EndSplineSet
 TeXData: 1 0 0 204800 102400 68266 442368 1048576 68266 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 65772 1420
+BeginChars: 65772 1421
 
 StartChar: space
 Encoding: 32 32 0
@@ -9960,7 +9960,6 @@ EndChar
 
 StartChar: uni2010
 Encoding: 8208 8208 411
-AltUni2: 0000ad.ffffffff.0
 Width: 378
 Flags: W
 HStem: 199 62<60.6239 215.957> 210 63<169.043 317.493>
@@ -30790,6 +30789,17 @@ Fore
 Refer: 10 42 N 1 0 0 1 445.885 -402 2
 Refer: 10 42 N 1 0 0 1 -0.115443 -402 2
 Refer: 10 42 N 1 0 0 1 222.885 0 2
+EndChar
+
+StartChar: uni00AD
+Encoding: 173 173 1420
+Width: 378
+VWidth: 0
+HStem: 199 62<60.6239 215.957> 210 63<169.043 317.493>
+VStem: 59 261
+LayerCount: 2
+Fore
+Refer: 411 8208 N 1 0 0 1 0 0 3
 EndChar
 EndChars
 EndSplineFont

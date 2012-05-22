@@ -312,7 +312,7 @@ Grid
  -6.14355 449 l 25
  560 449 l 25
 EndSplineSet
-BeginChars: 65723 945
+BeginChars: 65723 946
 
 StartChar: space
 Encoding: 32 32 0
@@ -5662,7 +5662,6 @@ EndChar
 
 StartChar: uni2010
 Encoding: 8208 8208 197
-AltUni2: 0000ad.ffffffff.0
 Width: 374
 Flags: W
 HStem: 193 74<60.0093 213.957> 204 75<167.043 313.537>
@@ -19434,6 +19433,17 @@ Fore
 Refer: 10 42 N 1 0 0 1 222.885 0 2
 Refer: 10 42 N 1 0 0 1 -0.115443 -402 2
 Refer: 10 42 N 1 0 0 1 445.885 -402 2
+EndChar
+
+StartChar: uni00AD
+Encoding: 173 173 945
+Width: 374
+VWidth: 0
+HStem: 193 74<60.0093 213.957> 204 75<167.043 313.537>
+VStem: 57 261
+LayerCount: 2
+Fore
+Refer: 197 8208 N 1 0 0 1 0 0 3
 EndChar
 EndChars
 EndSplineFont

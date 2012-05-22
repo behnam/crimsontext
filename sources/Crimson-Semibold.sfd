@@ -200,7 +200,7 @@ StemSnapV 16 [55 104 114 130]
 ForceBold 4 true
 ExpansionFactor 4 0.06
 EndPrivate
-BeginChars: 65560 430
+BeginChars: 65560 431
 
 StartChar: space
 Encoding: 32 32 0
@@ -5449,7 +5449,6 @@ EndChar
 
 StartChar: uni2010
 Encoding: 8208 8208 192
-AltUni2: 0000ad.ffffffff.0
 Width: 317
 Flags: W
 HStem: 196 68<33.2148 187.957> 207 69<141.043 288.448>
@@ -9720,6 +9719,17 @@ Fore
 Refer: 10 42 N 1 0 0 1 252.698 0 2
 Refer: 10 42 N 1 0 0 1 29.6979 -402 2
 Refer: 10 42 N 1 0 0 1 475.698 -402 2
+EndChar
+
+StartChar: uni00AD
+Encoding: 173 173 430
+Width: 317
+VWidth: 0
+HStem: 196 68<33.2148 187.957> 207 69<141.043 288.448>
+VStem: 31 261
+LayerCount: 2
+Fore
+Refer: 192 8208 N 1 0 0 1 0 0 3
 EndChar
 EndChars
 EndSplineFont
